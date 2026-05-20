@@ -33,14 +33,21 @@ h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: .95; }
 .stats { align-self: end; color: var(--muted); white-space: nowrap; }
 
 .layout { display: grid; grid-template-columns: 340px 1fr; gap: 1rem; padding: 1rem clamp(1rem, 4vw, 3rem); }
-.sidebar { display: flex; flex-direction: column; gap: 1rem; position: sticky; top: 1rem; height: calc(100vh - 150px); }
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+}
 .panel {
   background: rgba(27,26,23,.88);
   border: 1px solid var(--line);
   border-radius: 22px;
   padding: 1rem;
   box-shadow: var(--shadow);
-  overflow: auto;
+  overflow: visible;
   min-height: 0;
 }
 .panel h2 { margin: 0 0 .8rem; font-size: 1rem; }
@@ -86,7 +93,19 @@ button:hover, .player-actions a:hover, .chip.active { border-color: var(--accent
 audio { width: 100%; }
 .player-actions { display: flex; gap: .45rem; align-items: center; }
 .empty { border: 1px dashed var(--line); color: var(--muted); border-radius: 20px; padding: 2rem; text-align: center; }
+.filters-panel {
+  overflow: visible !important;
+}
+.compact-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+}
 
+.compact-grid button {
+  flex: 1 1 120px;
+  min-height: 44px;
+}
 @media (max-width: 900px) {
   .topbar, .toolbar { flex-direction: column; align-items: flex-start; }
   .layout { grid-template-columns: 1fr; }
