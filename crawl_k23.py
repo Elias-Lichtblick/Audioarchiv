@@ -72,11 +72,35 @@ def fetch(url: str, timeout: int = 30) -> str:
 
 def guess_title(name: str) -> str:
     name = unquote(name)
-    name = re.sub(r"\.(mp3|m4a|ogg|oga|wav|flac|aac)$", "", name, flags=re.I)
-    name = name.replace("_", " ").replace(".", " ")
-    name = re.sub(r"\s+", " ", name).strip()
-    return name
 
+    # Dateiendung entfernen
+    name = re.sub(r"\.(mp3|m4a|ogg|oga|wav|flac|aac)$", "", name, flags=re.I)
+
+    # URL-/Dateizeichen lesbar machen
+    name = name.replace("_", " ")
+    name = name.replace("%20", " ")
+    name = name.replace(".", " ")
+
+    # CamelCase trennen: DerKommendeAufstand -> Der Kommende Aufstand
+    name = re.sub(r"([a-zäöüß])([A-ZÄÖÜ])", r"\1 \2", name)
+
+    # Teil1 -> Teil 1, Vortrag2 -> Vortrag 2
+    name = re.sub(r"([A-Za-zÄÖÜäöüß])(\d)", r"\1 \2", name)
+    name = re.sub(r"(\d)([A-Za-zÄÖÜäöüß])", r"\1 \2", name)
+
+    # Häufige Begriffe schöner absetzen
+    name = re.sub(r"\bDiskussion\b", "– Diskussion", name)
+    name = re.sub(r"\bTeil\s*(\d+)\b", r"Teil \1", name, flags=re.I)
+
+    # Mehrfachstriche/Leerzeichen bereinigen
+    name = re.sub(r"\s*-\s*", " – ", name)
+    name = re.sub(r"\s*–\s*", " – ", name)
+    name = re.sub(r"\s+", " ", name).strip()
+
+    # Falls durch Regel am Anfang ein Strich entsteht
+    name = re.sub(r"^–\s*", "", name)
+
+    return name
 
 def parse_listing_meta(html: str) -> dict[str, tuple[str, str]]:
     """Best effort: extrahiert Größe/Datum aus einfachem Index-of-Text."""
