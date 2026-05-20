@@ -34,7 +34,15 @@ h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: .95; }
 
 .layout { display: grid; grid-template-columns: 340px 1fr; gap: 1rem; padding: 1rem clamp(1rem, 4vw, 3rem); }
 .sidebar { display: flex; flex-direction: column; gap: 1rem; position: sticky; top: 1rem; height: calc(100vh - 150px); }
-.panel { background: rgba(27,26,23,.88); border: 1px solid var(--line); border-radius: 22px; padding: 1rem; box-shadow: var(--shadow); overflow: auto; }
+.panel {
+  background: rgba(27,26,23,.88);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  padding: 1rem;
+  box-shadow: var(--shadow);
+  overflow: auto;
+  min-height: 0;
+}
 .panel h2 { margin: 0 0 .8rem; font-size: 1rem; }
 label { display: block; margin-bottom: .5rem; color: var(--muted); }
 input, select { width: 100%; border: 1px solid var(--line); background: var(--panel-2); color: var(--text); border-radius: 14px; padding: .85rem .95rem; font: inherit; }
