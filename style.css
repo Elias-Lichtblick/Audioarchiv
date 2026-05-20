@@ -1,0 +1,75 @@
+:root {
+  --bg: #11110f;
+  --panel: #1b1a17;
+  --panel-2: #24221e;
+  --text: #f2eee4;
+  --muted: #aaa293;
+  --line: #373229;
+  --accent: #d34b3f;
+  --accent-soft: rgba(211, 75, 63, .18);
+  --shadow: 0 18px 60px rgba(0,0,0,.32);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at top left, #28231d, var(--bg) 34rem);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  padding-bottom: 124px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 2.2rem clamp(1rem, 4vw, 3rem) 1.4rem;
+  border-bottom: 1px solid var(--line);
+}
+.eyebrow { margin: 0 0 .4rem; color: var(--accent); letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; }
+h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: .95; }
+.subtitle { margin: .7rem 0 0; color: var(--muted); max-width: 56rem; }
+.stats { align-self: end; color: var(--muted); white-space: nowrap; }
+
+.layout { display: grid; grid-template-columns: 340px 1fr; gap: 1rem; padding: 1rem clamp(1rem, 4vw, 3rem); }
+.sidebar { display: flex; flex-direction: column; gap: 1rem; position: sticky; top: 1rem; height: calc(100vh - 150px); }
+.panel { background: rgba(27,26,23,.88); border: 1px solid var(--line); border-radius: 22px; padding: 1rem; box-shadow: var(--shadow); overflow: auto; }
+.panel h2 { margin: 0 0 .8rem; font-size: 1rem; }
+label { display: block; margin-bottom: .5rem; color: var(--muted); }
+input, select { width: 100%; border: 1px solid var(--line); background: var(--panel-2); color: var(--text); border-radius: 14px; padding: .85rem .95rem; font: inherit; }
+.compact-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: .5rem; }
+button, .chip, .player-actions a { border: 1px solid var(--line); background: var(--panel-2); color: var(--text); border-radius: 999px; padding: .65rem .75rem; cursor: pointer; text-decoration: none; font: inherit; }
+button:hover, .player-actions a:hover, .chip.active { border-color: var(--accent); background: var(--accent-soft); }
+.folder-tree button { display: block; width: 100%; text-align: left; margin: .18rem 0; border-radius: 10px; padding: .45rem .5rem; color: var(--muted); }
+.folder-tree button.active { color: var(--text); border-color: var(--accent); background: var(--accent-soft); }
+.folder-tree .root { color: var(--text); }
+.folder-tree .count { float: right; opacity: .7; }
+
+.content { min-width: 0; }
+.toolbar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; color: var(--muted); }
+.toolbar select { max-width: 220px; }
+.list { display: grid; gap: .7rem; }
+.card { background: rgba(27,26,23,.86); border: 1px solid var(--line); border-radius: 20px; padding: 1rem; display: grid; grid-template-columns: 1fr auto; gap: .9rem; }
+.card:hover { border-color: #5a4c3d; }
+.card h3 { margin: 0 0 .35rem; font-size: 1.02rem; line-height: 1.25; }
+.meta { color: var(--muted); font-size: .88rem; display: flex; flex-wrap: wrap; gap: .45rem .8rem; }
+.actions { display: flex; gap: .45rem; align-items: center; }
+.progress { margin-top: .7rem; height: 6px; background: #302b24; border-radius: 999px; overflow: hidden; }
+.progress span { display: block; height: 100%; width: 0; background: var(--accent); }
+.star { font-size: 1.3rem; min-width: 42px; }
+
+.player { position: fixed; left: 1rem; right: 1rem; bottom: 1rem; background: rgba(20,19,17,.96); border: 1px solid var(--line); border-radius: 24px; box-shadow: var(--shadow); padding: .85rem; display: grid; grid-template-columns: 1fr minmax(260px, 640px) auto; gap: .9rem; align-items: center; backdrop-filter: blur(10px); }
+.now { display: flex; gap: .7rem; align-items: center; min-width: 0; }
+.now strong, .now small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.now small { color: var(--muted); margin-top: .2rem; }
+audio { width: 100%; }
+.player-actions { display: flex; gap: .45rem; align-items: center; }
+.empty { border: 1px dashed var(--line); color: var(--muted); border-radius: 20px; padding: 2rem; text-align: center; }
+
+@media (max-width: 900px) {
+  .topbar, .toolbar { flex-direction: column; align-items: flex-start; }
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { position: static; height: auto; }
+  .player { grid-template-columns: 1fr; }
+}

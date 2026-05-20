@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>K23 Audioarchiv – Browser</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">audioarchiv.k23.in</p>
+      <h1>K23 Audioarchiv</h1>
+      <p class="subtitle">Durchsuchbare Oberfläche für Referate, Radio-Beiträge und Vortragsmitschnitte.</p>
+    </div>
+    <div class="stats" id="stats">Lade Index …</div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <label for="search">Suche</label>
+        <input id="search" type="search" placeholder="Adorno, Postone, Antisemitismus …" autocomplete="off" />
+      </section>
+
+      <section class="panel compact-grid">
+        <button id="showAll" class="chip active">Alle</button>
+        <button id="showContinue" class="chip">Weiterhören</button>
+        <button id="showFavs" class="chip">Favoriten</button>
+      </section>
+
+      <section class="panel">
+        <h2>Ordner</h2>
+        <div id="folderTree" class="folder-tree"></div>
+      </section>
+    </aside>
+
+    <section class="content">
+      <div class="toolbar">
+        <div id="resultInfo">–</div>
+        <select id="sort">
+          <option value="title">Titel A–Z</option>
+          <option value="date-desc">Datum neu zuerst</option>
+          <option value="date-asc">Datum alt zuerst</option>
+          <option value="size-desc">Größe absteigend</option>
+        </select>
+      </div>
+      <div id="list" class="list"></div>
+    </section>
+  </main>
+
+  <footer class="player" id="playerBar" hidden>
+    <div class="now">
+      <button id="favCurrent" class="star" title="Favorit">☆</button>
+      <div>
+        <strong id="nowTitle">–</strong>
+        <small id="nowPath">–</small>
+      </div>
+    </div>
+    <audio id="audio" controls preload="metadata"></audio>
+    <div class="player-actions">
+      <button id="rewind30">−30s</button>
+      <button id="forward30">+30s</button>
+      <a id="openOriginal" target="_blank" rel="noreferrer">Original</a>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
