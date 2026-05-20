@@ -38,7 +38,19 @@ h1 { margin: 0; font-size: clamp(2rem, 5vw, 4rem); line-height: .95; }
 .panel h2 { margin: 0 0 .8rem; font-size: 1rem; }
 label { display: block; margin-bottom: .5rem; color: var(--muted); }
 input, select { width: 100%; border: 1px solid var(--line); background: var(--panel-2); color: var(--text); border-radius: 14px; padding: .85rem .95rem; font: inherit; }
-.compact-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: .5rem; }
+.compact-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-bottom: .8rem;
+}
+
+.compact-grid button {
+  flex: 1 1 auto;
+  min-width: 105px;
+  min-height: 44px;
+  white-space: nowrap;
+}
 button, .chip, .player-actions a { border: 1px solid var(--line); background: var(--panel-2); color: var(--text); border-radius: 999px; padding: .65rem .75rem; cursor: pointer; text-decoration: none; font: inherit; }
 button:hover, .player-actions a:hover, .chip.active { border-color: var(--accent); background: var(--accent-soft); }
 .folder-tree button { display: block; width: 100%; text-align: left; margin: .18rem 0; border-radius: 10px; padding: .45rem .5rem; color: var(--muted); }
