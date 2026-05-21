@@ -29,9 +29,10 @@
         <button id="showFavs" class="chip">Favoriten</button>
       </section>
 
-      <section class="panel">
-        <h2>Ordner</h2>
-        <div id="folderTree" class="folder-tree"></div>
+      <section class="panel tags-panel">
+        <h2>Tags</h2>
+        <p class="hint">Aus Namen, Ordnern und Dateititeln automatisch erkannt.</p>
+        <div id="tagList" class="tag-list"></div>
       </section>
     </aside>
 
@@ -39,6 +40,7 @@
       <div class="toolbar">
         <div id="resultInfo">–</div>
         <select id="sort">
+          <option value="relevance">Relevanz / Titel</option>
           <option value="title">Titel A–Z</option>
           <option value="date-desc">Datum neu zuerst</option>
           <option value="date-asc">Datum alt zuerst</option>
