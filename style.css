@@ -82,3 +82,6 @@ audio { width: 100%; }
   .sidebar { position: static; height: auto; }
   .player { grid-template-columns: 1fr; }
 }
+.youtube-title {
+  color: #c7bca9;
+}

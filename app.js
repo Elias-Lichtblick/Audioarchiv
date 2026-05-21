@@ -85,7 +85,10 @@ async function loadIndex() {
         date: t.date || "",
         description,
         youtubeUrl: t.youtubeUrl || "",
-        search: normalize(`${title} ${t.name || ""} ${displayPath} ${t.folder || ""} ${tags.join(" ")} ${description}`)
+        youtubeTitle: t.youtubeTitle || "",
+        originalTitle: t.originalTitle || "",
+        youtubeMatchScore: t.youtubeMatchScore || null,
+        search: normalize(`${title} ${t.name || ""} ${displayPath} ${t.folder || ""} ${tags.join(" ")} ${description} ${t.youtubeTitle || ""}`)
       };
     });
     els.stats.textContent = `${tracks.length.toLocaleString("de-DE")} Audio-Dateien`;
@@ -151,6 +154,7 @@ function trackCard(t) {
   const tagHtml = (t.tags || []).slice(0, 8).map(tag => `<span class="tag-pill">${escapeHtml(tag)}</span>`).join("");
   const desc = t.description ? `<p class="description">${escapeHtml(shorten(t.description, 260))}</p>` : "";
   const youtube = t.youtubeUrl ? `<span><a href="${escapeHtml(t.youtubeUrl)}" target="_blank" rel="noreferrer">YouTube</a></span>` : "";
+  const ytTitle = t.youtubeTitle && t.youtubeTitle !== t.title ? `<span class="youtube-title">YouTube: ${escapeHtml(shorten(t.youtubeTitle, 90))}</span>` : "";
   return `<article class="card" data-url="${escapeHtml(t.url)}">
     <div>
       <h3>${escapeHtml(t.title)}</h3>
@@ -160,6 +164,7 @@ function trackCard(t) {
         ${t.size ? `<span>${escapeHtml(t.size)}</span>` : ""}
         ${pos > 20 ? `<span>${resume}</span>` : ""}
         ${youtube}
+        ${ytTitle}
       </div>
       ${tagHtml ? `<div class="tags">${tagHtml}</div>` : ""}
       ${desc}

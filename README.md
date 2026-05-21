@@ -1,11 +1,13 @@
-# K23 Audioarchiv – Browser
+# K23 Audioarchiv – Browser mit Tags und YouTube-Abgleich
 
-Statische Oberfläche für https://audioarchiv.k23.in/ mit Suche, Tags, Player, Favoriten und gespeicherter Hörposition.
+Statische Oberfläche für https://audioarchiv.k23.in/ mit Suche, Tags, Player, Favoriten, gespeicherter Hörposition und optionalem Abgleich mit dem YouTube-Kanal **The Nokturnal Times**.
 
 ## Lokal testen
 
 ```bash
 python3 crawl_k23.py
+python3 -m pip install yt-dlp
+python3 crawl_youtube.py --audio-index audio-index.json --out audio-index.json
 python3 -m http.server 8000
 ```
 
@@ -15,61 +17,62 @@ Dann öffnen:
 http://localhost:8000
 ```
 
+## Was die YouTube-Erweiterung macht
+
+`crawl_youtube.py` lädt öffentlich sichtbare Videometadaten des Kanals:
+
+```text
+https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos
+```
+
+Danach gleicht das Skript YouTube-Titel mit den Audioarchiv-Titeln ab. Bei hinreichend sicherem Treffer ergänzt es:
+
+- YouTube-Link
+- YouTube-Titel
+- Beschreibung aus der Videobeschreibung
+- optional besseren Titel, wenn der Dateiname im Audioarchiv sehr roh/generisch ist
+
+Der Abgleich ist absichtlich vorsichtig. Die Schwelle kannst du ändern:
+
+```bash
+python3 crawl_youtube.py --threshold 0.80
+```
+
+Höher = weniger falsche Treffer, aber auch weniger Matches.
+
+## GitHub Action
+
+Die Datei liegt bereits in:
+
+```text
+.github/workflows/update-index.yml
+```
+
+Sie macht automatisch:
+
+1. K23-Index crawlen
+2. `yt-dlp` installieren
+3. YouTube-Metadaten holen
+4. `audio-index.json` anreichern
+5. `audio-index.json` und `youtube-index.json` committen
+
+Manuell starten:
+
+```text
+GitHub → Actions → Update audio index → Run workflow
+```
+
 ## GitHub Pages
 
-Die Website braucht nur diese Dateien:
+Die Website braucht für GitHub Pages:
 
 - `index.html`
 - `style.css`
 - `app.js`
 - `audio-index.json`
 
-`audio-index.json` wird durch `crawl_k23.py` erzeugt.
-
-## GitHub Action
-
-`.github/workflows/update-index.yml`:
-
-```yaml
-name: Update audio index
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *"
-
-permissions:
-  contents: write
-
-jobs:
-  update-index:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Run crawler
-        run: python crawl_k23.py
-
-      - name: Commit updated audio-index.json
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add audio-index.json
-          git commit -m "Update audio index" || echo "No changes"
-          git push
-```
+`youtube-index.json` ist nur zusätzlich nützlich, falls man später die YouTube-Daten separat ansehen oder debuggen will.
 
 ## Tags erweitern
 
 In `crawl_k23.py` die Liste `TAG_RULES` bearbeiten. Danach GitHub Action erneut starten.
-
-## YouTube-Beschreibungen
-
-Für YouTube-Metadaten braucht man den konkreten Kanal-Link. Technisch wäre der nächste Schritt: per `yt-dlp` Videotitel/Beschreibungen ziehen, fuzzy mit den Archivtiteln abgleichen und als `description` / `youtubeUrl` in `audio-index.json` eintragen.
