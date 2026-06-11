@@ -21,24 +21,23 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install YouTube metadata tool
+      - name: Install YouTube metadata dependency
         run: python -m pip install --upgrade yt-dlp
 
-      - name: Crawl K23 audio index
+      - name: Crawl K23 audio archive
         run: python crawl_k23.py
 
-      - name: Enrich index with The Nokturnal Times metadata
-        run: |
-          python crawl_youtube.py \
-            --channel "https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos" \
-            --audio-index audio-index.json \
-            --out audio-index.json \
-            --youtube-out youtube-index.json
+      - name: Enrich with The Nokturnal Times metadata
+        run: python crawl_youtube.py
+        env:
+          YOUTUBE_CHANNEL_URL: "https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos"
+          MAX_YOUTUBE_VIDEOS: "500"
+          YOUTUBE_MATCH_THRESHOLD: "0.74"
 
-      - name: Commit updated indexes
+      - name: Commit updated index files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add audio-index.json youtube-index.json
-          git commit -m "Update audio and YouTube index" || echo "No changes"
+          git add audio-index.json youtube-index.json crawler-report.json
+          git commit -m "Update audio index" || echo "No changes"
           git push
