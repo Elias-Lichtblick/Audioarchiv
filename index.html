@@ -1,71 +1,77 @@
 <!doctype html>
 <html lang="de">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>K23 Audioarchiv – Browser</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Audioarchiv</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="topbar">
     <div>
-      <p class="eyebrow">audioarchiv.k23.in</p>
-      <h1>K23 Audioarchiv</h1>
-      <p class="subtitle">Referate, Radio-Beiträge und Vortragsmitschnitte.</p>
+      <p class="eyebrow">Index als Archiv</p>
+      <h1>Audioarchiv</h1>
+      <p class="subtitle">Vorträge, Gespräche und Mitschnitte – durchsuchbar nach Titeln, Namen, Themen und Beschreibungen. Fortschritt und Favoriten werden lokal im Browser gespeichert.</p>
     </div>
-    <div class="stats" id="stats">Lade Index …</div>
+    <div id="stats" class="stats">Index wird geladen …</div>
   </header>
 
   <main class="layout">
-    <aside class="sidebar">
-      <section class="panel">
+    <aside class="sidebar" aria-label="Filter">
+      <section class="panel controls-panel">
         <label for="search">Suche</label>
-        <input id="search" type="search" placeholder="Adorno, Postone, Antisemitismus …" autocomplete="off" />
-      </section>
+        <input id="search" type="search" autocomplete="off" placeholder="Adorno, Antisemitismus, Améry …">
 
-      <section class="panel compact-grid">
-        <button id="showAll" class="chip active">Alle</button>
-        <button id="showContinue" class="chip">Weiterhören</button>
-        <button id="showFavs" class="chip">Favoriten</button>
+        <div class="compact-grid" role="group" aria-label="Ansicht wählen">
+          <button id="showAll" type="button" class="active">Alle</button>
+          <button id="showContinue" type="button">Weiterhören</button>
+          <button id="showFavs" type="button">Favoriten</button>
+        </div>
       </section>
 
       <section class="panel tags-panel">
-        <h2>Tags</h2>
-        <p class="hint">Aus Namen, Ordnern und Dateititeln.</p>
-        <div id="tagList" class="tag-list"></div>
+        <div class="panel-heading">
+          <h2>Tags</h2>
+          <button id="clearTag" type="button" class="small-button" hidden>löschen</button>
+        </div>
+        <p class="hint">Aus bereinigten Titeln, Namen, Themen, Ordnern und – sofern vorhanden – YouTube-Beschreibungen erkannt.</p>
+        <div id="tagList" class="tag-list" aria-label="Tags"></div>
       </section>
     </aside>
 
-    <section class="content">
+    <section class="content" aria-live="polite">
       <div class="toolbar">
-        <div id="resultInfo">–</div>
-        <select id="sort">
-          <option value="relevance">Relevanz / Titel</option>
-          <option value="title">Titel A–Z</option>
-          <option value="date-desc">Datum neu zuerst</option>
-          <option value="date-asc">Datum alt zuerst</option>
-          <option value="size-desc">Größe absteigend</option>
-        </select>
+        <div id="resultInfo">Keine Daten geladen.</div>
+        <label class="sort-label">Sortierung
+          <select id="sort">
+            <option value="title">Titel A–Z</option>
+            <option value="date-desc">Datum neu zuerst</option>
+            <option value="date-asc">Datum alt zuerst</option>
+            <option value="size-desc">Große Dateien zuerst</option>
+          </select>
+        </label>
       </div>
       <div id="list" class="list"></div>
     </section>
   </main>
 
-  <footer class="player" id="playerBar" hidden>
+  <section id="playerBar" class="player" hidden aria-label="Audio Player">
     <div class="now">
-      <button id="favCurrent" class="star" title="Favorit">☆</button>
-      <div>
-        <strong id="nowTitle">–</strong>
-        <small id="nowPath">–</small>
+      <div class="marker">▶</div>
+      <div class="now-text">
+        <strong id="nowTitle">Kein Titel</strong>
+        <small id="nowMeta">Archiv</small>
       </div>
     </div>
     <audio id="audio" controls preload="metadata"></audio>
     <div class="player-actions">
-      <button id="rewind30">−30s</button>
-      <button id="forward30">+30s</button>
-      <a id="openOriginal" target="_blank" rel="noreferrer">Original</a>
+      <button id="rewind30" type="button" title="30 Sekunden zurück">−30</button>
+      <button id="forward30" type="button" title="30 Sekunden vor">+30</button>
+      <button id="favCurrent" type="button" title="Favorit">☆</button>
+      <a id="openOriginal" href="#" target="_blank" rel="noreferrer">Datei</a>
     </div>
-  </footer>
+  </section>
 
   <script src="app.js"></script>
 </body>

@@ -1,16 +1,12 @@
 #!/usr/bin/env python3
-"""
-Crawlt https://audioarchiv.k23.in/ rekursiv und erzeugt audio-index.json.
+"""Crawlt https://audioarchiv.k23.in/ und erzeugt audio-index.json.
 
-Die erzeugte JSON-Datei enthält neben URL und Originaldateiname auch:
-- lesbare Titel
-- lesbare Pfadangaben
-- automatisch erkannte Tags aus Titel, Dateiname und Ordnern
-
-Nutzung:
-  python3 crawl_k23.py
-  python3 -m http.server 8000
-  # dann http://localhost:8000 öffnen
+Schwerpunkte:
+- keine rohen Dateinamen in der Website anzeigen
+- Unterstriche/Punkte/CamelCase bereinigen
+- häufige falsche Schreibweisen und fehlende Umlaute korrigieren
+- Datumsangaben aus Titeln entfernen und separat als dateLabel speichern
+- Tags aus Namen, Themen, Ordnern und Titeln erzeugen
 """
 from __future__ import annotations
 
@@ -19,21 +15,19 @@ import json
 import re
 import sys
 import time
-from dataclasses import dataclass, asdict
+from dataclasses import asdict, dataclass
 from html.parser import HTMLParser
 from pathlib import PurePosixPath
-from urllib.parse import urljoin, urlparse, unquote
+from urllib.parse import unquote, urljoin, urlparse
 from urllib.request import Request, urlopen
 
 BASE = "https://audioarchiv.k23.in/"
 AUDIO_EXT = (".mp3", ".m4a", ".ogg", ".oga", ".wav", ".flac", ".aac")
-SKIP_NAMES = {"Parent directory/", "../"}
+SKIP_NAMES = {"Parent Directory", "Parent directory", "../", ".."}
 
-# Diese Liste ist absichtlich kuratiert: nicht jeder Ordnername soll ein Tag werden.
-# Ergänze hier später einfach weitere Begriffe/Namen.
 TAG_RULES: dict[str, list[str]] = {
-    # Theorie / Personen
-    "Adorno": ["adorno", "theodor w adorno", "theodor adorno"],
+    # Personen / Theorie
+    "Adorno": ["adorno", "theodor w adorno", "theodor adorno", "t w adorno"],
     "Horkheimer": ["horkheimer", "max horkheimer"],
     "Marcuse": ["marcuse", "herbert marcuse"],
     "Benjamin": ["benjamin", "walter benjamin"],
@@ -42,55 +36,101 @@ TAG_RULES: dict[str, list[str]] = {
     "Engels": ["engels", "friedrich engels"],
     "Hegel": ["hegel", "g w f hegel"],
     "Nietzsche": ["nietzsche", "friedrich nietzsche"],
-    "Postone": ["postone", "moishe postone"],
-    "Agnoli": ["agnoli", "johannes agnoli"],
+    "Jean Améry": ["jean amery", "jean am ery", "amery", "améry"],
+    "Hannah Arendt": ["hannah arendt", "arendt"],
+    "Günther Anders": ["gunther anders", "guenther anders", "günther anders"],
+    "Moishe Postone": ["moishe postone", "postone"],
+    "Leo Löwenthal": ["leo lowenthal", "leo loewenthal", "löwenthal", "loewenthal"],
+    "Franz Neumann": ["franz neumann"],
+    "Johannes Agnoli": ["johannes agnoli", "agnoli"],
     "Roger Behrens": ["roger behrens", "behrens"],
     "Thomas Ebermann": ["thomas ebermann", "ebermann"],
     "Peter Weiss": ["peter weiss"],
     "Paul Celan": ["paul celan", "celan"],
+    "Gisela Elsner": ["gisela elsner", "elsner"],
+    "Klaus Theweleit": ["klaus theweleit", "theweleit"],
 
     # Themen
-    "Kritische Theorie": ["kritische theorie", "frankfurter schule", "negative dialektik"],
+    "Kritische Theorie": ["kritische theorie", "frankfurter schule", "negative dialektik", "dialektik der aufklaerung", "dialektik der aufklärung"],
     "Dialektik": ["dialektik", "dialektisch"],
     "Ideologiekritik": ["ideologiekritik", "ideologie", "falsches bewusstsein"],
     "Kulturindustrie": ["kulturindustrie", "kultur industrie"],
     "Kapitalismus": ["kapitalismus", "kapital", "warenform", "wertkritik", "wert-abspaltung", "arbeitskritik", "arbeitskritische"],
     "Antisemitismus": ["antisemitismus", "antisemitisch", "antisemitische", "judenhass", "israelbezogener antisemitismus"],
     "Rassismus": ["rassismus", "rassistisch", "rassistische", "postkolonial", "kolonialismus"],
-    "Nationalsozialismus": ["nationalsozialismus", "nationalsozialist", "nazismus", "ns", "shoah", "auschwitz"],
+    "Nationalsozialismus": ["nationalsozialismus", "nationalsozialist", "nazismus", "shoah", "auschwitz", "ns-vergangenheit"],
     "Faschismus": ["faschismus", "faschistisch", "faschistische"],
-    "Israel": ["israel", "zionismus", "zionistisch", "nahost", "palästina", "palaestina"],
+    "Israel": ["israel", "zionismus", "zionistisch", "nahost", "palaestina", "palästina"],
     "Islamismus": ["islamismus", "islamistisch", "jihad", "dschihad"],
     "Psychoanalyse": ["psychoanalyse", "psychoanalytisch", "unbewusst", "trieb", "verdrängung", "verdraengung"],
-    "Sexualität": ["sexualität", "sexualitaet", "sexuelle", "pornografie", "prostitution", "begehren"],
+    "Sexualität": ["sexualitaet", "sexualität", "sexuelle", "pornografie", "prostitution", "begehren"],
     "Feminismus": ["feminismus", "feministisch", "patriarchat", "geschlecht", "gender"],
     "Anarchismus": ["anarchismus", "anarchie", "kommende aufstand", "tiqqun"],
-    "Radio": ["radio", "rundfunk", "feature", "freie radios"],
     "Literatur": ["literatur", "roman", "lesung", "celan", "peter weiss"],
+    "Radio": ["radio", "rundfunk", "feature", "freie radios"],
 }
 
 ACRONYMS = {
     "ag": "AG", "br": "BR", "dlf": "DLF", "ndr": "NDR", "swr": "SWR", "wdr": "WDR",
     "hr": "HR", "rbb": "RBB", "frn": "FRN", "xxi": "XXI", "ns": "NS", "usa": "USA",
-    "eu": "EU", "raf": "RAF", "ddr": "DDR", "brd": "BRD", "mp3": "MP3",
+    "eu": "EU", "raf": "RAF", "ddr": "DDR", "brd": "BRD", "mp3": "MP3", "fm": "FM",
 }
 
-WORD_REPLACEMENTS = [
-    (r"\bbegruessung\b", "Begrüßung"),
-    (r"\babschliessend\b", "abschließend"),
-    (r"\babschied\b", "Abschied"),
+# Regex-Korrekturen werden nach der groben Bereinigung angewendet.
+TEXT_FIXES: list[tuple[str, str]] = [
+    (r"\bJean\s+Am\s+Ery\b", "Jean Améry"),
+    (r"\bJean\s+Amery\b", "Jean Améry"),
+    (r"\bAmery\b", "Améry"),
+    (r"\bGuenther\s+Anders\b", "Günther Anders"),
+    (r"\bGunther\s+Anders\b", "Günther Anders"),
+    (r"\bG\.W\.F\.\s*Hegel\b", "G. W. F. Hegel"),
+    (r"\bTheodor\s+W\s+Adorno\b", "Theodor W. Adorno"),
+    (r"\bMax\s+Horkheimer\b", "Max Horkheimer"),
+    (r"\bWalter\s+Benjamin\b", "Walter Benjamin"),
+    (r"\bLeo\s+Loewenthal\b", "Leo Löwenthal"),
+    (r"\bLeo\s+Lowenthal\b", "Leo Löwenthal"),
+    (r"\bMoishe\s+Postone\b", "Moishe Postone"),
+    (r"\bPalaestina\b", "Palästina"),
+    (r"\bZionismus\b", "Zionismus"),
+    (r"\bAntisemitismus\b", "Antisemitismus"),
+    (r"\bRassismus\b", "Rassismus"),
+    (r"\bKritische\s+Theorie\b", "Kritische Theorie"),
+    (r"\bNegative\s+Dialektik\b", "Negative Dialektik"),
+    (r"\bDialektik\s+der\s+Aufklaerung\b", "Dialektik der Aufklärung"),
+    (r"\bAufklaerung\b", "Aufklärung"),
+    (r"\bBegruessung\b", "Begrüßung"),
+    (r"\bGrusswort\b", "Grußwort"),
+    (r"\bGespraech\b", "Gespräch"),
+    (r"\bGespraeche\b", "Gespräche"),
+    (r"\bUeber\b", "Über"),
     (r"\bueber\b", "über"),
+    (r"\bFuer\b", "Für"),
     (r"\bfuer\b", "für"),
-    (r"\bgegenwaert\b", "Gegenwart"),
-    (r"\bgegenwaertigkeit\b", "Gegenwärtigkeit"),
-    (r"\baktualitaet\b", "Aktualität"),
-    (r"\btraditionalitaet\b", "Traditionalität"),
-    (r"\bgeschichte\b", "Geschichte"),
-    (r"\bkommende\b", "kommende"),
+    (r"\bGegenwaertigkeit\b", "Gegenwärtigkeit"),
+    (r"\bGegenwaertige\b", "Gegenwärtige"),
+    (r"\bGegenwart\b", "Gegenwart"),
+    (r"\bAktualitaet\b", "Aktualität"),
+    (r"\bTraditionalitaet\b", "Traditionalität"),
+    (r"\bOekonomie\b", "Ökonomie"),
+    (r"\boekonomie\b", "Ökonomie"),
+    (r"\bAesthetik\b", "Ästhetik"),
+    (r"\baesthetik\b", "Ästhetik"),
+    (r"\bSexualitaet\b", "Sexualität"),
+    (r"\bOeffentlichkeit\b", "Öffentlichkeit"),
+    (r"\boeffentlichkeit\b", "Öffentlichkeit"),
+    (r"\bNationalsozialismus\b", "Nationalsozialismus"),
+    (r"\bFaschismus\b", "Faschismus"),
+    (r"\bKapitalismus\b", "Kapitalismus"),
+]
+
+DATE_PATTERNS = [
+    re.compile(r"(?P<all>\b(?P<y>19\d{2}|20\d{2})[-_. ](?P<m>0?[1-9]|1[0-2])[-_. ](?P<d>0?[1-9]|[12]\d|3[01])\b)"),
+    re.compile(r"(?P<all>\b(?P<d>0?[1-9]|[12]\d|3[01])[-_. ](?P<m>0?[1-9]|1[0-2])[-_. ](?P<y>19\d{2}|20\d{2})\b)"),
 ]
 
 @dataclass
 class Track:
+    id: str
     title: str
     name: str
     url: str
@@ -101,9 +141,13 @@ class Track:
     tags: list[str]
     size: str = ""
     sizeBytes: int = 0
-    date: str = ""
+    dateLabel: str = ""
+    dateIso: str = ""
+    sortDate: str = ""
     description: str = ""
     youtubeUrl: str = ""
+    youtubeTitle: str = ""
+    matchScore: float = 0.0
 
 class IndexParser(HTMLParser):
     def __init__(self) -> None:
@@ -133,64 +177,79 @@ class IndexParser(HTMLParser):
 
 
 def fetch(url: str, timeout: int = 30) -> str:
-    req = Request(url, headers={"User-Agent": "k23-audio-browser-crawler/1.1"})
+    req = Request(url, headers={"User-Agent": "k23-audio-browser-crawler/2.0"})
     with urlopen(req, timeout=timeout) as r:
         charset = r.headers.get_content_charset() or "utf-8"
         return r.read().decode(charset, errors="replace")
-
-
-def normalize(text: str) -> str:
-    text = unquote(text).lower()
-    text = text.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
-    text = re.sub(r"[^a-z0-9]+", " ", text)
-    return re.sub(r"\s+", " ", text).strip()
 
 
 def strip_audio_ext(name: str) -> str:
     return re.sub(r"\.(mp3|m4a|ogg|oga|wav|flac|aac)$", "", name, flags=re.I)
 
 
-def fix_acronyms(text: str) -> str:
-    def repl(m: re.Match[str]) -> str:
+def normalize(value: str) -> str:
+    s = unquote(str(value)).lower()
+    s = s.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def apply_text_fixes(text: str) -> str:
+    for pattern, replacement in TEXT_FIXES:
+        text = re.sub(pattern, replacement, text, flags=re.I)
+    def acronym(m: re.Match[str]) -> str:
         word = m.group(0)
         return ACRONYMS.get(word.lower(), word)
-    return re.sub(r"\b[a-zA-Z]{2,4}\b", repl, text)
+    text = re.sub(r"\b[a-zA-Z]{2,4}\b", acronym, text)
+    return text
 
 
-def humanize_text(text: str, remove_leading_number: bool = False) -> str:
-    text = unquote(text)
+def extract_date(text: str) -> tuple[str, str, str]:
+    """Return text_without_date, date_label, date_iso."""
+    for pattern in DATE_PATTERNS:
+        m = pattern.search(text)
+        if not m:
+            continue
+        y, mo, d = int(m.group("y")), int(m.group("m")), int(m.group("d"))
+        date_label = f"{d:02d}.{mo:02d}.{y:04d}"
+        date_iso = f"{y:04d}-{mo:02d}-{d:02d}"
+        before = text[:m.start()]
+        after = text[m.end():]
+        cleaned = (before + " " + after).strip()
+        cleaned = re.sub(r"\b(am|vom|v\.?)\s*$", "", cleaned, flags=re.I).strip()
+        cleaned = re.sub(r"\s*[()\[\]_-]+\s*", " ", cleaned).strip()
+        return cleaned, date_label, date_iso
+    return text, "", ""
+
+
+def humanize_text(text: str, *, remove_leading_number: bool = False) -> str:
+    text = unquote(str(text))
     text = strip_audio_ext(text)
     text = text.replace("%20", " ")
+    text = text.replace("+", " ")
     text = re.sub(r"[_]+", " ", text)
     text = re.sub(r"[.]+", " ", text)
     text = re.sub(r"\s*[-–—]+\s*", " – ", text)
-
-    # CamelCase / angeklebte Wörter auftrennen.
     text = re.sub(r"([a-zäöüß])([A-ZÄÖÜ])", r"\1 \2", text)
     text = re.sub(r"([A-Za-zÄÖÜäöüß])([0-9])", r"\1 \2", text)
     text = re.sub(r"([0-9])([A-Za-zÄÖÜäöüß])", r"\1 \2", text)
-
     if remove_leading_number:
         text = re.sub(r"^\s*\d{1,3}\s+", "", text)
-
-    # Häufige angehängte Angaben absetzen.
-    text = re.sub(r"^(.+?)\s+(Diskussion|Gespräch|Gespraech|Interview|Vortrag|Lesung|Workshop|Mitschnitt)$", r"\1 – \2", text, flags=re.I)
+    text = re.sub(r"^(.+?)\s+(Diskussion|Gespraech|Gespräch|Interview|Vortrag|Lesung|Workshop|Mitschnitt)$", r"\1 – \2", text, flags=re.I)
     text = re.sub(r"\bTeil\s*(\d+)\b", r"Teil \1", text, flags=re.I)
-
-    for pattern, replacement in WORD_REPLACEMENTS:
-        text = re.sub(pattern, replacement, text, flags=re.I)
-
     text = re.sub(r"\s+", " ", text).strip(" –\t\n")
-    text = fix_acronyms(text)
-
-    # Wenn alles kleingeschrieben war: wenigstens den Anfang anheben.
+    text = apply_text_fixes(text)
+    text = re.sub(r"\s+", " ", text).strip(" –\t\n")
     if text and text[0].islower():
         text = text[0].upper() + text[1:]
     return text or "Ohne Titel"
 
 
-def guess_title(name: str) -> str:
-    return humanize_text(name, remove_leading_number=True)
+def title_from_filename(name: str) -> tuple[str, str, str]:
+    rough = humanize_text(name, remove_leading_number=True)
+    without_date, date_label, date_iso = extract_date(rough)
+    title = humanize_text(without_date, remove_leading_number=True)
+    return title, date_label, date_iso
 
 
 def pretty_folder(folder: str) -> str:
@@ -201,125 +260,117 @@ def pretty_folder(folder: str) -> str:
 
 
 def detect_person_tag(title: str) -> str | None:
-    # Beispiele: "Thomas Ebermann – Die Pogrome ..." oder "Interview mit Roger Behrens".
-    m = re.match(r"^([A-ZÄÖÜ][\wÄÖÜäöüß-]+(?:\s+[A-ZÄÖÜ][\wÄÖÜäöüß-]+){1,2})\s+–\s+", title)
+    m = re.match(r"^([A-ZÄÖÜ][\wÄÖÜäöüßéÉèÈ-]+(?:\s+[A-ZÄÖÜ][\wÄÖÜäöüßéÉèÈ.-]+){1,3})\s+–\s+", title)
     if m:
-        candidate = m.group(1).strip()
-        if len(candidate) <= 40 and not candidate.lower().startswith(("der ", "die ", "das ", "eine ", "ein ")):
+        candidate = apply_text_fixes(m.group(1).strip())
+        if len(candidate) <= 48 and not candidate.lower().startswith(("der ", "die ", "das ", "eine ", "ein ")):
             return candidate
-    m = re.search(r"\bmit\s+([A-ZÄÖÜ][\wÄÖÜäöüß-]+\s+[A-ZÄÖÜ][\wÄÖÜäöüß-]+)\b", title)
+    m = re.search(r"\bmit\s+([A-ZÄÖÜ][\wÄÖÜäöüßéÉèÈ.-]+\s+[A-ZÄÖÜ][\wÄÖÜäöüßéÉèÈ.-]+)\b", title)
     if m:
-        return m.group(1).strip()
+        return apply_text_fixes(m.group(1).strip())
     return None
 
 
-def detect_tags(title: str, name: str, folder: str) -> list[str]:
-    haystack = normalize(" ".join([title, name, folder, pretty_folder(folder)]))
+def detect_tags(*texts: str) -> list[str]:
+    haystack = normalize(" ".join(t for t in texts if t))
     tags: list[str] = []
     for tag, aliases in TAG_RULES.items():
         for alias in aliases:
-            a = normalize(alias)
-            if a and re.search(rf"(^|\s){re.escape(a)}($|\s)", haystack):
+            if normalize(alias) in haystack:
                 tags.append(tag)
                 break
-
-    person = detect_person_tag(title)
+    person = detect_person_tag(texts[0] if texts else "")
     if person and person not in tags:
-        tags.append(person)
-
-    source = folder.split("/", 1)[0] if folder else "Archiv"
-    if source in ("Radio", "Referate") and source not in tags:
-        tags.append(source)
-
-    return sorted(tags, key=lambda x: normalize(x))
+        tags.insert(0, person)
+    return sorted(set(tags), key=lambda t: (t.lower() not in {"adorno", "kritische theorie"}, t.lower()))
 
 
-def size_to_bytes(size: str) -> int:
-    m = re.match(r"^([0-9.]+)\s*([KMGT]?i?B|B)$", size.strip(), re.I)
-    if not m:
-        return 0
-    n = float(m.group(1))
-    unit = m.group(2).lower()
-    mult = {"b": 1, "kb": 1000, "kib": 1024, "mb": 1000**2, "mib": 1024**2,
-            "gb": 1000**3, "gib": 1024**3, "tb": 1000**4, "tib": 1024**4}.get(unit, 1)
-    return int(n * mult)
+def is_audio_url(url: str) -> bool:
+    path = urlparse(url).path.lower()
+    return path.endswith(AUDIO_EXT)
 
 
-def folder_from_url(file_url: str, base: str) -> str:
-    rel = urlparse(file_url).path.removeprefix(urlparse(base).path)
-    parent = str(PurePosixPath(unquote(rel)).parent)
-    return "" if parent == "." else parent
+def should_skip(href: str, text: str) -> bool:
+    label = unquote(text or href).strip().strip("/")
+    if label in SKIP_NAMES or href.startswith("?") or href.startswith("#"):
+        return True
+    return False
 
 
-def crawl(start_url: str, delay: float = 0.05, max_pages: int = 10000) -> list[Track]:
+def stable_id(url: str) -> str:
+    import hashlib
+    return hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
+
+
+def crawl(base: str, max_pages: int = 1200, delay: float = 0.05) -> list[Track]:
+    base = base.rstrip("/") + "/"
     seen_pages: set[str] = set()
-    queue = [start_url]
-    tracks: list[Track] = []
+    queue = [base]
+    tracks: dict[str, Track] = {}
 
-    while queue:
-        url = queue.pop(0)
-        if url in seen_pages:
+    while queue and len(seen_pages) < max_pages:
+        page = queue.pop(0)
+        if page in seen_pages:
             continue
-        if len(seen_pages) >= max_pages:
-            print(f"Abbruch: max_pages={max_pages} erreicht", file=sys.stderr)
-            break
-        seen_pages.add(url)
-        print(f"Crawl: {url}", file=sys.stderr)
+        seen_pages.add(page)
+        print(f"[crawl] {page}", file=sys.stderr)
         try:
-            html = fetch(url)
-        except Exception as e:
-            print(f"WARN: konnte {url} nicht laden: {e}", file=sys.stderr)
+            html = fetch(page)
+        except Exception as exc:
+            print(f"[warn] {page}: {exc}", file=sys.stderr)
             continue
-
         parser = IndexParser()
         parser.feed(html)
         for href, text in parser.links:
-            if text in SKIP_NAMES or href in ("../", "/"):
+            if should_skip(href, text):
                 continue
-            abs_url = urljoin(url, href)
-            parsed = urlparse(abs_url)
-            if not parsed.scheme.startswith("http"):
+            absolute = urljoin(page, href)
+            if not absolute.startswith(base):
                 continue
-            if not abs_url.startswith(start_url):
-                continue
-            name = unquote(parsed.path.rstrip("/").split("/")[-1])
-            if href.endswith("/"):
-                if abs_url not in seen_pages:
-                    queue.append(abs_url)
-            elif name.lower().endswith(AUDIO_EXT):
-                folder = folder_from_url(abs_url, start_url)
-                title = guess_title(name)
+            parsed = urlparse(absolute)
+            if is_audio_url(absolute):
+                rel = parsed.path[len(urlparse(base).path):].lstrip("/")
+                path = PurePosixPath(unquote(rel))
+                name = path.name
+                folder = str(path.parent) if str(path.parent) != "." else ""
+                title, date_label, date_iso = title_from_filename(name)
                 display_path = pretty_folder(folder)
-                source = folder.split("/", 1)[0] if folder else "Archiv"
-                tracks.append(Track(
+                tags = detect_tags(title, name, folder, display_path)
+                tracks[absolute] = Track(
+                    id=stable_id(absolute),
                     title=title,
                     name=name,
-                    url=abs_url,
+                    url=absolute,
                     folder=folder,
-                    path=f"{folder}/{name}" if folder else name,
+                    path=unquote(rel),
                     displayPath=display_path,
-                    source=source,
-                    tags=detect_tags(title, name, folder),
-                ))
-        time.sleep(delay)
-
-    return tracks
+                    source="K23 Audioarchiv",
+                    tags=tags,
+                    dateLabel=date_label,
+                    dateIso=date_iso,
+                    sortDate=date_iso,
+                )
+            elif href.endswith("/"):
+                # Verzeichnisse rekursiv aufnehmen.
+                if absolute not in seen_pages and absolute not in queue:
+                    queue.append(absolute)
+        if delay:
+            time.sleep(delay)
+    return sorted(tracks.values(), key=lambda t: (t.displayPath.lower(), t.title.lower()))
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base", default=BASE, help="Start-URL, Standard: https://audioarchiv.k23.in/")
-    ap.add_argument("--out", default="audio-index.json", help="Ausgabedatei")
-    ap.add_argument("--delay", type=float, default=0.05, help="Pause zwischen Requests")
-    ap.add_argument("--max-pages", type=int, default=10000)
+    ap.add_argument("--base", default=BASE)
+    ap.add_argument("--out", default="audio-index.json")
+    ap.add_argument("--max-pages", type=int, default=1200)
+    ap.add_argument("--delay", type=float, default=0.05)
     args = ap.parse_args()
-
-    base = args.base if args.base.endswith("/") else args.base + "/"
-    tracks = crawl(base, delay=args.delay, max_pages=args.max_pages)
-    tracks.sort(key=lambda t: (t.title.lower(), t.displayPath.lower()))
+    tracks = crawl(args.base, max_pages=args.max_pages, delay=args.delay)
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump([asdict(t) for t in tracks], f, ensure_ascii=False, indent=2)
-    print(f"Fertig: {len(tracks)} Audio-Dateien in {args.out}")
+    print(f"Wrote {len(tracks)} tracks to {args.out}", file=sys.stderr)
+
 
 if __name__ == "__main__":
     main()

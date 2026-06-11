@@ -1,241 +1,205 @@
 #!/usr/bin/env python3
-"""
-Lädt öffentliche YouTube-Metadaten des Kanals „The Nokturnal Times" per yt-dlp,
-gleicht sie vorsichtig mit audio-index.json ab und ergänzt passende Einträge um:
-- youtubeUrl
-- youtubeTitle
-- description
-- youtubeMatchScore
+"""Ergänzt audio-index.json mit YouTube-Titeln und Beschreibungen.
 
-Nutzung lokal:
-  python3 -m pip install yt-dlp
-  python3 crawl_k23.py
-  python3 crawl_youtube.py --audio-index audio-index.json --out audio-index.json
+Standardkanal: The Nokturnal Times
+https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g
+
+Benötigt yt-dlp. Im GitHub-Workflow wird es automatisch installiert.
+Wenn YouTube temporär blockiert oder yt-dlp fehlt, bricht das Skript nicht hart ab,
+sondern lässt den Audioindex verwendbar.
 """
 from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
-import subprocess
 import sys
-from dataclasses import dataclass, asdict
+from dataclasses import asdict, dataclass
 from difflib import SequenceMatcher
-from pathlib import Path
 from typing import Any
 
-DEFAULT_CHANNEL = "https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos"
+from crawl_k23 import apply_text_fixes, detect_tags, extract_date, humanize_text, normalize
 
-STOPWORDS = {
-    "der", "die", "das", "den", "dem", "des", "ein", "eine", "einer", "eines", "und", "oder",
-    "zur", "zum", "von", "vom", "mit", "im", "in", "am", "an", "auf", "fuer", "für", "ueber", "über",
-    "the", "a", "an", "of", "and", "or", "to", "for", "with",
-}
-
-GENERIC_TITLES = {
-    "begruessung", "begrussung", "begrüßung", "diskussion", "abschlussdiskussion",
-    "einleitung", "intro", "teil", "vortrag", "interview", "gespraech", "gespräch",
-}
+CHANNEL_URL = "https://www.youtube.com/channel/UCgj0uCW9VR8p3PUJ91oDz9g/videos"
 
 @dataclass
 class Video:
     title: str
     url: str
-    description: str = ""
-    uploadDate: str = ""
-    duration: int = 0
-    channel: str = ""
+    description: str
+    upload_date: str = ""
 
 
-def normalize(text: str) -> str:
-    text = str(text or "").lower()
-    text = text.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
-    text = re.sub(r"https?://\S+", " ", text)
-    text = re.sub(r"\b(the\s+)?nokturnal\s+times\b", " ", text)
-    text = re.sub(r"\b(audioarchiv|k23|radio|referate)\b", " ", text)
-    text = re.sub(r"\.(mp3|m4a|ogg|oga|wav|flac|aac)\b", " ", text)
-    text = re.sub(r"[_./|]+", " ", text)
-    text = re.sub(r"[^a-z0-9]+", " ", text)
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def tokens(text: str) -> set[str]:
-    return {t for t in normalize(text).split() if len(t) > 2 and t not in STOPWORDS}
-
-
-def score_titles(a: str, b: str) -> float:
-    na, nb = normalize(a), normalize(b)
-    if not na or not nb:
-        return 0.0
-    ratio = SequenceMatcher(None, na, nb).ratio()
-    ta, tb = tokens(na), tokens(nb)
-    if not ta or not tb:
-        return ratio
-    overlap = len(ta & tb) / max(1, min(len(ta), len(tb)))
-    jaccard = len(ta & tb) / max(1, len(ta | tb))
-    return max(ratio, 0.55 * ratio + 0.35 * overlap + 0.10 * jaccard)
-
-
-def clean_description(description: str, limit: int = 1800) -> str:
-    description = str(description or "")
-    description = description.replace("\r\n", "\n").replace("\r", "\n")
-    # Überlange Link-Sammlungen und Hashtag-Blöcke unten stören in der Kartenansicht oft mehr, als sie helfen.
-    lines = []
-    for line in description.split("\n"):
-        stripped = line.strip()
-        if not stripped:
-            if lines and lines[-1] != "":
-                lines.append("")
-            continue
-        if stripped.startswith("#") and len(stripped.split()) <= 8:
-            continue
-        lines.append(stripped)
-    out = "\n".join(lines).strip()
-    out = re.sub(r"\n{3,}", "\n\n", out)
-    if len(out) > limit:
-        out = out[:limit].rsplit(" ", 1)[0].strip() + "…"
-    return out
-
-
-def run_ytdlp(channel_url: str, max_videos: int = 0) -> list[Video]:
-    cmd = [
-        "yt-dlp",
-        "--ignore-errors",
-        "--no-warnings",
-        "--skip-download",
-        "--dump-json",
-    ]
-    if max_videos and max_videos > 0:
-        cmd += ["--playlist-end", str(max_videos)]
-    cmd.append(channel_url)
-
-    print("YouTube: lade Metadaten mit yt-dlp …", file=sys.stderr)
+def import_ytdlp():
     try:
-        proc = subprocess.run(cmd, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=False)
-    except FileNotFoundError:
-        print("WARN: yt-dlp ist nicht installiert. Überspringe YouTube-Abgleich.", file=sys.stderr)
+        import yt_dlp  # type: ignore
+        return yt_dlp
+    except Exception as exc:
+        print(f"[warn] yt-dlp nicht verfügbar: {exc}", file=sys.stderr)
+        return None
+
+
+def clean_youtube_title(title: str) -> tuple[str, str, str]:
+    title = humanize_text(title, remove_leading_number=True)
+    title, date_label, date_iso = extract_date(title)
+    title = apply_text_fixes(title)
+    title = re.sub(r"\s+", " ", title).strip(" –")
+    return title or "Ohne Titel", date_label, date_iso
+
+
+def get_video_url(entry: dict[str, Any]) -> str:
+    if entry.get("webpage_url"):
+        return str(entry["webpage_url"])
+    if entry.get("url") and str(entry["url"]).startswith("http"):
+        return str(entry["url"])
+    vid = entry.get("id") or entry.get("url")
+    return f"https://www.youtube.com/watch?v={vid}" if vid else ""
+
+
+def fetch_youtube(channel_url: str, max_videos: int) -> list[Video]:
+    yt_dlp = import_ytdlp()
+    if yt_dlp is None:
         return []
 
-    if proc.returncode not in (0, 1):
-        print(proc.stderr[-2000:], file=sys.stderr)
-        print(f"WARN: yt-dlp endete mit Code {proc.returncode}. Überspringe YouTube-Abgleich.", file=sys.stderr)
-        return []
+    flat_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "extract_flat": True,
+        "ignoreerrors": True,
+        "playlistend": max_videos,
+        "socket_timeout": 30,
+    }
+    full_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "ignoreerrors": True,
+        "skip_download": True,
+        "socket_timeout": 30,
+    }
 
     videos: list[Video] = []
-    for line in proc.stdout.splitlines():
-        line = line.strip()
-        if not line.startswith("{"):
-            continue
-        try:
-            item = json.loads(line)
-        except json.JSONDecodeError:
-            continue
-        title = item.get("title") or ""
-        video_id = item.get("id") or ""
-        webpage_url = item.get("webpage_url") or item.get("url") or ""
-        if not title or not video_id:
-            continue
-        if webpage_url and webpage_url.startswith("http"):
-            url = webpage_url
-        else:
-            url = f"https://www.youtube.com/watch?v={video_id}"
-        videos.append(Video(
-            title=title.strip(),
-            url=url,
-            description=clean_description(item.get("description") or ""),
-            uploadDate=item.get("upload_date") or "",
-            duration=int(item.get("duration") or 0),
-            channel=item.get("channel") or item.get("uploader") or "The Nokturnal Times",
-        ))
-    print(f"YouTube: {len(videos)} Videos gelesen.", file=sys.stderr)
+    with yt_dlp.YoutubeDL(flat_opts) as ydl:
+        info = ydl.extract_info(channel_url, download=False)
+    entries = (info or {}).get("entries") or []
+    entries = [e for e in entries if e][:max_videos]
+    print(f"[youtube] {len(entries)} Einträge gefunden", file=sys.stderr)
+
+    with yt_dlp.YoutubeDL(full_opts) as ydl:
+        for i, entry in enumerate(entries, 1):
+            url = get_video_url(entry)
+            if not url:
+                continue
+            try:
+                info = ydl.extract_info(url, download=False) or entry
+            except Exception as exc:
+                print(f"[youtube warn] {url}: {exc}", file=sys.stderr)
+                info = entry
+            raw_title = info.get("title") or entry.get("title") or ""
+            title, _, _ = clean_youtube_title(raw_title)
+            description = info.get("description") or entry.get("description") or ""
+            webpage_url = info.get("webpage_url") or url
+            upload_date = info.get("upload_date") or entry.get("upload_date") or ""
+            videos.append(Video(title=title, url=webpage_url, description=description, upload_date=str(upload_date)))
+            print(f"[youtube] {i}/{len(entries)} {title}", file=sys.stderr)
     return videos
 
 
-def should_replace_title(track_title: str, youtube_title: str, match_score: float) -> bool:
-    nt = normalize(track_title)
-    ny = normalize(youtube_title)
-    if match_score < 0.80:
-        return False
-    if len(ny) >= len(nt) + 12:
-        return True
-    tt = tokens(track_title)
-    if tt and tt <= GENERIC_TITLES and len(ny) > len(nt):
-        return True
-    if re.match(r"^(\d+\s+)?(begruessung|begrüßung|diskussion|einleitung|intro)\b", nt):
-        return True
-    return False
+def token_set(text: str) -> set[str]:
+    stop = {"der", "die", "das", "und", "oder", "ein", "eine", "einer", "eines", "zu", "zur", "zum", "von", "mit", "im", "im", "am", "an", "auf", "ueber", "uber", "teil", "vortrag", "diskussion", "gespraech", "gesprach"}
+    return {w for w in normalize(text).split() if len(w) > 2 and w not in stop}
 
 
-def merge(audio_index: list[dict[str, Any]], videos: list[Video], threshold: float = 0.76) -> tuple[list[dict[str, Any]], int]:
-    if not videos:
-        return audio_index, 0
+def match_score(audio_title: str, video_title: str) -> float:
+    a = normalize(audio_title)
+    b = normalize(video_title)
+    if not a or not b:
+        return 0.0
+    ratio = SequenceMatcher(None, a, b).ratio()
+    ta, tb = token_set(a), token_set(b)
+    overlap = len(ta & tb) / max(1, min(len(ta), len(tb)))
+    containment = 0.0
+    if len(a) > 12 and len(b) > 12 and (a in b or b in a):
+        containment = 0.93
+    return max(ratio, overlap * 0.92, containment)
 
-    # Für Geschwindigkeit: erst grob nach Token-Überlappung filtern, dann genau scoren.
-    video_tokens = [(v, tokens(v.title)) for v in videos]
-    matched = 0
 
-    for track in audio_index:
-        title = str(track.get("title") or track.get("name") or "")
-        name = str(track.get("name") or "")
-        folder = str(track.get("displayPath") or track.get("folder") or "")
-        track_text = f"{title} {name} {folder}"
-        tt = tokens(track_text)
-
+def enrich_tracks(tracks: list[dict[str, Any]], videos: list[Video], threshold: float) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    enriched = 0
+    title_replaced = 0
+    report_matches: list[dict[str, Any]] = []
+    for track in tracks:
+        title = track.get("title") or track.get("name") or ""
         best_video: Video | None = None
         best_score = 0.0
-        for video, vt in video_tokens:
-            if tt and vt and not (tt & vt):
-                continue
-            s1 = score_titles(title, video.title)
-            s2 = score_titles(f"{title} {folder}", video.title)
-            s3 = score_titles(name, video.title)
-            s = max(s1, s2, s3)
-            if s > best_score:
-                best_score = s
-                best_video = video
-
+        for video in videos:
+            score = match_score(title, video.title)
+            if score > best_score:
+                best_video, best_score = video, score
         if best_video and best_score >= threshold:
+            enriched += 1
             track["youtubeUrl"] = best_video.url
             track["youtubeTitle"] = best_video.title
-            track["youtubeMatchScore"] = round(best_score, 3)
-            if best_video.description and not track.get("description"):
-                track["description"] = best_video.description
-            if best_video.uploadDate and not track.get("youtubeUploadDate"):
-                track["youtubeUploadDate"] = best_video.uploadDate
-            if should_replace_title(title, best_video.title, best_score):
-                track["originalTitle"] = title
-                track["title"] = best_video.title
-            # YouTube-Titel/Beschreibung auch in Tagsuche indirekt nutzbar machen, indem app.js sie einliest.
-            matched += 1
+            track["description"] = best_video.description.strip()
+            track["matchScore"] = round(best_score, 3)
 
-    return audio_index, matched
+            yt_title, yt_date_label, yt_date_iso = clean_youtube_title(best_video.title)
+            # YouTube-Titel nur dann übernehmen, wenn der Treffer sehr sicher ist
+            # oder der Audio-Titel auffällig kurz / generisch ist.
+            generic = len(token_set(title)) <= 3 or re.search(r"\b(begrüßung|grusswort|grußwort|track|audio|mitschnitt)\b", normalize(title))
+            if best_score >= 0.88 or generic:
+                if yt_title and yt_title != track.get("title"):
+                    track["title"] = yt_title
+                    title_replaced += 1
+            if not track.get("dateLabel") and yt_date_label:
+                track["dateLabel"] = yt_date_label
+                track["dateIso"] = yt_date_iso
+                track["sortDate"] = yt_date_iso
+            elif not track.get("dateLabel") and best_video.upload_date and len(best_video.upload_date) == 8:
+                y, m, d = best_video.upload_date[:4], best_video.upload_date[4:6], best_video.upload_date[6:8]
+                track["dateLabel"] = f"{d}.{m}.{y}"
+                track["dateIso"] = f"{y}-{m}-{d}"
+                track["sortDate"] = track["dateIso"]
+
+            tags = detect_tags(track.get("title", ""), track.get("name", ""), track.get("folder", ""), track.get("displayPath", ""), best_video.description)
+            track["tags"] = tags
+            report_matches.append({
+                "audio": title,
+                "youtube": best_video.title,
+                "score": round(best_score, 3),
+                "url": best_video.url,
+            })
+    report = {"tracks": len(tracks), "videos": len(videos), "enriched": enriched, "title_replaced": title_replaced, "matches": report_matches[:300]}
+    return tracks, report
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--channel", default=DEFAULT_CHANNEL, help="YouTube-Kanal-/Videos-URL")
-    ap.add_argument("--audio-index", default="audio-index.json", help="bestehende audio-index.json")
-    ap.add_argument("--out", default="audio-index.json", help="Zieldatei für angereicherte audio-index.json")
-    ap.add_argument("--youtube-out", default="youtube-index.json", help="separate Metadatendatei für YouTube-Rohdaten")
-    ap.add_argument("--threshold", type=float, default=0.76, help="Fuzzy-Match-Schwelle, höher = vorsichtiger")
-    ap.add_argument("--max-videos", type=int, default=0, help="0 = alle Videos, sonst Begrenzung zum Testen")
+    ap.add_argument("--index", default="audio-index.json")
+    ap.add_argument("--youtube-out", default="youtube-index.json")
+    ap.add_argument("--report", default="crawler-report.json")
+    ap.add_argument("--channel", default=os.getenv("YOUTUBE_CHANNEL_URL", CHANNEL_URL))
+    ap.add_argument("--max-videos", type=int, default=int(os.getenv("MAX_YOUTUBE_VIDEOS", "500")))
+    ap.add_argument("--threshold", type=float, default=float(os.getenv("YOUTUBE_MATCH_THRESHOLD", "0.74")))
     args = ap.parse_args()
 
-    audio_path = Path(args.audio_index)
-    if not audio_path.exists():
-        raise SystemExit(f"Fehlt: {audio_path}. Erst crawl_k23.py ausführen.")
+    with open(args.index, "r", encoding="utf-8") as f:
+        tracks = json.load(f)
 
-    audio_index = json.loads(audio_path.read_text(encoding="utf-8"))
-    videos = run_ytdlp(args.channel, max_videos=args.max_videos)
+    videos = fetch_youtube(args.channel, args.max_videos)
+    with open(args.youtube_out, "w", encoding="utf-8") as f:
+        json.dump([asdict(v) for v in videos], f, ensure_ascii=False, indent=2)
 
-    Path(args.youtube_out).write_text(
-        json.dumps([asdict(v) for v in videos], ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    if videos:
+        tracks, report = enrich_tracks(tracks, videos, args.threshold)
+    else:
+        report = {"tracks": len(tracks), "videos": 0, "enriched": 0, "title_replaced": 0, "matches": []}
 
-    merged, matched = merge(audio_index, videos, threshold=args.threshold)
-    Path(args.out).write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"YouTube-Abgleich: {matched} Audio-Einträge ergänzt. Ausgabe: {args.out}")
+    with open(args.index, "w", encoding="utf-8") as f:
+        json.dump(tracks, f, ensure_ascii=False, indent=2)
+    with open(args.report, "w", encoding="utf-8") as f:
+        json.dump(report, f, ensure_ascii=False, indent=2)
+    print(json.dumps(report, ensure_ascii=False, indent=2), file=sys.stderr)
 
 
 if __name__ == "__main__":
