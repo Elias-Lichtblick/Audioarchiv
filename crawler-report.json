@@ -1,7 +1,7 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 132,
+  "enriched": 130,
   "title_replaced": 97,
   "matches": [
     {
@@ -264,15 +264,15 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -339,18 +339,6 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -467,12 +455,6 @@
       "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
     },
     {
-      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
-      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
-    },
-    {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
       "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
       "score": 0.789,
@@ -537,6 +519,18 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
     },
     {
       "audio": "Sebastian Winter Geschlechterordnung",
@@ -683,12 +677,6 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
-      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
-      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-      "score": 0.85,
-      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
-    },
-    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
@@ -726,9 +714,9 @@
     },
     {
       "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+      "youtube": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
+      "url": "https://www.youtube.com/watch?v=JqthEnm_Gnc"
     },
     {
       "audio": "Diskussion baumann",
