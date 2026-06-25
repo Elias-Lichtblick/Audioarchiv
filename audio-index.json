@@ -836,7 +836,7 @@
   },
   {
     "id": "0aafa0e98ba8b8a1",
-    "title": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+    "title": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
     "name": "Der_ehrbare_Antisemitismus_(G.Scheit,_M.Holmes).mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Der_ehrbare_Antisemitismus_%28G.Scheit%2C_M.Holmes%29.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique",
@@ -845,7 +845,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Antisemitismus",
-      "Jean Améry",
       "Radio"
     ],
     "size": "",
@@ -854,9 +853,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PCPBy0-Dl9s",
-    "youtubeTitle": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "e8e6b54d0723347b",
@@ -24086,9 +24085,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
+    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+    "matchScore": 0.789
   },
   {
     "id": "25481d2eec8dd020",
@@ -31453,9 +31452,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=nkj8dAhZd7A",
+    "youtubeTitle": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
+    "matchScore": 0.789
   },
   {
     "id": "f6470947f3510a52",
@@ -31502,23 +31501,25 @@
   },
   {
     "id": "5d767691c60a5098",
-    "title": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+    "title": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
     "name": "Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "folder": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland",
     "path": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "displayPath": "Referate / Auf einer Skala von eins bis zehn – Wie Scheisse ist Deutschland",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Clemens Nachtmann"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sgUQm8MWeIs",
-    "youtubeTitle": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "eb1f63f2ac21bb10",
@@ -59451,9 +59452,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PHSz1No03KA",
-    "youtubeTitle": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-    "matchScore": 0.865
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "358370661239a85b",
