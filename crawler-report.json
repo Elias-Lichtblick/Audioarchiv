@@ -1,15 +1,9 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 129,
-  "title_replaced": 94,
+  "enriched": 122,
+  "title_replaced": 90,
   "matches": [
-    {
-      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
-      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
-    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -132,7 +126,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -147,12 +141,6 @@
       "youtube": "Postmoderne Seinslehre – Über die Unmöglichkeit poststrukturalistischer Gesellschaftskritik (2022)",
       "score": 0.742,
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
-    },
-    {
-      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
-      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
     },
     {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
@@ -191,6 +179,12 @@
       "url": "https://www.youtube.com/watch?v=UMCPOW5U6yU"
     },
     {
+      "audio": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
+      "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+      "score": 0.894,
+      "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
+    },
+    {
       "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
       "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
       "score": 0.92,
@@ -207,18 +201,6 @@
       "youtube": "In antisemitischer Gesellschaft – Ein Vortrag von Leo Elser (2012)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
-    },
-    {
-      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
-    },
-    {
-      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
     {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
@@ -414,8 +396,8 @@
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
-      "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-      "score": 0.92,
+      "youtube": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+      "score": 0.789,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
     },
     {
@@ -507,18 +489,6 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
-    },
-    {
-      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
-      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-      "score": 0.861,
-      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
-    },
-    {
-      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
-      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-      "score": 0.861,
-      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
     },
     {
       "audio": "Sebastian Winter Geschlechterordnung",
@@ -761,22 +731,10 @@
       "url": "https://www.youtube.com/watch?v=5n6bnWbvwS4"
     },
     {
-      "audio": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
-      "youtube": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=RZIdZYzt2ms"
-    },
-    {
       "audio": "Christian Schmidt – Revolution und Erloesung",
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
-    },
-    {
-      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
-      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-      "score": 0.865,
-      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
