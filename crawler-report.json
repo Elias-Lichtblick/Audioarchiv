@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 135,
-  "title_replaced": 99,
+  "enriched": 130,
+  "title_replaced": 97,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -264,7 +264,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -285,12 +285,6 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
-    },
-    {
-      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
-      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
     },
     {
       "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
@@ -459,12 +453,6 @@
       "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
-    },
-    {
-      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
-      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
@@ -689,28 +677,10 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
-      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
-      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-      "score": 0.85,
-      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
-    },
-    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
-    },
-    {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
     },
     {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
