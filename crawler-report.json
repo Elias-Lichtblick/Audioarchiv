@@ -1,7 +1,7 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 132,
+  "enriched": 133,
   "title_replaced": 97,
   "matches": [
     {
@@ -239,6 +239,12 @@
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
     },
     {
+      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
+      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
+    },
+    {
       "audio": "Thomas Maul – Darum Negative Dialektik",
       "youtube": "Darum Negative Dialektik – Ein Vortrag von Thomas Maul",
       "score": 0.92,
@@ -264,9 +270,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
