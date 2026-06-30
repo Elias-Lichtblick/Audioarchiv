@@ -5,6 +5,12 @@
   "title_replaced": 97,
   "matches": [
     {
+      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
+      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
+    },
+    {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
       "score": 0.92,
@@ -143,6 +149,12 @@
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
     },
     {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
+    },
+    {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
       "youtube": "Die neue Marx – Lektüre des frühen Operaismus – Ein Vortrag von Christian Frings (2012)",
       "score": 0.92,
@@ -258,9 +270,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -447,12 +459,6 @@
       "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
-    },
-    {
-      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
-      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
@@ -689,18 +695,6 @@
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
     },
     {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.767,
@@ -783,6 +777,12 @@
       "youtube": "Jahre Klassenkämpfe in Portugal – Ein Vortrag von Charles Reeve (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=5n6bnWbvwS4"
+    },
+    {
+      "audio": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
+      "youtube": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=RZIdZYzt2ms"
     },
     {
       "audio": "Christian Schmidt – Revolution und Erloesung",
