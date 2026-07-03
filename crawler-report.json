@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 129,
-  "title_replaced": 93,
+  "enriched": 131,
+  "title_replaced": 96,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -132,7 +132,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -165,6 +165,12 @@
       "youtube": "Leo Koflers Philosophie der Praxis – Zur Aktualität eines verdrängten Marxisten – Von Dr Jünke",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
+    },
+    {
+      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
     },
     {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
@@ -213,6 +219,18 @@
       "youtube": "In antisemitischer Gesellschaft – Ein Vortrag von Leo Elser (2012)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
+    },
+    {
+      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
+    },
+    {
+      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
     {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
@@ -275,6 +293,12 @@
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
     },
     {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
+    },
+    {
       "audio": "Leo Elser – Jargon der Israelkritik",
       "youtube": "Jargon der Israelkritik – Ein Vortrag von Leo Elser (2013)",
       "score": 0.92,
@@ -315,18 +339,6 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -443,12 +455,6 @@
       "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
     },
     {
-      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
-      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
-    },
-    {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
       "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
       "score": 0.789,
@@ -495,6 +501,18 @@
       "youtube": "Geist & Opium: Religionskritik bei Hegel, Feuerbach & Marx – Ein Vortrag von Robert Schnepf (2013)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=2zzB4ljWDn8"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere mit anfang",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
     },
     {
       "audio": "Martin – blumentritt – Der Begriff der Natur bei Marx und Adorno",
@@ -671,18 +689,6 @@
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
     },
     {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.767,
@@ -777,6 +783,12 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
+    },
+    {
+      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
+      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+      "score": 0.865,
+      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
