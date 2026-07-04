@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 128,
-  "title_replaced": 95,
+  "enriched": 126,
+  "title_replaced": 91,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -132,7 +132,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -147,6 +147,12 @@
       "youtube": "Postmoderne Seinslehre – Über die Unmöglichkeit poststrukturalistischer Gesellschaftskritik (2022)",
       "score": 0.742,
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
+    },
+    {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
     },
     {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
@@ -191,6 +197,12 @@
       "url": "https://www.youtube.com/watch?v=UMCPOW5U6yU"
     },
     {
+      "audio": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
+      "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+      "score": 0.894,
+      "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
+    },
+    {
       "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
       "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
       "score": 0.92,
@@ -207,18 +219,6 @@
       "youtube": "In antisemitischer Gesellschaft – Ein Vortrag von Leo Elser (2012)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
-    },
-    {
-      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
-    },
-    {
-      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
     {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
@@ -252,15 +252,15 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung in die materialistische Antisemitismuskritik (2017)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=rIw5y_OLEKQ"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -329,6 +329,18 @@
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
     },
     {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
       "youtube": "Zur Kritik der Arbeit – Ein Vortrag von Robert Kurz (2005)",
       "score": 0.92,
@@ -383,24 +395,6 @@
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
     },
     {
-      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
       "audio": "Vortrag Sarrazin",
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
@@ -414,8 +408,8 @@
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
-      "youtube": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-      "score": 0.789,
+      "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+      "score": 0.92,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
     },
     {
@@ -489,18 +483,6 @@
       "youtube": "Geist & Opium: Religionskritik bei Hegel, Feuerbach & Marx – Ein Vortrag von Robert Schnepf (2013)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=2zzB4ljWDn8"
-    },
-    {
-      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
-      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
-    },
-    {
-      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere mit anfang",
-      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-      "score": 0.767,
-      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
     },
     {
       "audio": "Martin – blumentritt – Der Begriff der Natur bei Marx und Adorno",
@@ -771,6 +753,12 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
+    },
+    {
+      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
+      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+      "score": 0.865,
+      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
