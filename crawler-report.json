@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 126,
-  "title_replaced": 95,
+  "enriched": 136,
+  "title_replaced": 99,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -149,6 +149,12 @@
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
     },
     {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
+    },
+    {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
       "youtube": "Die neue Marx – Lektüre des frühen Operaismus – Ein Vortrag von Christian Frings (2012)",
       "score": 0.92,
@@ -233,6 +239,12 @@
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
     },
     {
+      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
+      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
+    },
+    {
       "audio": "Thomas Maul – Darum Negative Dialektik",
       "youtube": "Darum Negative Dialektik – Ein Vortrag von Thomas Maul",
       "score": 0.92,
@@ -258,9 +270,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung in die materialistische Antisemitismuskritik (2017)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=rIw5y_OLEKQ"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -273,6 +285,18 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
+    },
+    {
+      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
+      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -315,6 +339,18 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -429,6 +465,12 @@
       "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
+    },
+    {
+      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
+      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
@@ -575,6 +617,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -659,6 +707,18 @@
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
     },
     {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
+    },
+    {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.767,
@@ -690,9 +750,9 @@
     },
     {
       "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
+      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JqthEnm_Gnc"
+      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
     },
     {
       "audio": "Diskussion baumann",
@@ -702,7 +762,7 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
@@ -720,7 +780,7 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
