@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 130,
-  "title_replaced": 97,
+  "enriched": 129,
+  "title_replaced": 98,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -167,12 +167,6 @@
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
     },
     {
-      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
-      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
-    },
-    {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
       "youtube": "Pierre – Joseph Proudhon – Vater des Anarchismus, Antifeminist & Antisemit – Ein Vortrag von Feldmann",
       "score": 0.92,
@@ -264,7 +258,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -417,12 +411,6 @@
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
-    },
-    {
-      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
-      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
@@ -677,16 +665,22 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
-      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
-      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-      "score": 0.85,
-      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
-    },
-    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
     },
     {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
