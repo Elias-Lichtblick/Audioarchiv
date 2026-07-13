@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 120,
-  "title_replaced": 91,
+  "enriched": 125,
+  "title_replaced": 94,
   "matches": [
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
@@ -258,9 +258,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung in die materialistische Antisemitismuskritik (2017)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=rIw5y_OLEKQ"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -317,6 +317,18 @@
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
     },
     {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
       "youtube": "Zur Kritik der Arbeit – Ein Vortrag von Robert Kurz (2005)",
       "score": 0.92,
@@ -369,6 +381,24 @@
       "youtube": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
+    },
+    {
+      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
     },
     {
       "audio": "Vortrag Sarrazin",
@@ -551,12 +581,6 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
-      "audio": "Walter Benjamins Geschichtsphilosophie",
-      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-      "score": 0.93,
-      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
-    },
-    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -665,6 +689,12 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
+      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
+      "youtube": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=JqthEnm_Gnc"
+    },
+    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -672,7 +702,7 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
@@ -690,7 +720,7 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
