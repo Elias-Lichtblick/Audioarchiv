@@ -836,7 +836,7 @@
   },
   {
     "id": "0aafa0e98ba8b8a1",
-    "title": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+    "title": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
     "name": "Der_ehrbare_Antisemitismus_(G.Scheit,_M.Holmes).mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Der_ehrbare_Antisemitismus_%28G.Scheit%2C_M.Holmes%29.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique",
@@ -845,7 +845,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Antisemitismus",
-      "Jean Améry",
       "Radio"
     ],
     "size": "",
@@ -854,9 +853,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PCPBy0-Dl9s",
-    "youtubeTitle": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "e8e6b54d0723347b",
@@ -1396,17 +1395,15 @@
     "displayPath": "Radio / Context XXI – Cafe Critique / Johannes Agnoli – Die Geschichte der Subversion",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Faschismus",
       "Johannes Agnoli",
-      "Literatur",
       "Radio"
     ],
     "size": "",
     "sizeBytes": 0,
-    "dateLabel": "21.06.2018",
-    "dateIso": "2018-06-21",
-    "sortDate": "2018-06-21",
-    "description": "\"Das Buch \"Transformation der Demokratie\" von Johannes Agnoli verhalf den Aktivisten der außerparlamentarischen Opposition zu einer Kritik desjenigen Staates, dessen Polizeiknüppel sie zuvor auf den eigenen Köpfen gespürt hatten. Agnoli nahm an zahlreichen Debatten der Neuen Linken teil und versuchte den Charakter des antiautoritären Protests (sowie seine Beschränkung) auf den Begriff zu bringen. Wir sprachen mit Felix Klopotek über diesen Staatskritiker mit Lehrstuhl.\n\nJohannes Agnoli wurde 1925 in Italien geboren - das heißt er hat den Faschismus als junger Mann miterlebt. Aber nicht nur das: über die SS meldete er sich bei der Wehrmacht, um an der Seite der Deutschen kämpfen zu können. Wir fragten Felix Klopotek wie Agnoli von einem jungen Faschisten zu einem Theoretiker der Neuen Linken wurde.\" (Text, Quelle & MP3: https://www.freie-radios.net/89552 | CC BY-NC-SA 2.0 DE | Produziert von https://radiocorax.de/)\n\n »Der Staat ist ein Palast, in den man hineintritt, der aber keinen Hinterausgang hat. Man kann in diesem Palast höchstens nach oben kommen. Man kann sich in die Institutionen hineinbegeben, aber dann bleibt man drin. Viele fühlen sich dabei glücklich. Das ist die Faszination der gesellschaftlichen, der bürgerlichen Machtverhältnisse. Eine Faszination allerdings, unter der wir im Grunde alle leiden.« (Agnoli zitiert aus: https://www.ca-ira.net/verlag/buecher/burgmer-potential/ | Mehr Literatur von Agnoli: https://www.ca-ira.net/verlag/johannes-agnoli-gesammelte-werke/)\n\nWeitere spannende Beiträge gibt es hier: \nhttp://aergernis.org | https://youtube.com/Schachtel1000 | https://mixcloud.com/aergernis/\n\n-\nhttps://www.facebook.com/nokturnaltimes\nhttps://twitter.com/NokturnalTimes\nhttps://www.instagram.com/thenokturnaltimes/\nhttps://nokturnaltimes.tumblr.com/",
+    "dateLabel": "",
+    "dateIso": "",
+    "sortDate": "",
+    "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=spFeUf6f3gI",
     "youtubeTitle": "Johannes Agnoli – Ein Staatskritiker mit Lehrstuhl (2018)",
     "matchScore": 0.837
@@ -25032,7 +25029,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25040,7 +25037,6 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25049,9 +25045,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
+    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "matchScore": 0.92
   },
   {
     "id": "19df3016eecdd62f",
@@ -30819,33 +30815,11 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
     "path": "Referate/Anarchismus/Libert�re Reihe/01-bakunin.mp3",
-    "displayPath": "Referate / Anarchismus / Libert�re Reihe",
-    "source": "K23 Audioarchiv",
-    "tags": [
-      "Anarchismus"
-    ],
-    "size": "",
-    "sizeBytes": 0,
-    "dateLabel": "",
-    "dateIso": "",
-    "sortDate": "",
-    "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
-    "matchScore": 0.92
-  },
-  {
-    "id": "b20869c50312d9ad",
-    "title": "Einführung in die materialistische Antisemitismuskritik (2017)",
-    "name": "08-einfuehrung.mp3",
-    "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
-    "folder": "Referate/Anarchismus/Libert�re Reihe",
-    "path": "Referate/Anarchismus/Libert�re Reihe/08-einfuehrung.mp3",
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
@@ -30858,13 +30832,36 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=rIw5y_OLEKQ",
-    "youtubeTitle": "Einführung in die materialistische Antisemitismuskritik (2017)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "matchScore": 0.92
+  },
+  {
+    "id": "b20869c50312d9ad",
+    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "name": "08-einfuehrung.mp3",
+    "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
+    "folder": "Referate/Anarchismus/Libert�re Reihe",
+    "path": "Referate/Anarchismus/Libert�re Reihe/08-einfuehrung.mp3",
+    "displayPath": "Referate / Anarchismus / Libert�re Reihe",
+    "source": "K23 Audioarchiv",
+    "tags": [
+      "Anarchismus",
+      "Kapitalismus"
+    ],
+    "size": "",
+    "sizeBytes": 0,
+    "dateLabel": "",
+    "dateIso": "",
+    "sortDate": "",
+    "description": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
+    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
     "matchScore": 0.92
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30881,7 +30878,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -31455,9 +31452,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=nkj8dAhZd7A",
-    "youtubeTitle": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "f6470947f3510a52",
@@ -31504,23 +31501,25 @@
   },
   {
     "id": "5d767691c60a5098",
-    "title": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+    "title": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
     "name": "Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "folder": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland",
     "path": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "displayPath": "Referate / Auf einer Skala von eins bis zehn – Wie Scheisse ist Deutschland",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Clemens Nachtmann"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sgUQm8MWeIs",
-    "youtubeTitle": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "eb1f63f2ac21bb10",
@@ -41902,14 +41901,16 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joachim Bruhn"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41917,8 +41918,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.92
+    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.789
   },
   {
     "id": "97615f48e07f8b79",
@@ -53703,9 +53704,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
-    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-    "matchScore": 0.85
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d0663005b442cb2a",
@@ -56447,7 +56448,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
+    "title": "Stephan Grigat – Kritische Theorie des Zionismus",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56457,7 +56458,8 @@
     "tags": [
       "Kritische Theorie",
       "Israel",
-      "Literatur"
+      "Literatur",
+      "Stephan Grigat"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -56465,9 +56467,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=JqthEnm_Gnc",
-    "youtubeTitle": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "cfd75ce927da0a02",
@@ -57629,7 +57631,7 @@
   },
   {
     "id": "3b56c33df55c16d2",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "07_zunke_diskussion.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/07_zunke_diskussion.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57644,12 +57646,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
     "id": "881502d35677ebb1",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "06_zunke_vortrag.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/06_zunke_vortrag.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57664,7 +57666,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
