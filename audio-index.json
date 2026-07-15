@@ -8203,7 +8203,7 @@
   },
   {
     "id": "6384bfc71bd0fb0b",
-    "title": "Teil 1 – Was ist Kapitalismus",
+    "title": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
     "name": "Teil_1-Was_ist_Kapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Radio/NPC_von_Radio_FREI/Robert_Kurz-Das_Weltkapital/Teil_1-Was_ist_Kapitalismus.mp3",
     "folder": "Radio/NPC_von_Radio_FREI/Robert_Kurz-Das_Weltkapital",
@@ -8220,9 +8220,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OqTUXL868to",
+    "youtubeTitle": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+    "matchScore": 0.92
   },
   {
     "id": "909ce7e896505258",
@@ -25030,7 +25030,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25038,7 +25038,6 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25047,9 +25046,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
+    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "matchScore": 0.92
   },
   {
     "id": "19df3016eecdd62f",
@@ -30817,7 +30816,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30825,7 +30824,8 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus"
+      "Anarchismus",
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30834,12 +30834,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "matchScore": 0.92
   },
   {
     "id": "b20869c50312d9ad",
-    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "title": "Einführung in die materialistische Antisemitismuskritik (2017)",
     "name": "08-einfuehrung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30848,7 +30848,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Anarchismus",
-      "Kapitalismus"
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30856,13 +30856,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
-    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rIw5y_OLEKQ",
+    "youtubeTitle": "Einführung in die materialistische Antisemitismuskritik (2017)",
     "matchScore": 0.92
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30879,7 +30879,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -34421,9 +34421,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34444,9 +34444,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "99a40c7069ae64d3",
@@ -39243,9 +39243,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OO3ArRJlDMs",
+    "youtubeTitle": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+    "matchScore": 0.789
   },
   {
     "id": "b324ebe942bfaec9",
@@ -51382,7 +51382,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Walter Benjamins Geschichtsphilosophie",
+    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51398,9 +51398,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
+    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "matchScore": 0.93
   },
   {
     "id": "d61597ea3400c321",
@@ -52684,7 +52684,7 @@
   },
   {
     "id": "77bdf0a889ef6f28",
-    "title": "Was ist Kapitalismus",
+    "title": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
     "name": "Was_ist_Kapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Michael_Heinrich/Was_ist_Kapitalismus.mp3",
     "folder": "Referate/Michael_Heinrich",
@@ -52700,9 +52700,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OqTUXL868to",
+    "youtubeTitle": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+    "matchScore": 0.92
   },
   {
     "id": "d58fc17ecbff5ad2",
@@ -53701,9 +53701,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
+    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+    "matchScore": 0.85
   },
   {
     "id": "d0663005b442cb2a",
@@ -56445,7 +56445,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Stephan Grigat – Kritische Theorie des Zionismus",
+    "title": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56455,8 +56455,7 @@
     "tags": [
       "Kritische Theorie",
       "Israel",
-      "Literatur",
-      "Stephan Grigat"
+      "Literatur"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -56464,9 +56463,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=JlGNPntyn_s",
+    "youtubeTitle": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+    "matchScore": 0.92
   },
   {
     "id": "cfd75ce927da0a02",
@@ -59452,9 +59451,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PHSz1No03KA",
+    "youtubeTitle": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+    "matchScore": 0.865
   },
   {
     "id": "358370661239a85b",
