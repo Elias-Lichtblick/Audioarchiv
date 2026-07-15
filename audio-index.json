@@ -836,7 +836,7 @@
   },
   {
     "id": "0aafa0e98ba8b8a1",
-    "title": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+    "title": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
     "name": "Der_ehrbare_Antisemitismus_(G.Scheit,_M.Holmes).mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Der_ehrbare_Antisemitismus_%28G.Scheit%2C_M.Holmes%29.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique",
@@ -845,7 +845,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Antisemitismus",
-      "Jean Améry",
       "Radio"
     ],
     "size": "",
@@ -854,9 +853,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PCPBy0-Dl9s",
-    "youtubeTitle": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "e8e6b54d0723347b",
@@ -26878,7 +26877,7 @@
   },
   {
     "id": "f172ea1408c7f298",
-    "title": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+    "title": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
     "name": "Karl_Reitter-Prozesse_der_Befreiung-Marx,_Spinoza_und_die_Bedingungen_eines_freien_Gemeinwesens.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Karl_Reitter-Prozesse_der_Befreiung-Marx%2C_Spinoza_und_die_Bedingungen_eines_freien_Gemeinwesens.mp3",
     "folder": "Referate",
@@ -26886,6 +26885,7 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Karl Reitter",
       "Marx"
     ],
     "size": "",
@@ -26894,9 +26894,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=QuFD9WsUiBg",
-    "youtubeTitle": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
-    "matchScore": 0.894
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "12bac8a85dde6c7e",
@@ -29222,9 +29222,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=KLltKvoF3fQ",
-    "youtubeTitle": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "5d20e51c838d5e76",
@@ -30816,7 +30816,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30824,8 +30824,7 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus",
-      "Antisemitismus"
+      "Anarchismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30834,7 +30833,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
     "matchScore": 0.92
   },
   {
@@ -30862,7 +30861,7 @@
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30879,7 +30878,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -31502,23 +31501,25 @@
   },
   {
     "id": "5d767691c60a5098",
-    "title": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+    "title": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
     "name": "Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "folder": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland",
     "path": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "displayPath": "Referate / Auf einer Skala von eins bis zehn – Wie Scheisse ist Deutschland",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Clemens Nachtmann"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sgUQm8MWeIs",
-    "youtubeTitle": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "eb1f63f2ac21bb10",
@@ -34421,9 +34422,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
-    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34444,9 +34445,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
-    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "99a40c7069ae64d3",
@@ -39243,9 +39244,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OO3ArRJlDMs",
-    "youtubeTitle": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "b324ebe942bfaec9",
@@ -41900,14 +41901,16 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joachim Bruhn"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41915,8 +41918,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.92
+    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.789
   },
   {
     "id": "97615f48e07f8b79",
@@ -46403,7 +46406,7 @@
   },
   {
     "id": "787a3e9886e59494",
-    "title": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+    "title": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
     "name": "Lukas-Holfeld_Hoelderlin_und_die_Versteinerung_der_Revolutionaere.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Kritische_Interventionen_Halle/Kunst_2013/Lukas-Holfeld_Hoelderlin_und_die_Versteinerung_der_Revolutionaere.MP3",
     "folder": "Referate/Kritische_Interventionen_Halle/Kunst_2013",
@@ -46417,9 +46420,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H2NZx1_styo",
-    "youtubeTitle": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "6dbf79f52e1d146c",
@@ -46437,9 +46440,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H2NZx1_styo",
-    "youtubeTitle": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "db6bd661ad400512",
@@ -46917,9 +46920,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
-    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-    "matchScore": 0.861
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "07558e4e028575de",
@@ -46939,9 +46942,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
-    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-    "matchScore": 0.861
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "07514a09972cb5dc",
@@ -51382,7 +51385,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "title": "Walter Benjamins Geschichtsphilosophie",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51398,9 +51401,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
-    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-    "matchScore": 0.93
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d61597ea3400c321",
@@ -53701,9 +53704,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
-    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-    "matchScore": 0.85
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d0663005b442cb2a",
@@ -56445,7 +56448,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+    "title": "Stephan Grigat – Kritische Theorie des Zionismus",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56455,7 +56458,8 @@
     "tags": [
       "Kritische Theorie",
       "Israel",
-      "Literatur"
+      "Literatur",
+      "Stephan Grigat"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -56463,9 +56467,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=JlGNPntyn_s",
-    "youtubeTitle": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "cfd75ce927da0a02",
@@ -57166,7 +57170,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57174,7 +57178,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57184,7 +57187,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57544,7 +57547,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57552,7 +57555,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57562,7 +57564,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57627,7 +57629,7 @@
   },
   {
     "id": "3b56c33df55c16d2",
-    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
     "name": "07_zunke_diskussion.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/07_zunke_diskussion.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57642,12 +57644,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
     "id": "881502d35677ebb1",
-    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
     "name": "06_zunke_vortrag.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/06_zunke_vortrag.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57662,7 +57664,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
@@ -58100,7 +58102,7 @@
   },
   {
     "id": "38335e09eec641ab",
-    "title": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
+    "title": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
     "name": "Fr20KrisenhaftigkeitDesKapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Ums_Ganze_Kongress_Dez_2010/Fr20KrisenhaftigkeitDesKapitalismus.mp3",
     "folder": "Referate/Ums_Ganze_Kongress_Dez_2010",
@@ -58108,8 +58110,7 @@
     "displayPath": "Referate / Ums Ganze Kongress Dez 2010",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Kapitalismus",
-      "Thomas Konicz"
+      "Kapitalismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -58117,9 +58118,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RZIdZYzt2ms",
-    "youtubeTitle": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "fa808496947b0998",
@@ -59451,9 +59452,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PHSz1No03KA",
-    "youtubeTitle": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-    "matchScore": 0.865
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "358370661239a85b",
