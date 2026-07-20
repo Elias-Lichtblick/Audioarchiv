@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 129,
-  "title_replaced": 94,
+  "enriched": 132,
+  "title_replaced": 97,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -132,7 +132,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -221,6 +221,18 @@
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
     },
     {
+      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
+    },
+    {
+      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
+    },
+    {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
       "youtube": "Wahn mit Weltbild: Zu Sexismus & Antisemitismus – Ein Vortrag von Tanja Kinzel (2010)",
       "score": 0.92,
@@ -258,9 +270,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -713,6 +725,12 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
+      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
+      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
+    },
+    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -744,13 +762,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
