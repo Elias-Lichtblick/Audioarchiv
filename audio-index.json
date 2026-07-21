@@ -24086,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
-    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "25481d2eec8dd020",
@@ -29223,9 +29223,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=KLltKvoF3fQ",
-    "youtubeTitle": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "5d20e51c838d5e76",
@@ -34424,9 +34424,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34447,9 +34447,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "99a40c7069ae64d3",
@@ -41903,14 +41903,16 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joachim Bruhn"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41918,8 +41920,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.92
+    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.789
   },
   {
     "id": "97615f48e07f8b79",
@@ -51803,9 +51805,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
-    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "c073048a51b80e63",
@@ -56448,7 +56450,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+    "title": "Stephan Grigat – Kritische Theorie des Zionismus",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56458,7 +56460,8 @@
     "tags": [
       "Kritische Theorie",
       "Israel",
-      "Literatur"
+      "Literatur",
+      "Stephan Grigat"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -56466,9 +56469,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=JlGNPntyn_s",
-    "youtubeTitle": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "cfd75ce927da0a02",
@@ -57169,7 +57172,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57177,7 +57180,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57187,7 +57189,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57547,7 +57549,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57555,7 +57557,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57565,7 +57566,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
