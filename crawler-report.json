@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 128,
-  "title_replaced": 95,
+  "enriched": 132,
+  "title_replaced": 97,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -270,9 +270,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -291,6 +291,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -413,6 +419,12 @@
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
     },
     {
+      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
+      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
+    },
+    {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
       "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
       "score": 0.92,
@@ -441,6 +453,12 @@
       "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
+    },
+    {
+      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
+      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
@@ -705,6 +723,12 @@
       "youtube": "Karl Kraus & die Kritische Theorie – Ein Vortrag von Irina Djassemy (2009)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
+    },
+    {
+      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
+      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
     },
     {
       "audio": "Diskussion baumann",
