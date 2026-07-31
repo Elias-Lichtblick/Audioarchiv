@@ -836,7 +836,7 @@
   },
   {
     "id": "0aafa0e98ba8b8a1",
-    "title": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
+    "title": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
     "name": "Der_ehrbare_Antisemitismus_(G.Scheit,_M.Holmes).mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Der_ehrbare_Antisemitismus_%28G.Scheit%2C_M.Holmes%29.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique",
@@ -845,6 +845,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Antisemitismus",
+      "Jean Améry",
       "Radio"
     ],
     "size": "",
@@ -853,9 +854,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PCPBy0-Dl9s",
+    "youtubeTitle": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+    "matchScore": 0.92
   },
   {
     "id": "e8e6b54d0723347b",
@@ -25029,7 +25030,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25037,7 +25038,6 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25046,9 +25046,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
+    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "matchScore": 0.92
   },
   {
     "id": "19df3016eecdd62f",
@@ -38840,43 +38840,47 @@
   },
   {
     "id": "a452f0311be8ad0d",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Ohne weitere Bestimmung",
     "name": "Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "02134d5e16781adf",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d21b762f30421e29",
@@ -38903,23 +38907,25 @@
   },
   {
     "id": "fce6a65a6a0cc5e4",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HUmmel_Antifa_Berlin",
     "path": "Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / HUmmel Antifa Berlin",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "fda944c92d957049",
@@ -57629,7 +57635,7 @@
   },
   {
     "id": "3b56c33df55c16d2",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "07_zunke_diskussion.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/07_zunke_diskussion.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57644,12 +57650,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
     "id": "881502d35677ebb1",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "06_zunke_vortrag.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/06_zunke_vortrag.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57664,7 +57670,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
