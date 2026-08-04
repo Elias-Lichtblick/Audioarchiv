@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 125,
-  "title_replaced": 92,
+  "enriched": 129,
+  "title_replaced": 93,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -167,12 +167,6 @@
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
     },
     {
-      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
-      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
-    },
-    {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
       "youtube": "Pierre – Joseph Proudhon – Vater des Anarchismus, Antifeminist & Antisemit – Ein Vortrag von Feldmann",
       "score": 0.92,
@@ -264,15 +258,15 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung in die materialistische Antisemitismuskritik (2017)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=rIw5y_OLEKQ"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -291,6 +285,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -333,6 +333,18 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -599,6 +611,12 @@
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
+      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
+      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
+    },
+    {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
       "youtube": "Zur Frage des Gebrauchswertfetischismus – Ein Vortrag von Kornelia Hafner (2012)",
       "score": 0.92,
@@ -753,6 +771,12 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
+    },
+    {
+      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
+      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+      "score": 0.865,
+      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
