@@ -836,7 +836,7 @@
   },
   {
     "id": "0aafa0e98ba8b8a1",
-    "title": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
+    "title": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
     "name": "Der_ehrbare_Antisemitismus_(G.Scheit,_M.Holmes).mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Der_ehrbare_Antisemitismus_%28G.Scheit%2C_M.Holmes%29.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique",
@@ -845,6 +845,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Antisemitismus",
+      "Jean Améry",
       "Radio"
     ],
     "size": "",
@@ -853,9 +854,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PCPBy0-Dl9s",
+    "youtubeTitle": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+    "matchScore": 0.92
   },
   {
     "id": "e8e6b54d0723347b",
@@ -24085,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
+    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+    "matchScore": 0.789
   },
   {
     "id": "25481d2eec8dd020",
@@ -25029,7 +25030,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25037,6 +25038,7 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25045,9 +25047,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
-    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "19df3016eecdd62f",
@@ -30838,7 +30840,7 @@
   },
   {
     "id": "b20869c50312d9ad",
-    "title": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
     "name": "08-einfuehrung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30847,7 +30849,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Anarchismus",
-      "Antisemitismus"
+      "Kapitalismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30855,13 +30857,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=V0Rusuck7FU",
-    "youtubeTitle": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
+    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
     "matchScore": 0.92
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30878,7 +30880,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -38293,23 +38295,13 @@
     "path": "Referate/Gerhard_Stapelfeldt/Zum_Verhaeltnis_von_Krise_und_Kritik_(Diskussion).mp3",
     "displayPath": "Referate / Gerhard Stapelfeldt",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Antisemitismus",
-      "Dialektik",
-      "Freud",
-      "Ideologiekritik",
-      "Kapitalismus",
-      "Marx",
-      "Nationalsozialismus",
-      "Psychoanalyse",
-      "Radio"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
-    "dateLabel": "16.02.2018",
-    "dateIso": "2018-02-16",
-    "sortDate": "2018-02-16",
-    "description": "\"Im 19. Jahrhundert galten Krisen im sozialdemokratischen, anarchistischen und kommunistischen Milieu als Angelpunkte gesellschaftlich-fundamentaler Umwälzungen. Geriet die reibungslose Kapitalverwertung ins Stocken – so dachte man – würden die Menschen die gesellschaftlichen Verhältnisse als schlechte erkennen und sich umgehend an ihre revolutionäre Abschaffung machen. \n\nDie Phantasie, den taumelnden Kapitalismus freudestrahlend die Treppe herunter zu stoßen, hat sich mittlerweile jedoch gründlich erledigt. Spätestens mit dem Nationalsozialismus dämmerte der Linken, dass die Verarmung und Verelendung der Massen in der Krise nicht ohne weiteres emanzipatorische Gesellschaftskritik hervorbringt. Statt der Gründung des »Vereins freier Menschen«, fanden gerade die Deutschen in der Krise als Volksgemeinschaft im Vernichtungsrausch zueinander. \n\nMit Gerhard Stapelfeldt wollen wir diskutieren, wie es sich mit der Konstellation von Krise, Kritik und Revolution heute verhält. Diese theoretisch zu klärende Frage wird beantworten, ob die Linke derzeit tatsächlich optimistisch auf Zulauf hoffen darf.\" (Text, Quelle & MP3: http://www.freie-radios.net/25987 + http://www.freie-radios.net/25988 + http://www.freie-radios.net/25989 + http://www.freie-radios.net/25990 + http://www.freie-radios.net/25992 | Veranstalter: https://www.facebook.com/Kritikmaximierung/ | CC BY-NC-SA 2.0 DE)\n\nProf. Dr. Gerhard Stapelfeldt analysiert die Finanzkrise von 2008/09 nicht als peripheren Betriebsunfall, sondern als systemimmanente Kernschmelze des Neoliberalismus, der nach dem Kollaps von Bretton Woods die Bühne betrat und dessen tiefere Ursache in einer Überproduktionskrise des Kapitals liegt. \n\nEr enthüllt die paradoxe Natur dieses Systems: Während es ideologisch die Erkennbarkeit und Steuerbarkeit des Ganzen leugnet und auf irrationale Marktkräfte setzt, benötigt es in der Praxis – und erst recht in der Krise – massive staatliche Interventionen, um den künstlich geschaffenen Wettbewerb zu retten und faule Kredite zu sozialisieren. \n\nGenau diese explizite Abkehr von Vernunft und Utopie, die einst dem klassischen Liberalismus noch innewohnte und an die Marx' Kritik anknüpfen konnte, macht laut Stapelfeldt eine vorwärtsgewandte, praktische Kritik heute nahezu unmöglich. Die einzig verbleibende Form der Kritik sei daher eine \"anachronistische Revolte der Erinnerung\": eine theoretische Aufklärung, die an den internen Widersprüchen und der negierten Vernunft ansetzt, um die verdrängten emanzipatorischen Potentiale vergangener Epochen gegen das Vergessen zu verteidigen, auch wenn sie von einer gesellschaftsverändernden Praxis schmerzlich abgekoppelt scheint.\n\n______________\n\nWeitere Vorträge von Prof. Dr. Stapelfeldt bei TNT:\n\nDie Widersprüche des Neoliberalismus:\nhttps://www.youtube.com/watch?v=B4q1EgnV65s\n\nVom Tabu zur informierten Erinnerungslosigkeit:\nhttps://www.youtube.com/watch?v=RDBUo0Z1jps\n\nZum Verhältnis von Krise und Kritik:\nhttps://www.youtube.com/watch?v=XGIpVrkKU3Y\n\nWas ist Dialektik?\nhttps://www.youtube.com/watch?v=-FGH44uWefY\n\nDialektische Kritik der liberalen Aufklärung & bürgerlichen Revolution:\nhttps://www.youtube.com/watch?v=RlJhjPU5EmM\n\nBildung & Revolution: Paulo Freires Pädagogik der Befreiung:\nhttps://www.youtube.com/watch?v=cYJ-XJqydmw\n\nKritik der neoliberalen Universität:\nhttps://www.youtube.com/watch?v=Bk1vT8yqrrM\n\nSoziologischer Positivismus:\nhttps://www.youtube.com/watch?v=Dz4qe9gkzi4\n\nDialektik der ökonomischen Rationalisierung:\nhttps://www.youtube.com/watch?v=xghDi4xLclY\n\nDie Vernunft-Utopien der Aufklärung:\nhttps://www.youtube.com/watch?v=cjOOxEyzesk\n\nNeoliberalismus & Antisemitismus:\nhttps://www.youtube.com/watch?v=GhstrfNO40g\n\nVon der Aufklärung zur Naturalisierung der Verhältnisse:\nhttps://www.youtube.com/watch?v=FV47NN4E_BE\n\nZur deutschen Ideologie. Entstehung der deutschen Identität:\nhttps://www.youtube.com/watch?v=V7nGRt-lWTg\n\nDer Irrationalismus des Neoliberalismus:\nhttps://www.youtube.com/watch?v=JKhRIdSA6uo\n\nÖkonomische Krisis & gesellschaftlicher Autoritarismus. Krisis bei Liberalismus & Neoliberalismus:\nhttps://www.youtube.com/watch?v=ZQGuMBzu6yA\n\n- \nhttps://www.facebook.com/nokturnaltimes\nhttps://twitter.com/NokturnalTimes\nhttps://www.instagram.com/thenokturnaltimes/\nhttps://nokturnaltimes.tumblr.com/",
+    "dateLabel": "",
+    "dateIso": "",
+    "sortDate": "",
+    "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XGIpVrkKU3Y",
     "youtubeTitle": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
     "matchScore": 0.92
@@ -41911,16 +41903,14 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
+    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Joachim Bruhn"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41928,8 +41918,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.789
+    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.92
   },
   {
     "id": "97615f48e07f8b79",
@@ -42694,9 +42684,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ufx1j-OrTDc",
-    "youtubeTitle": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "351843123705d94f",
@@ -43278,9 +43268,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=YwKdSoEE5qM",
-    "youtubeTitle": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "25bcedab5907efc9",
@@ -51819,7 +51809,7 @@
   },
   {
     "id": "c073048a51b80e63",
-    "title": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
+    "title": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
     "name": "Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "url": "https://audioarchiv.k23.in/Referate/MarxExpedition-Leipzig/2013/Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "folder": "Referate/MarxExpedition-Leipzig/2013",
@@ -51827,7 +51817,6 @@
     "displayPath": "Referate / Marx Expedition – Leipzig / 2013",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christian Schmidt",
       "Marx"
     ],
     "size": "",
@@ -51836,9 +51825,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=q_rldrXtmUw",
+    "youtubeTitle": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+    "matchScore": 0.92
   },
   {
     "id": "dac0fc4de3cabc37",
@@ -53565,7 +53554,7 @@
   },
   {
     "id": "2ac9ff2eb5f7acbd",
-    "title": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+    "title": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
     "name": "Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016/Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "folder": "Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016",
@@ -53574,7 +53563,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Feminismus",
-      "Rolf Pohl",
       "Sexualität"
     ],
     "size": "",
@@ -53583,9 +53571,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=1zsvCqhGydE",
+    "youtubeTitle": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+    "matchScore": 0.92
   },
   {
     "id": "7fba44a3b60b210a",
@@ -53716,9 +53704,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
+    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+    "matchScore": 0.85
   },
   {
     "id": "d0663005b442cb2a",
@@ -54438,7 +54426,7 @@
   },
   {
     "id": "d6603d5b676fa663",
-    "title": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+    "title": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
     "name": "Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_1.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Roger_Behrens/Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_1.mp3",
     "folder": "Referate/Roger_Behrens",
@@ -54446,9 +54434,8 @@
     "displayPath": "Referate / Roger Behrens",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Adorno",
       "Kritische Theorie",
-      "Marcuse",
+      "Entkorkte Flaschenpost",
       "Roger Behrens"
     ],
     "size": "",
@@ -54457,13 +54444,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=EOYzWslJckI",
-    "youtubeTitle": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "5c68a9fdb1412882",
-    "title": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+    "title": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
     "name": "Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_2.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Roger_Behrens/Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_2.mp3",
     "folder": "Referate/Roger_Behrens",
@@ -54471,9 +54458,8 @@
     "displayPath": "Referate / Roger Behrens",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Adorno",
       "Kritische Theorie",
-      "Marcuse",
+      "Entkorkte Flaschenpost",
       "Roger Behrens"
     ],
     "size": "",
@@ -54482,9 +54468,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=EOYzWslJckI",
-    "youtubeTitle": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "9f51f30c877d678e",
@@ -59468,9 +59454,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PHSz1No03KA",
+    "youtubeTitle": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+    "matchScore": 0.865
   },
   {
     "id": "358370661239a85b",
