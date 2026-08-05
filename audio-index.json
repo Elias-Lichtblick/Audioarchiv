@@ -30816,7 +30816,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30824,7 +30824,8 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus"
+      "Anarchismus",
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30833,7 +30834,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "matchScore": 0.92
   },
   {
@@ -30861,7 +30862,7 @@
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30878,7 +30879,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -34420,9 +34421,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
-    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34443,9 +34444,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
-    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "99a40c7069ae64d3",
@@ -38837,47 +38838,43 @@
   },
   {
     "id": "a452f0311be8ad0d",
-    "title": "Magnus Klaue – Ohne weitere Bestimmung",
+    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
     "name": "Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Magnus Klaue"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
+    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "matchScore": 0.92
   },
   {
     "id": "02134d5e16781adf",
-    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Magnus Klaue"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
+    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "matchScore": 0.92
   },
   {
     "id": "d21b762f30421e29",
@@ -38904,25 +38901,23 @@
   },
   {
     "id": "fce6a65a6a0cc5e4",
-    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HUmmel_Antifa_Berlin",
     "path": "Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / HUmmel Antifa Berlin",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Magnus Klaue"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
+    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "matchScore": 0.92
   },
   {
     "id": "fda944c92d957049",
@@ -51387,7 +51382,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "title": "Walter Benjamins Geschichtsphilosophie",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51403,9 +51398,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
-    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-    "matchScore": 0.93
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d61597ea3400c321",
@@ -51811,7 +51806,7 @@
   },
   {
     "id": "c073048a51b80e63",
-    "title": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+    "title": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
     "name": "Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "url": "https://audioarchiv.k23.in/Referate/MarxExpedition-Leipzig/2013/Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "folder": "Referate/MarxExpedition-Leipzig/2013",
@@ -51819,6 +51814,7 @@
     "displayPath": "Referate / Marx Expedition – Leipzig / 2013",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christian Schmidt",
       "Marx"
     ],
     "size": "",
@@ -51827,9 +51823,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=q_rldrXtmUw",
-    "youtubeTitle": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "dac0fc4de3cabc37",
@@ -57171,7 +57167,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57179,7 +57175,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57189,7 +57184,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57549,7 +57544,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57557,7 +57552,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57567,7 +57561,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
