@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 112,
-  "title_replaced": 84,
+  "enriched": 129,
+  "title_replaced": 94,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -51,6 +51,12 @@
       "youtube": "Wallstreet, Westbank, Weltverschwörung: Über den Zusammenhang von Antisemitismus & Antiamerikanismus",
       "score": 0.937,
       "url": "https://www.youtube.com/watch?v=aFVxpQhuB5U"
+    },
+    {
+      "audio": "Teil 1 – Was ist Kapitalismus",
+      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Von und Über Claude Lanzmann",
@@ -126,7 +132,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -155,6 +161,12 @@
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
     },
     {
+      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
+    },
+    {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
       "youtube": "Pierre – Joseph Proudhon – Vater des Anarchismus, Antifeminist & Antisemit – Ein Vortrag von Feldmann",
       "score": 0.92,
@@ -179,6 +191,12 @@
       "url": "https://www.youtube.com/watch?v=UMCPOW5U6yU"
     },
     {
+      "audio": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
+      "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+      "score": 0.894,
+      "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
+    },
+    {
       "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
       "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
       "score": 0.92,
@@ -197,10 +215,28 @@
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
     },
     {
+      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
+    },
+    {
+      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
+      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
+    },
+    {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
       "youtube": "Wahn mit Weltbild: Zu Sexismus & Antisemitismus – Ein Vortrag von Tanja Kinzel (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
+    },
+    {
+      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
+      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
     },
     {
       "audio": "Thomas Maul – Darum Negative Dialektik",
@@ -228,13 +264,13 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
-      "youtube": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+      "youtube": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=4fXkGQ6dUBo"
     },
@@ -245,10 +281,10 @@
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
     },
     {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
+      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
+      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -359,10 +395,34 @@
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
     },
     {
+      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
       "audio": "Vortrag Sarrazin",
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
+    },
+    {
+      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
+      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
@@ -455,6 +515,18 @@
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
     },
     {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
+    },
+    {
       "audio": "Sebastian Winter Geschlechterordnung",
       "youtube": "Die Geschlechterordnung und der Trieb – Ein Vortrag von Sebastian Winter (2016)",
       "score": 0.92,
@@ -539,10 +611,10 @@
       "url": "https://www.youtube.com/watch?v=g11rNft6ht8"
     },
     {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
+      "audio": "Michael Heinrich – Das Marxsche Kapital in Zeiten der Finanzkrise",
+      "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
@@ -555,6 +627,12 @@
       "youtube": "Ohnmacht & imaginäre Inszenierung Das Verhältnis von Natur, Individuum & Gesellschaft",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=9PNZKjJ-9pY"
+    },
+    {
+      "audio": "Was ist Kapitalismus",
+      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Gerhard Stapelfeldt – Der Begriff der Natur in der Epoche des Liberalismus",
@@ -581,6 +659,18 @@
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
     },
     {
+      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
+    },
+    {
+      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
+      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+      "score": 0.85,
+      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
+    },
+    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
@@ -597,6 +687,12 @@
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
+    },
+    {
+      "audio": "Kritiken des Parlamentarismus – ein Vergleich",
+      "youtube": "Echte Demokratie jetzt!? Kritiken des Parlamentarismus – Ein Vergleich",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=xWEfTXF8PFc"
     },
     {
       "audio": "Parlamentarismuskritik in Zeiten des Rechtsrucks",
@@ -624,7 +720,7 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
@@ -642,7 +738,7 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
@@ -663,6 +759,12 @@
       "youtube": "Jahre Klassenkämpfe in Portugal – Ein Vortrag von Charles Reeve (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=5n6bnWbvwS4"
+    },
+    {
+      "audio": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
+      "youtube": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=RZIdZYzt2ms"
     },
     {
       "audio": "Christian Schmidt – Revolution und Erloesung",
