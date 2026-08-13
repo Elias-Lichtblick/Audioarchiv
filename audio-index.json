@@ -24086,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
+    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+    "matchScore": 0.789
   },
   {
     "id": "25481d2eec8dd020",
@@ -26878,7 +26878,7 @@
   },
   {
     "id": "f172ea1408c7f298",
-    "title": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+    "title": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
     "name": "Karl_Reitter-Prozesse_der_Befreiung-Marx,_Spinoza_und_die_Bedingungen_eines_freien_Gemeinwesens.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Karl_Reitter-Prozesse_der_Befreiung-Marx%2C_Spinoza_und_die_Bedingungen_eines_freien_Gemeinwesens.mp3",
     "folder": "Referate",
@@ -26886,6 +26886,7 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Karl Reitter",
       "Marx"
     ],
     "size": "",
@@ -26894,9 +26895,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=QuFD9WsUiBg",
-    "youtubeTitle": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
-    "matchScore": 0.894
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "12bac8a85dde6c7e",
@@ -38838,43 +38839,47 @@
   },
   {
     "id": "a452f0311be8ad0d",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Ohne weitere Bestimmung",
     "name": "Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "02134d5e16781adf",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d21b762f30421e29",
@@ -38901,23 +38906,25 @@
   },
   {
     "id": "fce6a65a6a0cc5e4",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HUmmel_Antifa_Berlin",
     "path": "Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / HUmmel Antifa Berlin",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "fda944c92d957049",
@@ -39243,9 +39250,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OO3ArRJlDMs",
+    "youtubeTitle": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+    "matchScore": 0.789
   },
   {
     "id": "b324ebe942bfaec9",
@@ -41900,16 +41907,14 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
+    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Joachim Bruhn"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41917,8 +41922,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.789
+    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.92
   },
   {
     "id": "97615f48e07f8b79",
@@ -46919,9 +46924,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
-    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-    "matchScore": 0.861
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "07558e4e028575de",
@@ -46941,9 +46946,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
-    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-    "matchScore": 0.861
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "07514a09972cb5dc",
@@ -51384,7 +51389,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Walter Benjamins Geschichtsphilosophie",
+    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51400,9 +51405,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
+    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "matchScore": 0.93
   },
   {
     "id": "d61597ea3400c321",
@@ -53553,7 +53558,7 @@
   },
   {
     "id": "2ac9ff2eb5f7acbd",
-    "title": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+    "title": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
     "name": "Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016/Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "folder": "Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016",
@@ -53562,7 +53567,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Feminismus",
-      "Rolf Pohl",
       "Sexualität"
     ],
     "size": "",
@@ -53571,9 +53575,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=1zsvCqhGydE",
+    "youtubeTitle": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+    "matchScore": 0.92
   },
   {
     "id": "7fba44a3b60b210a",
@@ -56448,7 +56452,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Stephan Grigat – Kritische Theorie des Zionismus",
+    "title": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56458,8 +56462,7 @@
     "tags": [
       "Kritische Theorie",
       "Israel",
-      "Literatur",
-      "Stephan Grigat"
+      "Literatur"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -56467,9 +56470,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=JlGNPntyn_s",
+    "youtubeTitle": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+    "matchScore": 0.92
   },
   {
     "id": "cfd75ce927da0a02",
@@ -59455,9 +59458,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PHSz1No03KA",
+    "youtubeTitle": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+    "matchScore": 0.865
   },
   {
     "id": "358370661239a85b",
