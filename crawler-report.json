@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 124,
-  "title_replaced": 92,
+  "enriched": 136,
+  "title_replaced": 99,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -197,6 +197,12 @@
       "url": "https://www.youtube.com/watch?v=UMCPOW5U6yU"
     },
     {
+      "audio": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
+      "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+      "score": 0.894,
+      "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
+    },
+    {
       "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
       "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
       "score": 0.92,
@@ -371,6 +377,18 @@
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
     },
     {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
       "youtube": "Dialektische Kritik der liberalen Aufklärung & bürgerlichen Revolution – Vortrag v Stapelfeldt",
       "score": 0.789,
@@ -387,6 +405,24 @@
       "youtube": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
+    },
+    {
+      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
     },
     {
       "audio": "Vortrag Sarrazin",
@@ -423,6 +459,18 @@
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
+    },
+    {
+      "audio": "Dienstag 02 Fiona Kalkstein Sozialpsychologische Perspektiven auf den Faschismus",
+      "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
+    },
+    {
+      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
+      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
@@ -489,6 +537,18 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
     },
     {
       "audio": "Sebastian Winter Geschlechterordnung",
@@ -645,6 +705,18 @@
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
     },
     {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
