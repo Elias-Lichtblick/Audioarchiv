@@ -1,15 +1,9 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 128,
-  "title_replaced": 93,
+  "enriched": 125,
+  "title_replaced": 94,
   "matches": [
-    {
-      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
-      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
-    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -239,12 +233,6 @@
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
     },
     {
-      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
-      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
-      "score": 0.767,
-      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
-    },
-    {
       "audio": "Thomas Maul – Darum Negative Dialektik",
       "youtube": "Darum Negative Dialektik – Ein Vortrag von Thomas Maul",
       "score": 0.92,
@@ -270,9 +258,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -291,12 +279,6 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -339,18 +321,6 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -405,6 +375,24 @@
       "youtube": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
+    },
+    {
+      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
+    },
+    {
+      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
+      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
     },
     {
       "audio": "Vortrag Sarrazin",
@@ -587,6 +575,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -603,12 +597,6 @@
       "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
       "score": 0.767,
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
-    },
-    {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
     },
     {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
@@ -765,12 +753,6 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
-    },
-    {
-      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
-      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-      "score": 0.865,
-      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
