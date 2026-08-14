@@ -13398,7 +13398,7 @@
   },
   {
     "id": "200f5b1fc320d111",
-    "title": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+    "title": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
     "name": "mats.MP3",
     "url": "https://audioarchiv.k23.in/Radio/Radio_Corax/Wendefokus/2014/mats.MP3",
     "folder": "Radio/Radio_Corax/Wendefokus/2014",
@@ -13406,7 +13406,6 @@
     "displayPath": "Radio / Radio Corax / Wendefokus / 2014",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Kapitalismus",
       "Radio"
     ],
     "size": "",
@@ -13416,7 +13415,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=_0vzQU9On_c",
-    "youtubeTitle": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+    "youtubeTitle": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
     "matchScore": 0.92
   },
   {
@@ -24086,9 +24085,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
-    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "25481d2eec8dd020",
@@ -28545,7 +28544,7 @@
   },
   {
     "id": "ac64286903f90523",
-    "title": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+    "title": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
     "name": "Ruediger_Mats.Wie_kapitalistisch_war_der_Sozialismus_.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Ruediger_Mats.Wie_kapitalistisch_war_der_Sozialismus_.mp3",
     "folder": "Referate",
@@ -28561,9 +28560,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_0vzQU9On_c",
-    "youtubeTitle": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "c33d0f26690b598b",
@@ -28590,7 +28589,7 @@
   },
   {
     "id": "ec9311d9b83849c4",
-    "title": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+    "title": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
     "name": "Rüdiger Mats - Wie kapitalistisch war der Sozialismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/R%C3%BCdiger%20Mats%20-%20Wie%20kapitalistisch%20war%20der%20Sozialismus.mp3",
     "folder": "Referate",
@@ -28598,7 +28597,8 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Kapitalismus"
+      "Kapitalismus",
+      "Rüdiger Mats"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -28606,9 +28606,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_0vzQU9On_c",
-    "youtubeTitle": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "cf0418ba2c986170",
@@ -31502,25 +31502,23 @@
   },
   {
     "id": "5d767691c60a5098",
-    "title": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+    "title": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
     "name": "Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "folder": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland",
     "path": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "displayPath": "Referate / Auf einer Skala von eins bis zehn – Wie Scheisse ist Deutschland",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Clemens Nachtmann"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=sgUQm8MWeIs",
+    "youtubeTitle": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+    "matchScore": 0.92
   },
   {
     "id": "eb1f63f2ac21bb10",
@@ -41902,16 +41900,14 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
+    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Joachim Bruhn"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41919,8 +41915,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.789
+    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.92
   },
   {
     "id": "97615f48e07f8b79",
@@ -57631,7 +57627,7 @@
   },
   {
     "id": "3b56c33df55c16d2",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "07_zunke_diskussion.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/07_zunke_diskussion.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57646,12 +57642,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
     "id": "881502d35677ebb1",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "06_zunke_vortrag.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/06_zunke_vortrag.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57666,7 +57662,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
