@@ -30817,7 +30817,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30825,7 +30825,8 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus"
+      "Anarchismus",
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30834,12 +30835,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "matchScore": 0.92
   },
   {
     "id": "b20869c50312d9ad",
-    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "title": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
     "name": "08-einfuehrung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30848,7 +30849,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Anarchismus",
-      "Kapitalismus"
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30856,8 +30857,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
-    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=V0Rusuck7FU",
+    "youtubeTitle": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
     "matchScore": 0.92
   },
   {
@@ -31453,9 +31454,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=nkj8dAhZd7A",
+    "youtubeTitle": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
+    "matchScore": 0.789
   },
   {
     "id": "f6470947f3510a52",
@@ -38840,43 +38841,47 @@
   },
   {
     "id": "a452f0311be8ad0d",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Ohne weitere Bestimmung",
     "name": "Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "02134d5e16781adf",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d21b762f30421e29",
@@ -38903,23 +38908,25 @@
   },
   {
     "id": "fce6a65a6a0cc5e4",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HUmmel_Antifa_Berlin",
     "path": "Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / HUmmel Antifa Berlin",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "fda944c92d957049",
@@ -41902,14 +41909,16 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joachim Bruhn"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41917,8 +41926,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.92
+    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.789
   },
   {
     "id": "97615f48e07f8b79",
@@ -51384,7 +51393,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Walter Benjamins Geschichtsphilosophie",
+    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51400,9 +51409,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
+    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "matchScore": 0.93
   },
   {
     "id": "d61597ea3400c321",
@@ -51808,7 +51817,7 @@
   },
   {
     "id": "c073048a51b80e63",
-    "title": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+    "title": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
     "name": "Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "url": "https://audioarchiv.k23.in/Referate/MarxExpedition-Leipzig/2013/Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "folder": "Referate/MarxExpedition-Leipzig/2013",
@@ -51816,6 +51825,7 @@
     "displayPath": "Referate / Marx Expedition – Leipzig / 2013",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christian Schmidt",
       "Marx"
     ],
     "size": "",
@@ -51824,9 +51834,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=q_rldrXtmUw",
-    "youtubeTitle": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "dac0fc4de3cabc37",
@@ -53703,9 +53713,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
+    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+    "matchScore": 0.85
   },
   {
     "id": "d0663005b442cb2a",

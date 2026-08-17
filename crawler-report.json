@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 124,
-  "title_replaced": 94,
+  "enriched": 123,
+  "title_replaced": 90,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -258,15 +258,15 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -279,6 +279,12 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
+    },
+    {
+      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
+      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -377,24 +383,6 @@
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
     },
     {
-      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
       "audio": "Vortrag Sarrazin",
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
@@ -408,8 +396,8 @@
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
-      "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-      "score": 0.92,
+      "youtube": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+      "score": 0.789,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
     },
     {
@@ -569,6 +557,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -585,12 +579,6 @@
       "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
       "score": 0.767,
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
-    },
-    {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
     },
     {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
@@ -639,6 +627,12 @@
       "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
+    },
+    {
+      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
+      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+      "score": 0.85,
+      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
     },
     {
       "audio": "Diktatur der Angepassten",
