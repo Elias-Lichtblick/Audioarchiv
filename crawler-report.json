@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 128,
-  "title_replaced": 94,
+  "enriched": 123,
+  "title_replaced": 89,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -51,12 +51,6 @@
       "youtube": "Wallstreet, Westbank, Weltverschwörung: Über den Zusammenhang von Antisemitismus & Antiamerikanismus",
       "score": 0.937,
       "url": "https://www.youtube.com/watch?v=aFVxpQhuB5U"
-    },
-    {
-      "audio": "Teil 1 – Was ist Kapitalismus",
-      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Von und Über Claude Lanzmann",
@@ -167,12 +161,6 @@
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
     },
     {
-      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
-      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
-    },
-    {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
       "youtube": "Pierre – Joseph Proudhon – Vater des Anarchismus, Antifeminist & Antisemit – Ein Vortrag von Feldmann",
       "score": 0.92,
@@ -270,9 +258,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -285,12 +273,6 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
-    },
-    {
-      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
-      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
     },
     {
       "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
@@ -405,24 +387,6 @@
       "youtube": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
-    },
-    {
-      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
     },
     {
       "audio": "Vortrag Sarrazin",
@@ -599,6 +563,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -627,12 +597,6 @@
       "youtube": "Ohnmacht & imaginäre Inszenierung Das Verhältnis von Natur, Individuum & Gesellschaft",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=9PNZKjJ-9pY"
-    },
-    {
-      "audio": "Was ist Kapitalismus",
-      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Gerhard Stapelfeldt – Der Begriff der Natur in der Epoche des Liberalismus",
@@ -771,6 +735,12 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
+    },
+    {
+      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
+      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+      "score": 0.865,
+      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
