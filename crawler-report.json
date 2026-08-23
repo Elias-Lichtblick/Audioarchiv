@@ -1,9 +1,15 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 119,
-  "title_replaced": 86,
+  "enriched": 128,
+  "title_replaced": 95,
   "matches": [
+    {
+      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
+      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
+    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -59,6 +65,60 @@
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
     },
     {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 2",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 3",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 4",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 5",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 6",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 7",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 8",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
       "audio": "Kritische Theorie",
       "youtube": "Kritische Theorie des Hörens & Negative Anthropologie nach Ulrich Sonnemann (2021)",
       "score": 0.93,
@@ -87,12 +147,6 @@
       "youtube": "Postmoderne Seinslehre – Über die Unmöglichkeit poststrukturalistischer Gesellschaftskritik (2022)",
       "score": 0.742,
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
-    },
-    {
-      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
-      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
     },
     {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
@@ -204,7 +258,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -231,12 +285,6 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -315,6 +363,18 @@
       "youtube": "Die Abwesenheit des Souveräns: Die Eurokrise & der Anti – EU – Populismus – Vortrag von Dr Scheit(2013)",
       "score": 0.805,
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
     },
     {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
@@ -599,12 +659,6 @@
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
     },
     {
-      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
-      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
-    },
-    {
       "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
       "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
       "score": 0.85,
@@ -648,9 +702,9 @@
     },
     {
       "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
+      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JqthEnm_Gnc"
+      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
     },
     {
       "audio": "Diskussion baumann",
@@ -660,7 +714,7 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
@@ -678,19 +732,19 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
