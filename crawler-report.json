@@ -1,15 +1,9 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 117,
-  "title_replaced": 84,
+  "enriched": 127,
+  "title_replaced": 95,
   "matches": [
-    {
-      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
-      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
-    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -53,10 +47,70 @@
       "url": "https://www.youtube.com/watch?v=aFVxpQhuB5U"
     },
     {
+      "audio": "Teil 1 – Was ist Kapitalismus",
+      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
+    },
+    {
       "audio": "Von und Über Claude Lanzmann",
       "youtube": "Pourquoi Israël – Ein Gespräch mit Claude Lanzmann (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 2",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 3",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 4",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 5",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 6",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 7",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 8",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
     },
     {
       "audio": "Kritische Theorie",
@@ -105,12 +159,6 @@
       "youtube": "Leo Koflers Philosophie der Praxis – Zur Aktualität eines verdrängten Marxisten – Von Dr Jünke",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
-    },
-    {
-      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
-      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
     },
     {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
@@ -204,7 +252,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -231,6 +279,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -273,18 +327,6 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -575,6 +617,12 @@
       "url": "https://www.youtube.com/watch?v=9PNZKjJ-9pY"
     },
     {
+      "audio": "Was ist Kapitalismus",
+      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
+    },
+    {
       "audio": "Gerhard Stapelfeldt – Der Begriff der Natur in der Epoche des Liberalismus",
       "youtube": "Der Begriff der Natur in der Epoche des Liberalismus – Ein Vortrag von Prof Dr Stapelfeldt (2013)",
       "score": 0.789,
@@ -597,6 +645,12 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
+    },
+    {
+      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
       "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
@@ -660,9 +714,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
+      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Vortrag baumann",
@@ -678,13 +732,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
@@ -705,6 +759,12 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
+    },
+    {
+      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
+      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
+      "score": 0.865,
+      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
