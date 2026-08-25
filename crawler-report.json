@@ -2,8 +2,14 @@
   "tracks": 2711,
   "videos": 500,
   "enriched": 127,
-  "title_replaced": 95,
+  "title_replaced": 92,
   "matches": [
+    {
+      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
+      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
+    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -161,6 +167,12 @@
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
     },
     {
+      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
+    },
+    {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
       "youtube": "Pierre – Joseph Proudhon – Vater des Anarchismus, Antifeminist & Antisemit – Ein Vortrag von Feldmann",
       "score": 0.92,
@@ -183,12 +195,6 @@
       "youtube": "Das Ende der liberalen Demokratie & radikaler Reformismus – Ein Vortrag von Joachim Hirsch (2008)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=UMCPOW5U6yU"
-    },
-    {
-      "audio": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
-      "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
-      "score": 0.894,
-      "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
     },
     {
       "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
@@ -258,9 +264,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -329,6 +335,18 @@
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
     },
     {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
       "youtube": "Zur Kritik der Arbeit – Ein Vortrag von Robert Kurz (2005)",
       "score": 0.92,
@@ -383,24 +401,6 @@
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
     },
     {
-      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
       "audio": "Vortrag Sarrazin",
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
@@ -435,6 +435,12 @@
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
+    },
+    {
+      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
+      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
@@ -573,12 +579,6 @@
       "youtube": "Sehet die Lilien Über das Recht auf Faulheit",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
-    },
-    {
-      "audio": "Walter Benjamins Geschichtsphilosophie",
-      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-      "score": 0.93,
-      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
     },
     {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
