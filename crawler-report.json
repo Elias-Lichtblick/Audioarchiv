@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 123,
-  "title_replaced": 93,
+  "enriched": 128,
+  "title_replaced": 96,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -149,6 +149,12 @@
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
     },
     {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
+    },
+    {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
       "youtube": "Die neue Marx – Lektüre des frühen Operaismus – Ein Vortrag von Christian Frings (2012)",
       "score": 0.92,
@@ -159,6 +165,12 @@
       "youtube": "Leo Koflers Philosophie der Praxis – Zur Aktualität eines verdrängten Marxisten – Von Dr Jünke",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
+    },
+    {
+      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
     },
     {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
@@ -183,12 +195,6 @@
       "youtube": "Das Ende der liberalen Demokratie & radikaler Reformismus – Ein Vortrag von Joachim Hirsch (2008)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=UMCPOW5U6yU"
-    },
-    {
-      "audio": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
-      "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
-      "score": 0.894,
-      "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
     },
     {
       "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
@@ -252,7 +258,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -351,6 +357,18 @@
       "youtube": "Die Abwesenheit des Souveräns: Die Eurokrise & der Anti – EU – Populismus – Vortrag von Dr Scheit(2013)",
       "score": 0.805,
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
     },
     {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
@@ -563,6 +581,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -696,9 +720,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
+      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
     },
     {
       "audio": "Vortrag baumann",
@@ -729,6 +753,12 @@
       "youtube": "Jahre Klassenkämpfe in Portugal – Ein Vortrag von Charles Reeve (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=5n6bnWbvwS4"
+    },
+    {
+      "audio": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
+      "youtube": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=RZIdZYzt2ms"
     },
     {
       "audio": "Christian Schmidt – Revolution und Erloesung",
