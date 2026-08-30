@@ -1296,7 +1296,7 @@
   },
   {
     "id": "edacf2b26dc544b1",
-    "title": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "title": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "name": "14_Die_Revolution_in_der_Revolution.mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion/14_Die_Revolution_in_der_Revolution.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion",
@@ -1314,7 +1314,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=EBUBOtndH8k",
-    "youtubeTitle": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "youtubeTitle": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "matchScore": 0.92
   },
   {
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "4c52e5f4e876b20f",
-    "title": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "title": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "name": "14_Die_Revolution_in_der_Revolution.mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion/geschnitten/14_Die_Revolution_in_der_Revolution.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion/geschnitten",
@@ -1683,7 +1683,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=EBUBOtndH8k",
-    "youtubeTitle": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "youtubeTitle": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "matchScore": 0.92
   },
   {
@@ -25021,7 +25021,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25029,6 +25029,7 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25037,9 +25038,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
-    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "19df3016eecdd62f",
@@ -30807,11 +30808,33 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
     "path": "Referate/Anarchismus/Libert�re Reihe/01-bakunin.mp3",
+    "displayPath": "Referate / Anarchismus / Libert�re Reihe",
+    "source": "K23 Audioarchiv",
+    "tags": [
+      "Anarchismus"
+    ],
+    "size": "",
+    "sizeBytes": 0,
+    "dateLabel": "",
+    "dateIso": "",
+    "sortDate": "",
+    "description": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
+    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "matchScore": 0.92
+  },
+  {
+    "id": "b20869c50312d9ad",
+    "title": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+    "name": "08-einfuehrung.mp3",
+    "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
+    "folder": "Referate/Anarchismus/Libert�re Reihe",
+    "path": "Referate/Anarchismus/Libert�re Reihe/08-einfuehrung.mp3",
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
@@ -30824,31 +30847,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
-    "matchScore": 0.92
-  },
-  {
-    "id": "b20869c50312d9ad",
-    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
-    "name": "08-einfuehrung.mp3",
-    "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
-    "folder": "Referate/Anarchismus/Libert�re Reihe",
-    "path": "Referate/Anarchismus/Libert�re Reihe/08-einfuehrung.mp3",
-    "displayPath": "Referate / Anarchismus / Libert�re Reihe",
-    "source": "K23 Audioarchiv",
-    "tags": [
-      "Anarchismus",
-      "Kapitalismus"
-    ],
-    "size": "",
-    "sizeBytes": 0,
-    "dateLabel": "",
-    "dateIso": "",
-    "sortDate": "",
-    "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
-    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=V0Rusuck7FU",
+    "youtubeTitle": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
     "matchScore": 0.92
   },
   {
@@ -34412,9 +34412,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
-    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34435,9 +34435,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
-    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-    "matchScore": 0.805
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "99a40c7069ae64d3",
@@ -51791,9 +51791,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
-    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "c073048a51b80e63",
@@ -53542,7 +53542,7 @@
   },
   {
     "id": "2ac9ff2eb5f7acbd",
-    "title": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+    "title": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
     "name": "Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016/Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "folder": "Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016",
@@ -53551,7 +53551,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Feminismus",
-      "Rolf Pohl",
       "Sexualität"
     ],
     "size": "",
@@ -53560,9 +53559,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=1zsvCqhGydE",
+    "youtubeTitle": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+    "matchScore": 0.92
   },
   {
     "id": "7fba44a3b60b210a",
@@ -56437,7 +56436,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Stephan Grigat – Kritische Theorie des Zionismus",
+    "title": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56447,8 +56446,7 @@
     "tags": [
       "Kritische Theorie",
       "Israel",
-      "Literatur",
-      "Stephan Grigat"
+      "Literatur"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -56456,9 +56454,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=JlGNPntyn_s",
+    "youtubeTitle": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+    "matchScore": 0.92
   },
   {
     "id": "cfd75ce927da0a02",
@@ -57331,7 +57329,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57339,8 +57337,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
-      "Marx"
+      "Islamismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57348,8 +57345,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4ccOSjhdd40",
+    "youtubeTitle": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "matchScore": 0.92
   },
   {
@@ -59445,9 +59442,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PHSz1No03KA",
-    "youtubeTitle": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-    "matchScore": 0.865
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "358370661239a85b",
