@@ -42681,9 +42681,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=ufx1j-OrTDc",
+    "youtubeTitle": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
+    "matchScore": 0.789
   },
   {
     "id": "351843123705d94f",
@@ -43265,9 +43265,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=YwKdSoEE5qM",
+    "youtubeTitle": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+    "matchScore": 0.805
   },
   {
     "id": "25bcedab5907efc9",
@@ -44247,9 +44247,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=2VNpbKSQpTo",
+    "youtubeTitle": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
+    "matchScore": 0.789
   },
   {
     "id": "80212922c0fe21ad",
@@ -54423,7 +54423,7 @@
   },
   {
     "id": "d6603d5b676fa663",
-    "title": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
+    "title": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
     "name": "Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_1.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Roger_Behrens/Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_1.mp3",
     "folder": "Referate/Roger_Behrens",
@@ -54431,8 +54431,9 @@
     "displayPath": "Referate / Roger Behrens",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Adorno",
       "Kritische Theorie",
-      "Entkorkte Flaschenpost",
+      "Marcuse",
       "Roger Behrens"
     ],
     "size": "",
@@ -54441,13 +54442,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=EOYzWslJckI",
+    "youtubeTitle": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "5c68a9fdb1412882",
-    "title": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
+    "title": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
     "name": "Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_2.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Roger_Behrens/Entkorkte_Flaschenpost-Kritische_Theorie_und_Student_innenbewegung_2.mp3",
     "folder": "Referate/Roger_Behrens",
@@ -54455,8 +54456,9 @@
     "displayPath": "Referate / Roger Behrens",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Adorno",
       "Kritische Theorie",
-      "Entkorkte Flaschenpost",
+      "Marcuse",
       "Roger Behrens"
     ],
     "size": "",
@@ -54465,9 +54467,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=EOYzWslJckI",
+    "youtubeTitle": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "9f51f30c877d678e",
@@ -57166,7 +57168,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57174,6 +57176,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57183,7 +57186,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57543,7 +57546,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57551,6 +57554,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57560,7 +57564,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
