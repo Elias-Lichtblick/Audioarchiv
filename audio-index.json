@@ -24086,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
-    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "25481d2eec8dd020",
@@ -30862,7 +30862,7 @@
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30879,7 +30879,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -31453,9 +31453,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=nkj8dAhZd7A",
-    "youtubeTitle": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "f6470947f3510a52",
@@ -34421,9 +34421,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34444,9 +34444,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "99a40c7069ae64d3",
@@ -38838,43 +38838,47 @@
   },
   {
     "id": "a452f0311be8ad0d",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Ohne weitere Bestimmung",
     "name": "Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ohne_weitere_Bestimmung.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "02134d5e16781adf",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HummelAntifa/Maiwochen_2012",
     "path": "Referate/HummelAntifa/Maiwochen_2012/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / Hummel Antifa / Maiwochen 2012",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d21b762f30421e29",
@@ -38901,23 +38905,25 @@
   },
   {
     "id": "fce6a65a6a0cc5e4",
-    "title": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
+    "title": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
     "name": "Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "url": "https://audioarchiv.k23.in/Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "folder": "Referate/HUmmel_Antifa_Berlin",
     "path": "Referate/HUmmel_Antifa_Berlin/Magnus_Klaue-Ueber_die_notwendige_Vergangenheit_des_Gluecks.mp3",
     "displayPath": "Referate / HUmmel Antifa Berlin",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Magnus Klaue"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_W3wt9Wdy-c",
-    "youtubeTitle": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "fda944c92d957049",
@@ -51800,9 +51806,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
-    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "c073048a51b80e63",
@@ -53701,9 +53707,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
+    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+    "matchScore": 0.85
   },
   {
     "id": "d0663005b442cb2a",
@@ -58100,7 +58106,7 @@
   },
   {
     "id": "38335e09eec641ab",
-    "title": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
+    "title": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
     "name": "Fr20KrisenhaftigkeitDesKapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Ums_Ganze_Kongress_Dez_2010/Fr20KrisenhaftigkeitDesKapitalismus.mp3",
     "folder": "Referate/Ums_Ganze_Kongress_Dez_2010",
@@ -58108,7 +58114,8 @@
     "displayPath": "Referate / Ums Ganze Kongress Dez 2010",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Kapitalismus"
+      "Kapitalismus",
+      "Thomas Konicz"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -58116,9 +58123,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=RZIdZYzt2ms",
+    "youtubeTitle": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
+    "matchScore": 0.92
   },
   {
     "id": "fa808496947b0998",
