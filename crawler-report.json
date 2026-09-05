@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 121,
-  "title_replaced": 87,
+  "enriched": 130,
+  "title_replaced": 97,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -63,6 +63,60 @@
       "youtube": "Pourquoi Israël – Ein Gespräch mit Claude Lanzmann (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 2",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 3",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 4",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 5",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 6",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 7",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 8",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
     },
     {
       "audio": "Kritische Theorie",
@@ -222,7 +276,7 @@
     },
     {
       "audio": "Lenin",
-      "youtube": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+      "youtube": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=4fXkGQ6dUBo"
     },
@@ -237,6 +291,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -399,12 +459,6 @@
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
-    },
-    {
-      "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
-      "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=2VNpbKSQpTo"
     },
     {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
@@ -678,9 +732,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
+      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
     },
     {
       "audio": "Vortrag baumann",
