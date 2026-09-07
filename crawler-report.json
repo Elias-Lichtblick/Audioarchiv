@@ -1,7 +1,7 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 115,
+  "enriched": 116,
   "title_replaced": 85,
   "matches": [
     {
@@ -216,9 +216,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -231,6 +231,18 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
+    },
+    {
+      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
+      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -581,6 +593,12 @@
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
     },
     {
+      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
+    },
+    {
       "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
       "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
       "score": 0.85,
@@ -623,12 +641,6 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
-      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
-    },
-    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -660,13 +672,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
@@ -675,12 +687,6 @@
       "youtube": "Jahre Klassenkämpfe in Portugal – Ein Vortrag von Charles Reeve (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=5n6bnWbvwS4"
-    },
-    {
-      "audio": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
-      "youtube": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=RZIdZYzt2ms"
     },
     {
       "audio": "Christian Schmidt – Revolution und Erloesung",
