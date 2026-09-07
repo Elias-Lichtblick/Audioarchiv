@@ -2,7 +2,7 @@
   "tracks": 2711,
   "videos": 500,
   "enriched": 116,
-  "title_replaced": 85,
+  "title_replaced": 86,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -216,13 +216,13 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
-      "youtube": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+      "youtube": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=4fXkGQ6dUBo"
     },
@@ -237,12 +237,6 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -437,6 +431,18 @@
       "url": "https://www.youtube.com/watch?v=2zzB4ljWDn8"
     },
     {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere mit anfang",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
+    },
+    {
       "audio": "Martin – blumentritt – Der Begriff der Natur bei Marx und Adorno",
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.92,
@@ -545,12 +551,6 @@
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
-    },
-    {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
       "youtube": "Zur Frage des Gebrauchswertfetischismus – Ein Vortrag von Kornelia Hafner (2012)",
       "score": 0.92,
@@ -599,12 +599,6 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
-      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
-      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-      "score": 0.85,
-      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
-    },
-    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
@@ -639,6 +633,12 @@
       "youtube": "Karl Kraus & die Kritische Theorie – Ein Vortrag von Irina Djassemy (2009)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
+    },
+    {
+      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
+      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
     },
     {
       "audio": "Diskussion baumann",
@@ -689,16 +689,16 @@
       "url": "https://www.youtube.com/watch?v=5n6bnWbvwS4"
     },
     {
+      "audio": "Fr 20 Krisenhaftigkeit Des Kapitalismus",
+      "youtube": "Die Corona – Krise & die Krisenhaftigkeit des Kapitalismus – Ein Gespräch mit Thomas Konicz (2020)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=RZIdZYzt2ms"
+    },
+    {
       "audio": "Christian Schmidt – Revolution und Erloesung",
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
-    },
-    {
-      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
-      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-      "score": 0.865,
-      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
