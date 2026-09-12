@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 124,
-  "title_replaced": 94,
+  "enriched": 116,
+  "title_replaced": 84,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -65,60 +65,6 @@
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
     },
     {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 2",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 3",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 4",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 5",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 6",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 7",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 8",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
       "audio": "Kritische Theorie",
       "youtube": "Kritische Theorie des Hörens & Negative Anthropologie nach Ulrich Sonnemann (2021)",
       "score": 0.93,
@@ -132,7 +78,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -149,6 +95,12 @@
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
     },
     {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
+    },
+    {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
       "youtube": "Die neue Marx – Lektüre des frühen Operaismus – Ein Vortrag von Christian Frings (2012)",
       "score": 0.92,
@@ -159,12 +111,6 @@
       "youtube": "Leo Koflers Philosophie der Praxis – Zur Aktualität eines verdrängten Marxisten – Von Dr Jünke",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
-    },
-    {
-      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
-      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
     },
     {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
@@ -215,18 +161,6 @@
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
     },
     {
-      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
-    },
-    {
-      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
-    },
-    {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
       "youtube": "Wahn mit Weltbild: Zu Sexismus & Antisemitismus – Ein Vortrag von Tanja Kinzel (2010)",
       "score": 0.92,
@@ -264,9 +198,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -285,12 +219,6 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -371,6 +299,18 @@
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
     },
     {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
       "youtube": "Dialektische Kritik der liberalen Aufklärung & bürgerlichen Revolution – Vortrag v Stapelfeldt",
       "score": 0.789,
@@ -411,6 +351,12 @@
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
+    },
+    {
+      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
+      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
@@ -575,6 +521,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -585,12 +537,6 @@
       "youtube": "Form & Geschichte des kapitalistischen Staates – Vortrag von Joachim Hirsch (unvollständig)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=g11rNft6ht8"
-    },
-    {
-      "audio": "Michael Heinrich – Das Marxsche Kapital in Zeiten der Finanzkrise",
-      "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
-      "score": 0.767,
-      "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
       "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
@@ -665,6 +611,12 @@
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
     },
     {
+      "audio": "Kritiken des Parlamentarismus – ein Vergleich",
+      "youtube": "Echte Demokratie jetzt!? Kritiken des Parlamentarismus – Ein Vergleich",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=xWEfTXF8PFc"
+    },
+    {
       "audio": "Parlamentarismuskritik in Zeiten des Rechtsrucks",
       "youtube": "Gestern radikal – heute Landtagswahl: Parlamentarismuskritik in Zeiten des Rechtsrucks",
       "score": 0.93,
@@ -696,9 +648,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
+      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Vortrag baumann",
