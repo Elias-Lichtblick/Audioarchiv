@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 119,
-  "title_replaced": 86,
+  "enriched": 128,
+  "title_replaced": 96,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -63,6 +63,60 @@
       "youtube": "Pourquoi Israël – Ein Gespräch mit Claude Lanzmann (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 2",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 3",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 4",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 5",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 6",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 7",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 8",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
     },
     {
       "audio": "Kritische Theorie",
@@ -210,9 +264,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
     },
     {
       "audio": "Lenin",
@@ -279,18 +333,6 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
-    },
-    {
-      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
-      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -381,6 +423,12 @@
       "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
+    },
+    {
+      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
+      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
     },
     {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
@@ -611,6 +659,12 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
+      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
+      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+      "score": 0.85,
+      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
+    },
+    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
@@ -684,13 +738,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
+      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
