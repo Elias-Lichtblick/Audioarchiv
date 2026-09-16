@@ -13398,7 +13398,7 @@
   },
   {
     "id": "200f5b1fc320d111",
-    "title": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
+    "title": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
     "name": "mats.MP3",
     "url": "https://audioarchiv.k23.in/Radio/Radio_Corax/Wendefokus/2014/mats.MP3",
     "folder": "Radio/Radio_Corax/Wendefokus/2014",
@@ -13406,6 +13406,7 @@
     "displayPath": "Radio / Radio Corax / Wendefokus / 2014",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Kapitalismus",
       "Radio"
     ],
     "size": "",
@@ -13415,7 +13416,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=_0vzQU9On_c",
-    "youtubeTitle": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
+    "youtubeTitle": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
     "matchScore": 0.92
   },
   {
@@ -25029,7 +25030,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25037,7 +25038,6 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25046,9 +25046,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
+    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "matchScore": 0.92
   },
   {
     "id": "19df3016eecdd62f",
@@ -26946,23 +26946,25 @@
   },
   {
     "id": "97c54bd3d859cd61",
-    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
     "name": "Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate",
     "path": "Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Kerstin Stakemeier"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
-    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "0a0847da4074a250",
@@ -28545,7 +28547,7 @@
   },
   {
     "id": "ac64286903f90523",
-    "title": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
+    "title": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
     "name": "Ruediger_Mats.Wie_kapitalistisch_war_der_Sozialismus_.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Ruediger_Mats.Wie_kapitalistisch_war_der_Sozialismus_.mp3",
     "folder": "Referate",
@@ -28561,9 +28563,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=_0vzQU9On_c",
+    "youtubeTitle": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+    "matchScore": 0.92
   },
   {
     "id": "c33d0f26690b598b",
@@ -28590,7 +28592,7 @@
   },
   {
     "id": "ec9311d9b83849c4",
-    "title": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
+    "title": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
     "name": "Rüdiger Mats - Wie kapitalistisch war der Sozialismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/R%C3%BCdiger%20Mats%20-%20Wie%20kapitalistisch%20war%20der%20Sozialismus.mp3",
     "folder": "Referate",
@@ -28598,8 +28600,7 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Kapitalismus",
-      "Rüdiger Mats"
+      "Kapitalismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -28607,9 +28608,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=_0vzQU9On_c",
+    "youtubeTitle": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+    "matchScore": 0.92
   },
   {
     "id": "cf0418ba2c986170",
@@ -37986,7 +37987,7 @@
   },
   {
     "id": "885e53d4cb3ba33b",
-    "title": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+    "title": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
     "name": "Gerhard_Stapelfeldt_zu_Paulo_Freires_Paedagogik_der_Befreiung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Gerhard_Stapelfeldt/Gerhard_Stapelfeldt_zu_Paulo_Freires_Paedagogik_der_Befreiung.mp3",
     "folder": "Referate/Gerhard_Stapelfeldt",
@@ -38000,9 +38001,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=cYJ-XJqydmw",
-    "youtubeTitle": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "10fd9ae810704c07",
@@ -38020,9 +38021,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=cYJ-XJqydmw",
-    "youtubeTitle": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "f96204df97f19f22",
@@ -41967,23 +41968,25 @@
   },
   {
     "id": "0cdc644a5915330e",
-    "title": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+    "title": "Joerg Huber – Der Aberglaube des Positivismus",
     "name": "Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "folder": "Referate/Joerg_Huber",
     "path": "Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "displayPath": "Referate / Joerg Huber",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joerg Huber"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z6H1_1KF9Ls",
-    "youtubeTitle": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "89a94f2b2f8c2f56",
@@ -47967,23 +47970,25 @@
   },
   {
     "id": "fbc8989d7d8e301a",
-    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
     "name": "Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate/Kunst_Spektakel_Revolution",
     "path": "Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate / Kunst Spektakel Revolution",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Kerstin Stakemeier"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
-    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "0e7b5e399d4a4023",
@@ -56446,7 +56451,7 @@
   },
   {
     "id": "51beb2041714b439",
-    "title": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
+    "title": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
     "name": "Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009/Stephan_Grigat-Kritische_Theorie_des_Zionismus.mp3",
     "folder": "Referate/Tjark_Kunstreich/Quer_zur_Wirklichkeit-Ringvorlesung_KT-2009",
@@ -56464,8 +56469,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=JqthEnm_Gnc",
-    "youtubeTitle": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JlGNPntyn_s",
+    "youtubeTitle": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
     "matchScore": 0.92
   },
   {
