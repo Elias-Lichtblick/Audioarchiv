@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 128,
-  "title_replaced": 95,
+  "enriched": 125,
+  "title_replaced": 93,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -51,12 +51,6 @@
       "youtube": "Wallstreet, Westbank, Weltverschwörung: Über den Zusammenhang von Antisemitismus & Antiamerikanismus",
       "score": 0.937,
       "url": "https://www.youtube.com/watch?v=aFVxpQhuB5U"
-    },
-    {
-      "audio": "Teil 1 – Was ist Kapitalismus",
-      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Von und Über Claude Lanzmann",
@@ -167,12 +161,6 @@
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
     },
     {
-      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
-      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
-    },
-    {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
       "youtube": "Pierre – Joseph Proudhon – Vater des Anarchismus, Antifeminist & Antisemit – Ein Vortrag von Feldmann",
       "score": 0.92,
@@ -270,9 +258,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+      "youtube": "Einführung in die materialistische Antisemitismuskritik (2017)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
+      "url": "https://www.youtube.com/watch?v=rIw5y_OLEKQ"
     },
     {
       "audio": "Lenin",
@@ -377,6 +365,18 @@
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
     },
     {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
       "youtube": "Dialektische Kritik der liberalen Aufklärung & bürgerlichen Revolution – Vortrag v Stapelfeldt",
       "score": 0.789,
@@ -419,16 +419,16 @@
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
     },
     {
-      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
-      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
-    },
-    {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
       "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
+    },
+    {
+      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
+      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
     },
     {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
@@ -581,12 +581,6 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
-      "audio": "Walter Benjamins Geschichtsphilosophie",
-      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-      "score": 0.93,
-      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
-    },
-    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -597,12 +591,6 @@
       "youtube": "Form & Geschichte des kapitalistischen Staates – Vortrag von Joachim Hirsch (unvollständig)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=g11rNft6ht8"
-    },
-    {
-      "audio": "Michael Heinrich – Das Marxsche Kapital in Zeiten der Finanzkrise",
-      "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
-      "score": 0.767,
-      "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
       "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
@@ -621,12 +609,6 @@
       "youtube": "Ohnmacht & imaginäre Inszenierung Das Verhältnis von Natur, Individuum & Gesellschaft",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=9PNZKjJ-9pY"
-    },
-    {
-      "audio": "Was ist Kapitalismus",
-      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Gerhard Stapelfeldt – Der Begriff der Natur in der Epoche des Liberalismus",
@@ -720,9 +702,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
+      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Vortrag baumann",
@@ -738,13 +720,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
