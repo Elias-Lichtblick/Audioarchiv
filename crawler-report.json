@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 122,
-  "title_replaced": 93,
+  "enriched": 112,
+  "title_replaced": 85,
   "matches": [
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
@@ -126,7 +126,7 @@
     },
     {
       "audio": "Mats",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
+      "youtube": "How Capitalist Was Socialism? – A Lecture by Rüdiger Mats (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
     },
@@ -141,12 +141,6 @@
       "youtube": "Postmoderne Seinslehre – Über die Unmöglichkeit poststrukturalistischer Gesellschaftskritik (2022)",
       "score": 0.742,
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
-    },
-    {
-      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
-      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
     },
     {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
@@ -215,18 +209,6 @@
       "url": "https://www.youtube.com/watch?v=6z2ASo_csPw"
     },
     {
-      "audio": "Ruediger Mats Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
-    },
-    {
-      "audio": "Rüdiger Mats – Wie kapitalistisch war der Sozialismus",
-      "youtube": "Wie kapitalistisch war der Sozialismus? – Ein Vortrag von Rüdiger Mats (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_0vzQU9On_c"
-    },
-    {
       "audio": "Tanja Kinzel Sexismus Und Antisemitismus",
       "youtube": "Wahn mit Weltbild: Zu Sexismus & Antisemitismus – Ein Vortrag von Tanja Kinzel (2010)",
       "score": 0.92,
@@ -264,9 +246,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung in die materialistische Antisemitismuskritik (2017)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=rIw5y_OLEKQ"
     },
     {
       "audio": "Lenin",
@@ -279,18 +261,6 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
-    },
-    {
-      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
-      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -353,6 +323,18 @@
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
     },
     {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
       "youtube": "Dialektische Kritik der liberalen Aufklärung & bürgerlichen Revolution – Vortrag v Stapelfeldt",
       "score": 0.789,
@@ -371,46 +353,16 @@
       "url": "https://www.youtube.com/watch?v=XGIpVrkKU3Y"
     },
     {
-      "audio": "Magnus Klaue – Ohne weitere Bestimmung",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
-      "audio": "Magnus Klaue – Über die notwendige Vergangenheit des Gluecks",
-      "youtube": "Ohne weitere Bestimmung Über die notwendige Vergangenheit des Glücks – Ein Vortrag von Magnus Klaue",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=_W3wt9Wdy-c"
-    },
-    {
       "audio": "Vortrag Sarrazin",
       "youtube": "Der Sarrazin – Komplex – Ein Vortrag von Justus Wertmüller (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
     },
     {
-      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
-      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
-    },
-    {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
       "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
-    },
-    {
-      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
-      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
     },
     {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
@@ -483,6 +435,18 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
     },
     {
       "audio": "Sebastian Winter Geschlechterordnung",
@@ -575,12 +539,6 @@
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
-    },
-    {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
       "youtube": "Zur Frage des Gebrauchswertfetischismus – Ein Vortrag von Kornelia Hafner (2012)",
       "score": 0.92,
@@ -621,18 +579,6 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
-    },
-    {
-      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
-      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
-    },
-    {
-      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
-      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-      "score": 0.85,
-      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
     },
     {
       "audio": "Diktatur der Angepassten",
@@ -678,15 +624,15 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Podium",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
+      "url": "https://www.youtube.com/watch?v=SfFc0SzX10s"
     },
     {
       "audio": "Vortrag baumann",
@@ -696,19 +642,19 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
@@ -729,12 +675,6 @@
       "youtube": "Revolution und Erlösung: Zur Ideengeschichte des Kommunismus – Ein Gespräch mit Christian Schmidt",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=_r0jFPP0B1o"
-    },
-    {
-      "audio": "Gerhard Scheit – Folter und Vernichtung – Jean Amerys immanente Kritik an der Philosophie Jean – Paul Sartres",
-      "youtube": "Folter & Vernichtung Jean Amérys immanente Kritik an der Philosophie Jean – Paul Sartres (2012)",
-      "score": 0.865,
-      "url": "https://www.youtube.com/watch?v=PHSz1No03KA"
     }
   ]
 }
