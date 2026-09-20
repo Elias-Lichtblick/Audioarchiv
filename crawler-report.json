@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 130,
-  "title_replaced": 97,
+  "enriched": 127,
+  "title_replaced": 90,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -65,60 +65,6 @@
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
     },
     {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 2",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 3",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 4",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 5",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 6",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 7",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 8",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
       "audio": "Kritische Theorie",
       "youtube": "Kritische Theorie des Hörens & Negative Anthropologie nach Ulrich Sonnemann (2021)",
       "score": 0.93,
@@ -147,6 +93,12 @@
       "youtube": "Postmoderne Seinslehre – Über die Unmöglichkeit poststrukturalistischer Gesellschaftskritik (2022)",
       "score": 0.742,
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
+    },
+    {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
     },
     {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
@@ -455,6 +407,24 @@
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
     },
     {
+      "audio": "Dienstag 02 Fiona Kalkstein Sozialpsychologische Perspektiven auf den Faschismus",
+      "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
+    },
+    {
+      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
+      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
+    },
+    {
+      "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
+      "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=2VNpbKSQpTo"
+    },
+    {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
       "youtube": "Marx, 1968 & die Subjektkritik – Ein Vortrag von Dr Roger Behrens (2018)",
       "score": 0.92,
@@ -681,6 +651,18 @@
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
+    },
+    {
+      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
+      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
     },
     {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
