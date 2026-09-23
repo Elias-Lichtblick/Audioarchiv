@@ -1,7 +1,7 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 128,
+  "enriched": 129,
   "title_replaced": 95,
   "matches": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -36,7 +36,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -353,12 +353,6 @@
       "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
-      "audio": "Robert Kurz Zur Kritik der Arbeit",
-      "youtube": "Zur Kritik der Arbeit – Ein Vortrag von Robert Kurz (2005)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Mn-qzWwcBkc"
-    },
-    {
       "audio": "Frigga Haug – Marx und der Feminismus",
       "youtube": "Marx & der Feminismus – Ein Vortrag von Dr Frigga Haug (2012)",
       "score": 0.92,
@@ -431,10 +425,22 @@
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
     },
     {
-      "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
-      "youtube": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
+      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
       "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
+    },
+    {
+      "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
+      "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+      "score": 0.92,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
+    },
+    {
+      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
+      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
     },
     {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
@@ -605,10 +611,10 @@
       "url": "https://www.youtube.com/watch?v=g11rNft6ht8"
     },
     {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
+      "audio": "Michael Heinrich – Das Marxsche Kapital in Zeiten der Finanzkrise",
+      "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
     },
     {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
