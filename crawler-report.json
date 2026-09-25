@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 130,
-  "title_replaced": 96,
+  "enriched": 129,
+  "title_replaced": 95,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -203,12 +203,6 @@
       "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
     },
     {
-      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
-      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
-    },
-    {
       "audio": "Lena Kirsch – Die Logik der Misogynie – 2018",
       "youtube": "Die Logik der Misogynie – Ein Vortrag von Lena Kirsch (2018)",
       "score": 0.92,
@@ -291,6 +285,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -537,12 +537,6 @@
       "youtube": "Wahnmachen: Eine Adoleszenzkrise des völkischen Protests – Vortrag von Tom Uhlig (2016)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=upHWGQj7vuk"
-    },
-    {
-      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
-      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
     },
     {
       "audio": "Tilman Reitz – Utopie Spiel Menschenmaschine – Charles Fourier und die Avantgardebewegungen – 01 – – – Vortrag",
