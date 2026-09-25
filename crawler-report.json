@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 129,
-  "title_replaced": 95,
+  "enriched": 130,
+  "title_replaced": 96,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -201,6 +201,12 @@
       "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
       "score": 0.894,
       "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
+    },
+    {
+      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
     },
     {
       "audio": "Lena Kirsch – Die Logik der Misogynie – 2018",
@@ -437,12 +443,6 @@
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
     },
     {
-      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
-      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
-    },
-    {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
@@ -537,6 +537,12 @@
       "youtube": "Wahnmachen: Eine Adoleszenzkrise des völkischen Protests – Vortrag von Tom Uhlig (2016)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=upHWGQj7vuk"
+    },
+    {
+      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
     },
     {
       "audio": "Tilman Reitz – Utopie Spiel Menschenmaschine – Charles Fourier und die Avantgardebewegungen – 01 – – – Vortrag",
@@ -726,9 +732,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
+      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
     },
     {
       "audio": "Vortrag baumann",
