@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 122,
-  "title_replaced": 92,
+  "enriched": 130,
+  "title_replaced": 95,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -276,7 +276,7 @@
     },
     {
       "audio": "Lenin",
-      "youtube": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+      "youtube": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=4fXkGQ6dUBo"
     },
@@ -291,6 +291,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -347,6 +353,12 @@
       "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
+      "audio": "Robert Kurz Zur Kritik der Arbeit",
+      "youtube": "Zur Kritik der Arbeit – Ein Vortrag von Robert Kurz (2005)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=Mn-qzWwcBkc"
+    },
+    {
       "audio": "Frigga Haug – Marx und der Feminismus",
       "youtube": "Marx & der Feminismus – Ein Vortrag von Dr Frigga Haug (2012)",
       "score": 0.92,
@@ -363,6 +375,18 @@
       "youtube": "Die Abwesenheit des Souveräns: Die Eurokrise & der Anti – EU – Populismus – Vortrag von Dr Scheit(2013)",
       "score": 0.805,
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
+    },
+    {
+      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
+      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
     },
     {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
@@ -419,6 +443,12 @@
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
     },
     {
+      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
+      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
+    },
+    {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
@@ -429,6 +459,12 @@
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
+    },
+    {
+      "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
+      "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=2VNpbKSQpTo"
     },
     {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
@@ -489,6 +525,18 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
+    },
+    {
+      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
+      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+      "score": 0.861,
+      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
     },
     {
       "audio": "Sebastian Winter Geschlechterordnung",
@@ -629,6 +677,12 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
+      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
+      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
+      "score": 0.85,
+      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
+    },
+    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
@@ -645,12 +699,6 @@
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
-    },
-    {
-      "audio": "Kritiken des Parlamentarismus – ein Vergleich",
-      "youtube": "Echte Demokratie jetzt!? Kritiken des Parlamentarismus – Ein Vergleich",
-      "score": 0.93,
-      "url": "https://www.youtube.com/watch?v=xWEfTXF8PFc"
     },
     {
       "audio": "Parlamentarismuskritik in Zeiten des Rechtsrucks",
