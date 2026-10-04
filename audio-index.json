@@ -1296,7 +1296,7 @@
   },
   {
     "id": "edacf2b26dc544b1",
-    "title": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "title": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "name": "14_Die_Revolution_in_der_Revolution.mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion/14_Die_Revolution_in_der_Revolution.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion",
@@ -1314,7 +1314,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=EBUBOtndH8k",
-    "youtubeTitle": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "youtubeTitle": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "matchScore": 0.92
   },
   {
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "4c52e5f4e876b20f",
-    "title": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "title": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "name": "14_Die_Revolution_in_der_Revolution.mp3",
     "url": "https://audioarchiv.k23.in/Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion/geschnitten/14_Die_Revolution_in_der_Revolution.mp3",
     "folder": "Radio/Context_XXI-Cafe_Critique/Johannes_Agnoli-Die_Geschichte_der_Subversion/geschnitten",
@@ -1683,7 +1683,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=EBUBOtndH8k",
-    "youtubeTitle": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
+    "youtubeTitle": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
     "matchScore": 0.92
   },
   {
@@ -24086,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
+    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+    "matchScore": 0.789
   },
   {
     "id": "25481d2eec8dd020",
@@ -30816,7 +30816,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30824,7 +30824,8 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus"
+      "Anarchismus",
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30833,7 +30834,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "matchScore": 0.92
   },
   {
@@ -30861,7 +30862,7 @@
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30878,7 +30879,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
+    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -41899,14 +41900,16 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joachim Bruhn"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41914,8 +41917,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.92
+    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.789
   },
   {
     "id": "97615f48e07f8b79",
@@ -41965,25 +41968,23 @@
   },
   {
     "id": "0cdc644a5915330e",
-    "title": "Joerg Huber – Der Aberglaube des Positivismus",
+    "title": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
     "name": "Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "folder": "Referate/Joerg_Huber",
     "path": "Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "displayPath": "Referate / Joerg Huber",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Joerg Huber"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z6H1_1KF9Ls",
+    "youtubeTitle": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+    "matchScore": 0.92
   },
   {
     "id": "89a94f2b2f8c2f56",
@@ -46918,9 +46919,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
+    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+    "matchScore": 0.861
   },
   {
     "id": "07558e4e028575de",
@@ -46940,9 +46941,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
+    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
+    "matchScore": 0.861
   },
   {
     "id": "07514a09972cb5dc",
@@ -57167,7 +57168,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57175,6 +57176,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57184,7 +57186,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57338,7 +57340,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
+    "title": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57346,7 +57348,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Daniel Göcht"
+      "Islamismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57354,8 +57356,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=SfFc0SzX10s",
-    "youtubeTitle": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4ccOSjhdd40",
+    "youtubeTitle": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "matchScore": 0.92
   },
   {
@@ -57544,7 +57546,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57552,6 +57554,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57561,7 +57564,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
