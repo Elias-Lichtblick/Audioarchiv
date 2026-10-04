@@ -24086,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
-    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "25481d2eec8dd020",
@@ -26946,25 +26946,23 @@
   },
   {
     "id": "97c54bd3d859cd61",
-    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
     "name": "Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate",
     "path": "Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Kerstin Stakemeier"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
+    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "0a0847da4074a250",
@@ -30818,11 +30816,33 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
     "path": "Referate/Anarchismus/Libert�re Reihe/01-bakunin.mp3",
+    "displayPath": "Referate / Anarchismus / Libert�re Reihe",
+    "source": "K23 Audioarchiv",
+    "tags": [
+      "Anarchismus"
+    ],
+    "size": "",
+    "sizeBytes": 0,
+    "dateLabel": "",
+    "dateIso": "",
+    "sortDate": "",
+    "description": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
+    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "matchScore": 0.92
+  },
+  {
+    "id": "b20869c50312d9ad",
+    "title": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+    "name": "08-einfuehrung.mp3",
+    "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
+    "folder": "Referate/Anarchismus/Libert�re Reihe",
+    "path": "Referate/Anarchismus/Libert�re Reihe/08-einfuehrung.mp3",
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
@@ -30835,36 +30855,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
-    "matchScore": 0.92
-  },
-  {
-    "id": "b20869c50312d9ad",
-    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
-    "name": "08-einfuehrung.mp3",
-    "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
-    "folder": "Referate/Anarchismus/Libert�re Reihe",
-    "path": "Referate/Anarchismus/Libert�re Reihe/08-einfuehrung.mp3",
-    "displayPath": "Referate / Anarchismus / Libert�re Reihe",
-    "source": "K23 Audioarchiv",
-    "tags": [
-      "Anarchismus",
-      "Kapitalismus"
-    ],
-    "size": "",
-    "sizeBytes": 0,
-    "dateLabel": "",
-    "dateIso": "",
-    "sortDate": "",
-    "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
-    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=V0Rusuck7FU",
+    "youtubeTitle": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
     "matchScore": 0.92
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30881,7 +30878,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -34423,9 +34420,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "4c47da3c0ff5bbe5",
@@ -34446,9 +34443,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z0YM0HthZ3A",
+    "youtubeTitle": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+    "matchScore": 0.805
   },
   {
     "id": "99a40c7069ae64d3",
@@ -41968,23 +41965,25 @@
   },
   {
     "id": "0cdc644a5915330e",
-    "title": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+    "title": "Joerg Huber – Der Aberglaube des Positivismus",
     "name": "Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "folder": "Referate/Joerg_Huber",
     "path": "Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "displayPath": "Referate / Joerg Huber",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joerg Huber"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z6H1_1KF9Ls",
-    "youtubeTitle": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "89a94f2b2f8c2f56",
@@ -46919,9 +46918,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
-    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-    "matchScore": 0.861
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "07558e4e028575de",
@@ -46941,9 +46940,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlUIxIjBUlY",
-    "youtubeTitle": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-    "matchScore": 0.861
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "07514a09972cb5dc",
@@ -47968,25 +47967,23 @@
   },
   {
     "id": "fbc8989d7d8e301a",
-    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
     "name": "Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate/Kunst_Spektakel_Revolution",
     "path": "Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate / Kunst Spektakel Revolution",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Kerstin Stakemeier"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
+    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "0e7b5e399d4a4023",
@@ -51386,7 +51383,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Walter Benjamins Geschichtsphilosophie",
+    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51402,9 +51399,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
+    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "matchScore": 0.93
   },
   {
     "id": "d61597ea3400c321",
@@ -51810,7 +51807,7 @@
   },
   {
     "id": "c073048a51b80e63",
-    "title": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
+    "title": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
     "name": "Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "url": "https://audioarchiv.k23.in/Referate/MarxExpedition-Leipzig/2013/Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "folder": "Referate/MarxExpedition-Leipzig/2013",
@@ -51818,7 +51815,6 @@
     "displayPath": "Referate / Marx Expedition – Leipzig / 2013",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christian Schmidt",
       "Marx"
     ],
     "size": "",
@@ -51827,9 +51823,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=q_rldrXtmUw",
+    "youtubeTitle": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+    "matchScore": 0.92
   },
   {
     "id": "dac0fc4de3cabc37",
@@ -57171,7 +57167,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57179,7 +57175,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57189,7 +57184,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57343,7 +57338,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57351,8 +57346,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
-      "Marx"
+      "Daniel Göcht"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57360,8 +57354,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SfFc0SzX10s",
+    "youtubeTitle": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
     "matchScore": 0.92
   },
   {
@@ -57550,7 +57544,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57558,7 +57552,6 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57568,7 +57561,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
