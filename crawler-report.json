@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 125,
-  "title_replaced": 94,
+  "enriched": 127,
+  "title_replaced": 93,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -51,12 +51,6 @@
       "youtube": "Wallstreet, Westbank, Weltverschwörung: Über den Zusammenhang von Antisemitismus & Antiamerikanismus",
       "score": 0.937,
       "url": "https://www.youtube.com/watch?v=aFVxpQhuB5U"
-    },
-    {
-      "audio": "Teil 1 – Was ist Kapitalismus",
-      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Von und Über Claude Lanzmann",
@@ -237,6 +231,12 @@
       "youtube": "Wahn mit Weltbild: Zu Sexismus & Antisemitismus – Ein Vortrag von Tanja Kinzel (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
+    },
+    {
+      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
+      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
     },
     {
       "audio": "Thomas Maul – Darum Negative Dialektik",
@@ -425,10 +425,22 @@
       "url": "https://www.youtube.com/watch?v=RYCDgjSUpmg"
     },
     {
+      "audio": "Ingo Elbe – Revolutionstheorie und ihre Kritik bei Marx",
+      "youtube": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=OO3ArRJlDMs"
+    },
+    {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
       "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
+    },
+    {
+      "audio": "Joerg Huber – Der Aberglaube des Positivismus",
+      "youtube": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=z6H1_1KF9Ls"
     },
     {
       "audio": "Ali Ma – Johannes Agnoli und die Ap O",
@@ -557,12 +569,6 @@
       "url": "https://www.youtube.com/watch?v=GJax7cxBElg"
     },
     {
-      "audio": "Lars Quadfasel – Die Wahrheit des Unbewussten Zur Eigenart der psychoanalytischen Erkenntnis",
-      "youtube": "Die Wahrheit des Unbewussten: Zur Eigenart der psychoanalytischen Erkenntnis (2007)",
-      "score": 0.882,
-      "url": "https://www.youtube.com/watch?v=r987rxH0dak"
-    },
-    {
       "audio": "Lars Quadfasel – Wenn Postfaschist innen zu sehr lieben",
       "youtube": "Wenn Postfaschist Innen zu sehr lieben – Ein Vortrag von Lars Quadfasel (2009)",
       "score": 0.92,
@@ -593,6 +599,12 @@
       "url": "https://www.youtube.com/watch?v=g11rNft6ht8"
     },
     {
+      "audio": "Michael Heinrich – Das Marxsche Kapital in Zeiten der Finanzkrise",
+      "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
+    },
+    {
       "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
       "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
       "score": 0.92,
@@ -609,12 +621,6 @@
       "youtube": "Ohnmacht & imaginäre Inszenierung Das Verhältnis von Natur, Individuum & Gesellschaft",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=9PNZKjJ-9pY"
-    },
-    {
-      "audio": "Was ist Kapitalismus",
-      "youtube": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=OqTUXL868to"
     },
     {
       "audio": "Gerhard Stapelfeldt – Der Begriff der Natur in der Epoche des Liberalismus",
@@ -639,6 +645,12 @@
       "youtube": "Begriff der Natur bei Marx & Adorno – Ein Vortrag von Martin Blumentritt (2015)",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
+    },
+    {
+      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
       "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
@@ -702,9 +714,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
+      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
     },
     {
       "audio": "Vortrag baumann",

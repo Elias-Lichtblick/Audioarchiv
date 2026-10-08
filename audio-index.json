@@ -8203,7 +8203,7 @@
   },
   {
     "id": "6384bfc71bd0fb0b",
-    "title": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+    "title": "Teil 1 – Was ist Kapitalismus",
     "name": "Teil_1-Was_ist_Kapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Radio/NPC_von_Radio_FREI/Robert_Kurz-Das_Weltkapital/Teil_1-Was_ist_Kapitalismus.mp3",
     "folder": "Radio/NPC_von_Radio_FREI/Robert_Kurz-Das_Weltkapital",
@@ -8220,9 +8220,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OqTUXL868to",
-    "youtubeTitle": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "909ce7e896505258",
@@ -29222,9 +29222,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=KLltKvoF3fQ",
+    "youtubeTitle": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
+    "matchScore": 0.767
   },
   {
     "id": "5d20e51c838d5e76",
@@ -39243,9 +39243,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OO3ArRJlDMs",
+    "youtubeTitle": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
+    "matchScore": 0.789
   },
   {
     "id": "b324ebe942bfaec9",
@@ -41966,25 +41966,23 @@
   },
   {
     "id": "0cdc644a5915330e",
-    "title": "Joerg Huber – Der Aberglaube des Positivismus",
+    "title": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
     "name": "Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "folder": "Referate/Joerg_Huber",
     "path": "Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "displayPath": "Referate / Joerg Huber",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Joerg Huber"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=z6H1_1KF9Ls",
+    "youtubeTitle": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+    "matchScore": 0.92
   },
   {
     "id": "89a94f2b2f8c2f56",
@@ -50204,7 +50202,7 @@
   },
   {
     "id": "c2ef3ba0c7f2d07a",
-    "title": "Die Wahrheit des Unbewussten: Zur Eigenart der psychoanalytischen Erkenntnis (2007)",
+    "title": "Lars Quadfasel – Die Wahrheit des Unbewussten Zur Eigenart der psychoanalytischen Erkenntnis",
     "name": "Lars_Quadfasel-Die_Wahrheit_des_Unbewussten.Zur_Eigenart_der_psychoanalytischen_Erkenntnis.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Lars_Quadfasel/Lars_Quadfasel-Die_Wahrheit_des_Unbewussten.Zur_Eigenart_der_psychoanalytischen_Erkenntnis.mp3",
     "folder": "Referate/Lars_Quadfasel",
@@ -50212,6 +50210,7 @@
     "displayPath": "Referate / Lars Quadfasel",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Lars Quadfasel",
       "Psychoanalyse"
     ],
     "size": "",
@@ -50220,9 +50219,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=r987rxH0dak",
-    "youtubeTitle": "Die Wahrheit des Unbewussten: Zur Eigenart der psychoanalytischen Erkenntnis (2007)",
-    "matchScore": 0.882
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "5b0f223714061d38",
@@ -51802,9 +51801,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
+    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
+    "matchScore": 0.767
   },
   {
     "id": "c073048a51b80e63",
@@ -52686,7 +52685,7 @@
   },
   {
     "id": "77bdf0a889ef6f28",
-    "title": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+    "title": "Was ist Kapitalismus",
     "name": "Was_ist_Kapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Michael_Heinrich/Was_ist_Kapitalismus.mp3",
     "folder": "Referate/Michael_Heinrich",
@@ -52702,9 +52701,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OqTUXL868to",
-    "youtubeTitle": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d58fc17ecbff5ad2",
@@ -53553,7 +53552,7 @@
   },
   {
     "id": "2ac9ff2eb5f7acbd",
-    "title": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+    "title": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
     "name": "Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016/Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "folder": "Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016",
@@ -53562,7 +53561,6 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Feminismus",
-      "Rolf Pohl",
       "Sexualität"
     ],
     "size": "",
@@ -53571,9 +53569,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=1zsvCqhGydE",
+    "youtubeTitle": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+    "matchScore": 0.92
   },
   {
     "id": "7fba44a3b60b210a",
@@ -57341,7 +57339,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57349,8 +57347,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
-      "Marx"
+      "Islamismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57358,8 +57355,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4ccOSjhdd40",
+    "youtubeTitle": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "matchScore": 0.92
   },
   {
