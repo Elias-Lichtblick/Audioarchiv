@@ -30816,7 +30816,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30824,7 +30824,8 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus"
+      "Anarchismus",
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30833,7 +30834,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "matchScore": 0.92
   },
   {
@@ -51381,7 +51382,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "title": "Walter Benjamins Geschichtsphilosophie",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51397,9 +51398,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
-    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-    "matchScore": 0.93
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d61597ea3400c321",
@@ -51799,9 +51800,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
+    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
+    "matchScore": 0.767
   },
   {
     "id": "c073048a51b80e63",
@@ -53700,9 +53701,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
-    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-    "matchScore": 0.85
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d0663005b442cb2a",
@@ -57337,7 +57338,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57345,8 +57346,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
-      "Marx"
+      "Islamismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57354,8 +57354,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4ccOSjhdd40",
+    "youtubeTitle": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "matchScore": 0.92
   },
   {
