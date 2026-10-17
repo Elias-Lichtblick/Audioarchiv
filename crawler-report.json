@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 131,
-  "title_replaced": 97,
+  "enriched": 129,
+  "title_replaced": 95,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -24,7 +24,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -36,7 +36,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -291,12 +291,6 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -719,12 +713,6 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
-      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
-    },
-    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -732,15 +720,15 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Podium",
-      "youtube": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
+      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=SfFc0SzX10s"
+      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
     },
     {
       "audio": "Vortrag baumann",
@@ -750,7 +738,7 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
