@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 119,
-  "title_replaced": 87,
+  "enriched": 123,
+  "title_replaced": 92,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -65,6 +65,60 @@
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
     },
     {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 1",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre oktoberrevolution – 2",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 3",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 4",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 5",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 6",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 7",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
+      "audio": "Jahre – oktoberrevolution – 8",
+      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
+    },
+    {
       "audio": "Kritische Theorie",
       "youtube": "Kritische Theorie des Hörens & Negative Anthropologie nach Ulrich Sonnemann (2021)",
       "score": 0.93,
@@ -93,12 +147,6 @@
       "youtube": "Postmoderne Seinslehre – Über die Unmöglichkeit poststrukturalistischer Gesellschaftskritik (2022)",
       "score": 0.742,
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
-    },
-    {
-      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
-      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
     },
     {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
@@ -149,12 +197,6 @@
       "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
     },
     {
-      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
-      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
-    },
-    {
       "audio": "Lena Kirsch – Die Logik der Misogynie – 2018",
       "youtube": "Die Logik der Misogynie – Ein Vortrag von Lena Kirsch (2018)",
       "score": 0.92,
@@ -185,12 +227,6 @@
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
     },
     {
-      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
-      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
-      "score": 0.767,
-      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
-    },
-    {
       "audio": "Thomas Maul – Darum Negative Dialektik",
       "youtube": "Darum Negative Dialektik – Ein Vortrag von Thomas Maul",
       "score": 0.92,
@@ -216,9 +252,9 @@
     },
     {
       "audio": "Einfuehrung",
-      "youtube": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+      "youtube": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=iNnERo4VQRc"
+      "url": "https://www.youtube.com/watch?v=V0Rusuck7FU"
     },
     {
       "audio": "Lenin",
@@ -231,18 +267,6 @@
       "youtube": "Subjektive & objektive Momente physikalischer Erkenntnis – Ein Vortrag von Jörg Huber (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=eP-oRBjfi8U"
-    },
-    {
-      "audio": "Just In Monday – Wissenschaft ohne Wert – Zur Kritik der VWL",
-      "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -285,6 +309,18 @@
       "youtube": "Mein 1968 – Ein Gespräch mit Hannes Heer (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=pOLVReW8TnQ"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 01 – – Vortrag",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
+    },
+    {
+      "audio": "Magnus Klaue – Adorno Sartre und die Sehnsucht nach der positiven Freiheit – 02 – – Diskussion",
+      "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
+      "score": 0.805,
+      "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
     },
     {
       "audio": "Robert Kurz Zur Kritik der Arbeit",
@@ -479,12 +515,6 @@
       "url": "https://www.youtube.com/watch?v=upHWGQj7vuk"
     },
     {
-      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
-      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
-    },
-    {
       "audio": "Tilman Reitz – Utopie Spiel Menschenmaschine – Charles Fourier und die Avantgardebewegungen – 01 – – – Vortrag",
       "youtube": "Utopie – Spiel – Menschenmaschine – Ein Vortrag von Tilman Reitz über Charles Fourier & Surrealismus",
       "score": 0.805,
@@ -531,12 +561,6 @@
       "youtube": "Sehet die Lilien Über das Recht auf Faulheit",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
-    },
-    {
-      "audio": "Walter Benjamins Geschichtsphilosophie",
-      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-      "score": 0.93,
-      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
     },
     {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
@@ -605,6 +629,12 @@
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
     },
     {
+      "audio": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
+      "youtube": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
+    },
+    {
       "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
       "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
       "score": 0.85,
@@ -647,12 +677,6 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
-      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
-    },
-    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -684,13 +708,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
