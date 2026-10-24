@@ -1,15 +1,9 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 125,
-  "title_replaced": 92,
+  "enriched": 129,
+  "title_replaced": 95,
   "matches": [
-    {
-      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
-      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
-    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -24,7 +18,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -36,7 +30,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -149,6 +143,12 @@
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
     },
     {
+      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
+      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
+      "score": 0.789,
+      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
+    },
+    {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
       "youtube": "Die neue Marx – Lektüre des frühen Operaismus – Ein Vortrag von Christian Frings (2012)",
       "score": 0.92,
@@ -195,6 +195,12 @@
       "youtube": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
       "score": 0.894,
       "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
+    },
+    {
+      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
     },
     {
       "audio": "Lena Kirsch – Die Logik der Misogynie – 2018",
@@ -252,7 +258,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -279,6 +285,12 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
+    },
+    {
+      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
+      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -527,6 +539,12 @@
       "url": "https://www.youtube.com/watch?v=upHWGQj7vuk"
     },
     {
+      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
+    },
+    {
       "audio": "Tilman Reitz – Utopie Spiel Menschenmaschine – Charles Fourier und die Avantgardebewegungen – 01 – – – Vortrag",
       "youtube": "Utopie – Spiel – Menschenmaschine – Ein Vortrag von Tilman Reitz über Charles Fourier & Surrealismus",
       "score": 0.805,
@@ -591,6 +609,12 @@
       "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
       "score": 0.767,
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
+    },
+    {
+      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
+      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
     },
     {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
