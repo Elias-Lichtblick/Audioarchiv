@@ -24086,9 +24086,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PjrnUrtQL_0",
-    "youtubeTitle": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "25481d2eec8dd020",
@@ -25030,7 +25030,7 @@
   },
   {
     "id": "2a3e33fe80cff955",
-    "title": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+    "title": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
     "name": "Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Diethard_Behrens-Die_Befreiung_von_der_Knechtschaft.mp3",
     "folder": "Referate",
@@ -25038,7 +25038,6 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Diethard Behrens",
       "Roger Behrens"
     ],
     "size": "",
@@ -25047,9 +25046,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=a9kllhy58R0",
+    "youtubeTitle": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+    "matchScore": 0.92
   },
   {
     "id": "19df3016eecdd62f",
@@ -26879,7 +26878,7 @@
   },
   {
     "id": "f172ea1408c7f298",
-    "title": "Karl Reitter – Prozesse der Befreiung – Marx, Spinoza und die Bedingungen eines freien Gemeinwesens",
+    "title": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
     "name": "Karl_Reitter-Prozesse_der_Befreiung-Marx,_Spinoza_und_die_Bedingungen_eines_freien_Gemeinwesens.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Karl_Reitter-Prozesse_der_Befreiung-Marx%2C_Spinoza_und_die_Bedingungen_eines_freien_Gemeinwesens.mp3",
     "folder": "Referate",
@@ -26887,7 +26886,6 @@
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Karl Reitter",
       "Marx"
     ],
     "size": "",
@@ -26896,9 +26894,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=QuFD9WsUiBg",
+    "youtubeTitle": "Prozess der Befreiung: Marx, Spinoza & die Bedingungen eines freien Gemeinwesens",
+    "matchScore": 0.894
   },
   {
     "id": "12bac8a85dde6c7e",
@@ -26948,23 +26946,25 @@
   },
   {
     "id": "97c54bd3d859cd61",
-    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
     "name": "Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate",
     "path": "Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Kerstin Stakemeier"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
-    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "0a0847da4074a250",
@@ -30818,7 +30818,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30826,7 +30826,8 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus"
+      "Anarchismus",
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30835,12 +30836,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
     "matchScore": 0.92
   },
   {
     "id": "b20869c50312d9ad",
-    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "title": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
     "name": "08-einfuehrung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30849,7 +30850,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Anarchismus",
-      "Kapitalismus"
+      "Antisemitismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30857,8 +30858,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
-    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=V0Rusuck7FU",
+    "youtubeTitle": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
     "matchScore": 0.92
   },
   {
@@ -31503,23 +31504,25 @@
   },
   {
     "id": "5d767691c60a5098",
-    "title": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+    "title": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
     "name": "Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "folder": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland",
     "path": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "displayPath": "Referate / Auf einer Skala von eins bis zehn – Wie Scheisse ist Deutschland",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Clemens Nachtmann"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sgUQm8MWeIs",
-    "youtubeTitle": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "eb1f63f2ac21bb10",
@@ -47967,23 +47970,25 @@
   },
   {
     "id": "fbc8989d7d8e301a",
-    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
     "name": "Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate/Kunst_Spektakel_Revolution",
     "path": "Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate / Kunst Spektakel Revolution",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Kerstin Stakemeier"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
-    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "0e7b5e399d4a4023",
