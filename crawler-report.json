@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 115,
-  "title_replaced": 86,
+  "enriched": 116,
+  "title_replaced": 87,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -95,12 +95,6 @@
       "url": "https://www.youtube.com/watch?v=nng1H8u0LA4"
     },
     {
-      "audio": "Andreas Arndt – Der Begriff der Freiheit bei Hegel und Marx",
-      "youtube": "Der Begriff der Freiheit bei Hegel & Marx – Ein Vortrag von Prof Dr Arndt (2016)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=PjrnUrtQL_0"
-    },
-    {
       "audio": "Christian Frings – Die neue Marx – Lektuere des fruehen Operaismus",
       "youtube": "Die neue Marx – Lektüre des frühen Operaismus – Ein Vortrag von Christian Frings (2012)",
       "score": 0.92,
@@ -111,6 +105,12 @@
       "youtube": "Leo Koflers Philosophie der Praxis – Zur Aktualität eines verdrängten Marxisten – Von Dr Jünke",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=WNsWhc67tc4"
+    },
+    {
+      "audio": "Diethard Behrens – Die Befreiung von der Knechtschaft",
+      "youtube": "Die Befreiung von der Knechtschaft? Diethard Behrens über die russische Revolution & Stalinismus",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=a9kllhy58R0"
     },
     {
       "audio": "Jan Feldmann – Pierre – Joseph Proudhon – Vater des Anarchismus – Antifeminist und Antisemit – 1",
@@ -179,6 +179,12 @@
       "url": "https://www.youtube.com/watch?v=5k2QQVOHQxg"
     },
     {
+      "audio": "Thomas Marxhausen Konflikte um die Edition der Manuskripte von Marx Und Engels",
+      "youtube": "Konflikte um die Edition der Marx – Engels – Manuskripte (unvollständig)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=KLltKvoF3fQ"
+    },
+    {
       "audio": "Thomas Maul – Darum Negative Dialektik",
       "youtube": "Darum Negative Dialektik – Ein Vortrag von Thomas Maul",
       "score": 0.92,
@@ -198,7 +204,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -210,7 +216,7 @@
     },
     {
       "audio": "Lenin",
-      "youtube": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+      "youtube": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=4fXkGQ6dUBo"
     },
@@ -297,18 +303,6 @@
       "youtube": "Die Abwesenheit des Souveräns: Die Eurokrise & der Anti – EU – Populismus – Vortrag von Dr Scheit(2013)",
       "score": 0.805,
       "url": "https://www.youtube.com/watch?v=aTpNl7GF1K0"
-    },
-    {
-      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung",
-      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
-    },
-    {
-      "audio": "Gerhard Stapelfeldt zu Paulo Freires Paedagogik der Befreiung – gekuerzt",
-      "youtube": "Bildung & Revolution: Paulo Freires Pädagogik der Befreiung – Vortrag von Gerhard Stapelfeldt (2011)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=cYJ-XJqydmw"
     },
     {
       "audio": "Gerhard Stapelfeldt – Dialektische Kritik der liberalen Aufklärung und bgl Revolution",
@@ -423,6 +417,18 @@
       "youtube": "Geist & Opium: Religionskritik bei Hegel, Feuerbach & Marx – Ein Vortrag von Robert Schnepf (2013)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=2zzB4ljWDn8"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere mit anfang",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
     },
     {
       "audio": "Martin – blumentritt – Der Begriff der Natur bei Marx und Adorno",
@@ -636,15 +642,15 @@
     },
     {
       "audio": "Diskussion menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Podium",
-      "youtube": "Zur Kategorie der Arbeit | Ein Podium mit Daniel Göcht & Ernst Lohoff (2024)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=SfFc0SzX10s"
+      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Vortrag baumann",
@@ -654,7 +660,7 @@
     },
     {
       "audio": "Vortrag menke",
-      "youtube": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
