@@ -39243,9 +39243,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OO3ArRJlDMs",
-    "youtubeTitle": "Revolutionstheorie & ihre Kritik bei Marx und Adorno – Ein Vortrag von Dr Elbe (2021)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "b324ebe942bfaec9",
@@ -43265,9 +43265,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=YwKdSoEE5qM",
+    "youtubeTitle": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
+    "matchScore": 0.805
   },
   {
     "id": "25bcedab5907efc9",
@@ -46403,7 +46403,7 @@
   },
   {
     "id": "787a3e9886e59494",
-    "title": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+    "title": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
     "name": "Lukas-Holfeld_Hoelderlin_und_die_Versteinerung_der_Revolutionaere.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Kritische_Interventionen_Halle/Kunst_2013/Lukas-Holfeld_Hoelderlin_und_die_Versteinerung_der_Revolutionaere.MP3",
     "folder": "Referate/Kritische_Interventionen_Halle/Kunst_2013",
@@ -46417,9 +46417,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H2NZx1_styo",
-    "youtubeTitle": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "6dbf79f52e1d146c",
@@ -46437,9 +46437,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H2NZx1_styo",
-    "youtubeTitle": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "db6bd661ad400512",
@@ -51382,7 +51382,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "title": "Walter Benjamins Geschichtsphilosophie",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51398,9 +51398,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
-    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
-    "matchScore": 0.93
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d61597ea3400c321",
@@ -51800,9 +51800,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
+    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
+    "matchScore": 0.767
   },
   {
     "id": "c073048a51b80e63",
@@ -55973,7 +55973,7 @@
   },
   {
     "id": "91cfaf5818d727a9",
-    "title": "Echte Demokratie jetzt!? Kritiken des Parlamentarismus – Ein Vergleich",
+    "title": "Kritiken des Parlamentarismus – ein Vergleich",
     "name": "Kritiken_des_Parlamentarismus_-_ein_Vergleich.mp3",
     "url": "https://audioarchiv.k23.in/Referate/The_Future_is_unwritten-Leipzig/Kritiken_des_Parlamentarismus_-_ein_Vergleich.mp3",
     "folder": "Referate/The_Future_is_unwritten-Leipzig",
@@ -55987,9 +55987,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=xWEfTXF8PFc",
-    "youtubeTitle": "Echte Demokratie jetzt!? Kritiken des Parlamentarismus – Ein Vergleich",
-    "matchScore": 0.93
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "59a7ea6f97ec422d",
@@ -57093,13 +57093,25 @@
     "path": "Referate/Traditionalität_und_Aktualität/05_diskussion_baumann.mp3",
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Adorno",
+      "Kritische Theorie",
+      "Antisemitismus",
+      "Faschismus",
+      "Feminismus",
+      "Freud",
+      "Kapitalismus",
+      "Kulturindustrie",
+      "Literatur",
+      "Marx",
+      "Nationalsozialismus"
+    ],
     "size": "",
     "sizeBytes": 0,
-    "dateLabel": "",
-    "dateIso": "",
-    "sortDate": "",
-    "description": "",
+    "dateLabel": "03.09.2025",
+    "dateIso": "2025-09-03",
+    "sortDate": "2025-09-03",
+    "description": "1.  *Ausgangspunkt der Kritik*\nRadikale Kritik muss sich am *kategorischen Imperativ von Marx* orientieren, „alle Verhältnisse umzuwerfen, in denen der Mensch ein erniedrigtes, ein geknechtetes, ein verlassenes, ein verächtliches Wesen ist«. Angesichts der historischen Katastrophen (Faschismus, Shoah) muss dieser jedoch zwingend durch den *kategorischen Imperativ Adornos* ergänzt werden: Denken & Handeln so einzurichten, „dass Auschwitz nicht sich wiederhole“.\n\n2.  *Strategische Aufgabe der Situationistische Internationale*\nDie SI versuchte, eine „Nordwest-Passage“ zwischen der Kritik der politischen Ökonomie (Marx) & der Kritik der libidinösen Ökonomie (Freud) zu finden. Ihr Fokus lag auf dem *kapitalistischen Alltagleben im „Stande der Unfreiheit“,* um die Bedingungen der Möglichkeit einer Revolution neu zu erfinden.\n\n3.  *Zentrale Analysekategorien der SI*\n    *   *Kritik der spektakulären Warengesellschaft:* Das Spektakel ist nicht nur eine Ansammlung von Bildern, sondern die Konsequenz der totalen Besetzung des gesellschaftlichen Lebens durch die Ware. Es ist das zum Bild gewordene Kapital, das die Menschen zu passiven Zuschauern ihres eigenen, entfremdeten Lebens macht & als moderne, säkularisierte Form der Religion wirkt. Es manifestiert sich als *diffuses* (Westlicher Konsum), *konzentriertes* (Bürokratischer Staatskapitalismus) oder *integriertes* Spektakel (heutige globale Form).\n    *   *Kritik der Proletarisierung der Welt:* Diese beschreibt nicht nur ökonomische Ausbeutung, sondern die umfassende Trennung der Produzenten von ihren Lebensbedingungen & die Enteignung ihrer Fähigkeit, die gesellschaftliche Raum-Zeit zu gestalten. Dies führt zu einer „Armut im Reichtum“, bei der selbst im Überfluss ein elendes, weil fremdbestimmtes Dasein gefristet wird.\n    *   *Kritik des Alltäglichen:* Der Alltag ist der Ort, wo die Entfremdung am unmittelbarsten erfahren wird – als Monotonie, als Reproduktion, als Sphäre des „beraubten Lebens“ (*vie privée*). Zugleich ist er aber auch der Ort spontaner Ausbruchsversuche & geahnter, ungelebter Möglichkeiten.\n\n4.  *Kritik an der SI*\nEs gibt 2 entscheidende *blinde Flecken* in der situationistischen Theorie, die ihren eigenen Anspruch untergraben:\n    *   Das völlige Ausblenden der Singularität der *Shoah* & der deutschen Barbarei.\n    *   Die theoretische & praktische Blindheit gegenüber dem *stummen Zwang der Geschlechterverhältnisse.*\n\n5.  *Schlussfolgerung*\nDie proletarische Kritik ist heute gezwungen, sich nach dem Scheitern der letzten Anläufe  neu zu formieren. Eine bloße Wiederholung situationistischer Gesten wäre Rekuperation durch die Kulturindustrie. Stattdessen muss die situationistische Theorie selbst kritisiert und überwunden werden, ohne hinter ihr Niveau zurückzufallen, um die „Praxis der Theorie“ aus der Lähmung des Aktionismus und der Resignation zu befreien.\n\n---\nFolgerungen (TNT)\nA.  *Das Spektakel ist kein Schleier, sondern die Substanz* \nDie situationistische Analyse des Spektakels war prophetisch, aber unvollständig. Es ist nicht bloß eine Sammlung von Bildern, die die Realität verdecken; es ist die materielle Form, in der die abstrakte Herrschaft des Werts – jene „reale Abstraktion“, die Denken & Fühlen präformiert – zur sinnlichen Gewissheit wird. Die Kritik darf nicht beim Bild stehen bleiben, sondern muss die Logik der Wertform angreifen, die das Bild gebiert.\n\nB.  *Revolution als Ereignis ist tot / Kritik als Form muss leben* \nDie historische Epoche der proletarischen Anläufe, auf die sich die SI bezog, ist abgeschlossen. Jeder Versuch, sie künstlich wiederzubeleben, endet als Farce, als rekuperiertes Event im Spektakel, das es zu stürzen vorgab. Die Aufgabe ist nicht, die Revolution „neu zu erfinden“, sondern die Bedingungen zu schaffen, unter denen sie überhaupt wieder denkbar wird. Dies erfordert eine gnadenlose Kritik, die sich selbst nicht ausnimmt: eine Kritik der eigenen Begierde nach einfachen Lösungen, schnellen Aktionen und einem heroischen Subjekt.\n\nC.  *Negation muss konkret sein* \nDer Ausgangspunkt aller Kritik kann nur die Negation der absoluten Negation sein: Auschwitz. Eine kritische Theorie, die diesen historischen Nullpunkt nicht zu ihrem unhintergehbaren Fundament macht, wird unweigerlich regressiv. Sie verfällt entweder einem romantischen Antikapitalismus, der neue Formen der Volksgemeinschaft beschwört, oder einem zynischen Spiel, das die Tiefe der Barbarei verkennt. Dies impliziert auch die Zerstörung jeder Theorie, die den Antisemitismus verharmlost oder die Geschlechterverhältnisse als sekundären Widerspruch abtut. In einer Welt, in der die Totalität des Kapitals alles – vom Gedanken bis zur Geste der Rebellion – in sich zu integrieren scheint, liegt die einzig verbleibende subversive Kraft im Denken, das sich der Identifikation verweigert. \n\nQuelle: https://t1p.de/tyytj | CC BY-NC-SA 2.0 DE | https://rdl.de | https://www.clausbaumann.de\n\nhttps://www.youtube.com/playlist?list=PL8Q5JnLnxMAQ6BZx15VqkA1nMlw92iyVp",
     "youtubeUrl": "https://www.youtube.com/watch?v=lPDnwYhuzmo",
     "youtubeTitle": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
     "matchScore": 0.92
@@ -57166,7 +57178,7 @@
   },
   {
     "id": "aa847c68b18e5966",
-    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "13_diskussion_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/13_diskussion_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57174,6 +57186,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57183,7 +57196,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57337,7 +57350,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57345,7 +57358,8 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Islamismus"
+      "Christoph Menke",
+      "Marx"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57353,8 +57367,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=4ccOSjhdd40",
-    "youtubeTitle": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
@@ -57470,13 +57484,25 @@
     "path": "Referate/Traditionalität_und_Aktualität/04_vortrag_baumann.mp3",
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Adorno",
+      "Kritische Theorie",
+      "Antisemitismus",
+      "Faschismus",
+      "Feminismus",
+      "Freud",
+      "Kapitalismus",
+      "Kulturindustrie",
+      "Literatur",
+      "Marx",
+      "Nationalsozialismus"
+    ],
     "size": "",
     "sizeBytes": 0,
-    "dateLabel": "",
-    "dateIso": "",
-    "sortDate": "",
-    "description": "",
+    "dateLabel": "03.09.2025",
+    "dateIso": "2025-09-03",
+    "sortDate": "2025-09-03",
+    "description": "1.  *Ausgangspunkt der Kritik*\nRadikale Kritik muss sich am *kategorischen Imperativ von Marx* orientieren, „alle Verhältnisse umzuwerfen, in denen der Mensch ein erniedrigtes, ein geknechtetes, ein verlassenes, ein verächtliches Wesen ist«. Angesichts der historischen Katastrophen (Faschismus, Shoah) muss dieser jedoch zwingend durch den *kategorischen Imperativ Adornos* ergänzt werden: Denken & Handeln so einzurichten, „dass Auschwitz nicht sich wiederhole“.\n\n2.  *Strategische Aufgabe der Situationistische Internationale*\nDie SI versuchte, eine „Nordwest-Passage“ zwischen der Kritik der politischen Ökonomie (Marx) & der Kritik der libidinösen Ökonomie (Freud) zu finden. Ihr Fokus lag auf dem *kapitalistischen Alltagleben im „Stande der Unfreiheit“,* um die Bedingungen der Möglichkeit einer Revolution neu zu erfinden.\n\n3.  *Zentrale Analysekategorien der SI*\n    *   *Kritik der spektakulären Warengesellschaft:* Das Spektakel ist nicht nur eine Ansammlung von Bildern, sondern die Konsequenz der totalen Besetzung des gesellschaftlichen Lebens durch die Ware. Es ist das zum Bild gewordene Kapital, das die Menschen zu passiven Zuschauern ihres eigenen, entfremdeten Lebens macht & als moderne, säkularisierte Form der Religion wirkt. Es manifestiert sich als *diffuses* (Westlicher Konsum), *konzentriertes* (Bürokratischer Staatskapitalismus) oder *integriertes* Spektakel (heutige globale Form).\n    *   *Kritik der Proletarisierung der Welt:* Diese beschreibt nicht nur ökonomische Ausbeutung, sondern die umfassende Trennung der Produzenten von ihren Lebensbedingungen & die Enteignung ihrer Fähigkeit, die gesellschaftliche Raum-Zeit zu gestalten. Dies führt zu einer „Armut im Reichtum“, bei der selbst im Überfluss ein elendes, weil fremdbestimmtes Dasein gefristet wird.\n    *   *Kritik des Alltäglichen:* Der Alltag ist der Ort, wo die Entfremdung am unmittelbarsten erfahren wird – als Monotonie, als Reproduktion, als Sphäre des „beraubten Lebens“ (*vie privée*). Zugleich ist er aber auch der Ort spontaner Ausbruchsversuche & geahnter, ungelebter Möglichkeiten.\n\n4.  *Kritik an der SI*\nEs gibt 2 entscheidende *blinde Flecken* in der situationistischen Theorie, die ihren eigenen Anspruch untergraben:\n    *   Das völlige Ausblenden der Singularität der *Shoah* & der deutschen Barbarei.\n    *   Die theoretische & praktische Blindheit gegenüber dem *stummen Zwang der Geschlechterverhältnisse.*\n\n5.  *Schlussfolgerung*\nDie proletarische Kritik ist heute gezwungen, sich nach dem Scheitern der letzten Anläufe  neu zu formieren. Eine bloße Wiederholung situationistischer Gesten wäre Rekuperation durch die Kulturindustrie. Stattdessen muss die situationistische Theorie selbst kritisiert und überwunden werden, ohne hinter ihr Niveau zurückzufallen, um die „Praxis der Theorie“ aus der Lähmung des Aktionismus und der Resignation zu befreien.\n\n---\nFolgerungen (TNT)\nA.  *Das Spektakel ist kein Schleier, sondern die Substanz* \nDie situationistische Analyse des Spektakels war prophetisch, aber unvollständig. Es ist nicht bloß eine Sammlung von Bildern, die die Realität verdecken; es ist die materielle Form, in der die abstrakte Herrschaft des Werts – jene „reale Abstraktion“, die Denken & Fühlen präformiert – zur sinnlichen Gewissheit wird. Die Kritik darf nicht beim Bild stehen bleiben, sondern muss die Logik der Wertform angreifen, die das Bild gebiert.\n\nB.  *Revolution als Ereignis ist tot / Kritik als Form muss leben* \nDie historische Epoche der proletarischen Anläufe, auf die sich die SI bezog, ist abgeschlossen. Jeder Versuch, sie künstlich wiederzubeleben, endet als Farce, als rekuperiertes Event im Spektakel, das es zu stürzen vorgab. Die Aufgabe ist nicht, die Revolution „neu zu erfinden“, sondern die Bedingungen zu schaffen, unter denen sie überhaupt wieder denkbar wird. Dies erfordert eine gnadenlose Kritik, die sich selbst nicht ausnimmt: eine Kritik der eigenen Begierde nach einfachen Lösungen, schnellen Aktionen und einem heroischen Subjekt.\n\nC.  *Negation muss konkret sein* \nDer Ausgangspunkt aller Kritik kann nur die Negation der absoluten Negation sein: Auschwitz. Eine kritische Theorie, die diesen historischen Nullpunkt nicht zu ihrem unhintergehbaren Fundament macht, wird unweigerlich regressiv. Sie verfällt entweder einem romantischen Antikapitalismus, der neue Formen der Volksgemeinschaft beschwört, oder einem zynischen Spiel, das die Tiefe der Barbarei verkennt. Dies impliziert auch die Zerstörung jeder Theorie, die den Antisemitismus verharmlost oder die Geschlechterverhältnisse als sekundären Widerspruch abtut. In einer Welt, in der die Totalität des Kapitals alles – vom Gedanken bis zur Geste der Rebellion – in sich zu integrieren scheint, liegt die einzig verbleibende subversive Kraft im Denken, das sich der Identifikation verweigert. \n\nQuelle: https://t1p.de/tyytj | CC BY-NC-SA 2.0 DE | https://rdl.de | https://www.clausbaumann.de\n\nhttps://www.youtube.com/playlist?list=PL8Q5JnLnxMAQ6BZx15VqkA1nMlw92iyVp",
     "youtubeUrl": "https://www.youtube.com/watch?v=lPDnwYhuzmo",
     "youtubeTitle": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
     "matchScore": 0.92
@@ -57543,7 +57569,7 @@
   },
   {
     "id": "b1abb47a2c80385c",
-    "title": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "name": "12_vortrag_menke.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/12_vortrag_menke.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57551,6 +57577,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christoph Menke",
       "Marx"
     ],
     "size": "",
@@ -57560,7 +57587,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & the Critique of Law – A Panel with Christoph Menke & André Kistner (2015)",
+    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
     "matchScore": 0.92
   },
   {
