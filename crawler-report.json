@@ -1,15 +1,9 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 127,
-  "title_replaced": 94,
+  "enriched": 126,
+  "title_replaced": 92,
   "matches": [
-    {
-      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
-      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
-    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -24,7 +18,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -36,7 +30,7 @@
     },
     {
       "audio": "Die Revolution in der Revolution",
-      "youtube": "Reformation – Revolution – Transformation: Bewahren, Verändern & Überwinden (2025)",
+      "youtube": "Reformation – Revolution – Transformation: Preserving, Changing & Overcoming (2025)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=EBUBOtndH8k"
     },
@@ -264,7 +258,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -291,12 +285,6 @@
       "youtube": "Die Wissenschaft ohne Wert: Zur Kritik der Volkswirtschaftslehre – Ein Vortrag von Just In Monday",
       "score": 0.789,
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
-    },
-    {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
     },
     {
       "audio": "Leo Elser – Jargon der Israelkritik",
@@ -351,12 +339,6 @@
       "youtube": "Adorno, Sartre & die Sehnsucht nach der positiven Freiheit – Ein Vortrag von Dr Klaue (2011)",
       "score": 0.805,
       "url": "https://www.youtube.com/watch?v=z0YM0HthZ3A"
-    },
-    {
-      "audio": "Robert Kurz Zur Kritik der Arbeit",
-      "youtube": "Zur Kritik der Arbeit – Ein Vortrag von Robert Kurz (2005)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Mn-qzWwcBkc"
     },
     {
       "audio": "Frigga Haug – Marx und der Feminismus",
@@ -432,8 +414,8 @@
     },
     {
       "audio": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
-      "youtube": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-      "score": 0.92,
+      "youtube": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+      "score": 0.789,
       "url": "https://www.youtube.com/watch?v=L35aOObyPtI"
     },
     {
@@ -453,12 +435,6 @@
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
-    },
-    {
-      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
-      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
     },
     {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
@@ -501,6 +477,18 @@
       "youtube": "Geist & Opium: Religionskritik bei Hegel, Feuerbach & Marx – Ein Vortrag von Robert Schnepf (2013)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=2zzB4ljWDn8"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
+    },
+    {
+      "audio": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere mit anfang",
+      "youtube": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+      "score": 0.767,
+      "url": "https://www.youtube.com/watch?v=H2NZx1_styo"
     },
     {
       "audio": "Martin – blumentritt – Der Begriff der Natur bei Marx und Adorno",
@@ -587,6 +575,12 @@
       "url": "https://www.youtube.com/watch?v=9YoPGyNWo78"
     },
     {
+      "audio": "Walter Benjamins Geschichtsphilosophie",
+      "youtube": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=u31VK4uXc18"
+    },
+    {
       "audio": "Alex Demirovic – Wie normativ ist die Marxsche Kritik der kapitalistischen Gesellschaft",
       "youtube": "Wie normativ ist die Marx'sche Kritik der kapitalistischen Gesellschaft? – Vortrag v Alex Demirović",
       "score": 0.778,
@@ -603,12 +597,6 @@
       "youtube": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
       "score": 0.767,
       "url": "https://www.youtube.com/watch?v=TJ3kJI7lWU0"
-    },
-    {
-      "audio": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
-      "youtube": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=q_rldrXtmUw"
     },
     {
       "audio": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
@@ -683,6 +671,12 @@
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
     },
     {
+      "audio": "Kritiken des Parlamentarismus – ein Vergleich",
+      "youtube": "Echte Demokratie jetzt!? Kritiken des Parlamentarismus – Ein Vergleich",
+      "score": 0.93,
+      "url": "https://www.youtube.com/watch?v=xWEfTXF8PFc"
+    },
+    {
       "audio": "Parlamentarismuskritik in Zeiten des Rechtsrucks",
       "youtube": "Gestern radikal – heute Landtagswahl: Parlamentarismuskritik in Zeiten des Rechtsrucks",
       "score": 0.93,
@@ -732,13 +726,13 @@
     },
     {
       "audio": "Zunke – – diskussion",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
     {
       "audio": "Zunke – – vortrag",
-      "youtube": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+      "youtube": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=nme7JCAzc88"
     },
