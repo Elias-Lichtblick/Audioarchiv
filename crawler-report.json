@@ -1,9 +1,15 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 134,
-  "title_replaced": 98,
+  "enriched": 121,
+  "title_replaced": 87,
   "matches": [
+    {
+      "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
+      "youtube": "Der ehrbare Antisemitismus: Über Jean Améry – Ein Vortrag von Dr Scheit & Holmes (2002)",
+      "score": 0.92,
+      "url": "https://www.youtube.com/watch?v=PCPBy0-Dl9s"
+    },
     {
       "audio": "Postone, Lohoff, Bruhn – Die Arbeit, der Wert, die Krise (1)",
       "youtube": "Die Arbeit, der Wert, die Krise – Podium mit Moishe Postone, Ernst Lohoff & Joachim Bruhn (2000)",
@@ -57,60 +63,6 @@
       "youtube": "Pourquoi Israël – Ein Gespräch mit Claude Lanzmann (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 2",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 3",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 4",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 5",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 6",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 7",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 8",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
     },
     {
       "audio": "Kritische Theorie",
@@ -258,7 +210,7 @@
     },
     {
       "audio": "Bakunin",
-      "youtube": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
+      "youtube": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=XpyFIPMwtXU"
     },
@@ -453,18 +405,6 @@
       "youtube": "Negation & Widerstand: Die „Subversive Theorie“ von Johannes Agnoli – Ein Vortrag von Ali Ma (2018)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
-    },
-    {
-      "audio": "Dienstag 02 Fiona Kalkstein Sozialpsychologische Perspektiven auf den Faschismus",
-      "youtube": "Sozialpsychologische Perspektiven auf den Faschismus – Ein Vortrag von Dr Fiona Kalkstein (2025)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=ufx1j-OrTDc"
-    },
-    {
-      "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
-      "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=2VNpbKSQpTo"
     },
     {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
@@ -695,18 +635,6 @@
       "url": "https://www.youtube.com/watch?v=E26jXqFBjZo"
     },
     {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 1",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
-      "audio": "Entkorkte Flaschenpost – Kritische Theorie und Student innenbewegung 2",
-      "youtube": "Entkorkte Flaschenpost: Über Adorno, Marcuse, Kritische Theorie & Student innenbewegung (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=EOYzWslJckI"
-    },
-    {
       "audio": "Roger Behrens – Kulturindustrie und soziale Herrschaft – Disk",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.767,
@@ -737,12 +665,6 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
-      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus – Ein Vortrag von Stephan Grigat (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JqthEnm_Gnc"
-    },
-    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -756,9 +678,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
+      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Vortrag baumann",
