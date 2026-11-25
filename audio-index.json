@@ -92,7 +92,7 @@
   },
   {
     "id": "a2103640f2ff3509",
-    "title": "Die Gottespest von Johann Most",
+    "title": "Johann Most – Die Gottespest",
     "name": "Johann_Most-Die_Gottespest.mp3",
     "url": "https://audioarchiv.k23.in/Radio/Johann_Most-Die_Gottespest.mp3",
     "folder": "Radio",
@@ -100,6 +100,7 @@
     "displayPath": "Radio",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Johann Most",
       "Radio"
     ],
     "size": "",
@@ -108,9 +109,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=FesHOk5tz0Y",
-    "youtubeTitle": "Die Gottespest von Johann Most",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "50a64bfa138d3389",
@@ -8202,7 +8203,7 @@
   },
   {
     "id": "6384bfc71bd0fb0b",
-    "title": "Teil 1 – Was ist Kapitalismus",
+    "title": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
     "name": "Teil_1-Was_ist_Kapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Radio/NPC_von_Radio_FREI/Robert_Kurz-Das_Weltkapital/Teil_1-Was_ist_Kapitalismus.mp3",
     "folder": "Radio/NPC_von_Radio_FREI/Robert_Kurz-Das_Weltkapital",
@@ -8219,9 +8220,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OqTUXL868to",
+    "youtubeTitle": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+    "matchScore": 0.92
   },
   {
     "id": "909ce7e896505258",
@@ -25582,9 +25583,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=jW7mqiZs8g8",
-    "youtubeTitle": "In den Wald gehen & sterben: Über Moral & Politik – Vortrag von Felix Klopotek (2016)",
-    "matchScore": 0.818
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "1e05c3d7866f0676",
@@ -26945,25 +26946,23 @@
   },
   {
     "id": "97c54bd3d859cd61",
-    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
     "name": "Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate",
     "path": "Referate/Kerstin_Stakemeier-Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Kerstin Stakemeier"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
+    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "0a0847da4074a250",
@@ -30817,7 +30816,7 @@
   },
   {
     "id": "bdc973c99d3ccb99",
-    "title": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "title": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
     "name": "01-bakunin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/01-bakunin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30825,8 +30824,7 @@
     "displayPath": "Referate / Anarchismus / Libert�re Reihe",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Anarchismus",
-      "Antisemitismus"
+      "Anarchismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30835,12 +30833,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=XpyFIPMwtXU",
-    "youtubeTitle": "Michail Alexandrowitsch Bakunin | Explosion des globalen Antisemitismus (51)",
+    "youtubeTitle": "Mikhail Alexandrovich Bakunin | Explosion of Global Antisemitism (51)",
     "matchScore": 0.92
   },
   {
     "id": "b20869c50312d9ad",
-    "title": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+    "title": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
     "name": "08-einfuehrung.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/08-einfuehrung.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30849,7 +30847,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Anarchismus",
-      "Antisemitismus"
+      "Kapitalismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -30857,13 +30855,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=V0Rusuck7FU",
-    "youtubeTitle": "Einführung Antisemitismuskritik & linker Antisemitismus | Ein Vortrag von Peter Schulz (2025)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iNnERo4VQRc",
+    "youtubeTitle": "Die abstrakte Gewalt des Kapitals: Einführung in die Kritik der politischen Ökonomie (2018)",
     "matchScore": 0.92
   },
   {
     "id": "c315c3ae073dd69d",
-    "title": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "title": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "name": "10-lenin.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Anarchismus/Libert%E4re%20Reihe/10-lenin.mp3",
     "folder": "Referate/Anarchismus/Libert�re Reihe",
@@ -30880,7 +30878,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=4fXkGQ6dUBo",
-    "youtubeTitle": "Zur Kritik an Lenin – Ein Vortrag von Raban Witt (2014)",
+    "youtubeTitle": "On the Critique of Lenin – A Lecture by Raban Witt (2014)",
     "matchScore": 0.92
   },
   {
@@ -31503,23 +31501,25 @@
   },
   {
     "id": "5d767691c60a5098",
-    "title": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
+    "title": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
     "name": "Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "folder": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland",
     "path": "Referate/Auf_einer_Skala_von_eins_bis_zehn-Wie_Scheisse_ist_Deutschland/Clemens_Nachtmann-Vom_Altern_antideutscher_Kritik.mp3",
     "displayPath": "Referate / Auf einer Skala von eins bis zehn – Wie Scheisse ist Deutschland",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Clemens Nachtmann"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=sgUQm8MWeIs",
-    "youtubeTitle": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "eb1f63f2ac21bb10",
@@ -32236,25 +32236,23 @@
   },
   {
     "id": "937306c12c7377cf",
-    "title": "Proletariat als Prozess: Von den Marx'schen Kategorien zur Aktualität – Ein Vortrag von Zwi",
+    "title": "Zwi Proletariat Als Prozess",
     "name": "Zwi.Proletariat_Als_Prozess.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Biene_Baumeister_Zwi_Negator/Zwi.Proletariat_Als_Prozess.mp3",
     "folder": "Referate/Biene_Baumeister_Zwi_Negator",
     "path": "Referate/Biene_Baumeister_Zwi_Negator/Zwi.Proletariat_Als_Prozess.mp3",
     "displayPath": "Referate / Biene Baumeister Zwi Negator",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Marx"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ImDSnOVWlzI",
-    "youtubeTitle": "Proletariat als Prozess: Von den Marx'schen Kategorien zur Aktualität – Ein Vortrag von Zwi",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "a14c2c3694ee1d9e",
@@ -37790,7 +37788,7 @@
   },
   {
     "id": "14c2094b0197137a",
-    "title": "Adorno & Brecht – Ein Vortrag von Dr Gerhard Scheit (2011)",
+    "title": "Adorno & Brecht – A Lecture by Dr Gerhard Scheit (2011)",
     "name": "Gerhard_Scheit.Adorno_und_Brecht.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Gerhard_Scheit/Gerhard_Scheit.Adorno_und_Brecht.mp3",
     "folder": "Referate/Gerhard_Scheit",
@@ -37807,7 +37805,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=d-6qVDWPsCk",
-    "youtubeTitle": "Adorno & Brecht – Ein Vortrag von Dr Gerhard Scheit (2011)",
+    "youtubeTitle": "Adorno & Brecht – A Lecture by Dr Gerhard Scheit (2011)",
     "matchScore": 0.92
   },
   {
@@ -38089,9 +38087,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=RlJhjPU5EmM",
-    "youtubeTitle": "Dialektische Kritik der liberalen Aufklärung & bürgerlichen Revolution – Vortrag v Stapelfeldt",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "39790246a9d2ac67",
@@ -38288,7 +38286,7 @@
   },
   {
     "id": "01a4885e56d046d5",
-    "title": "Zum Verhaeltnis von Krise und Kritik (Diskussion)",
+    "title": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
     "name": "Zum_Verhaeltnis_von_Krise_und_Kritik_(Diskussion).mp3",
     "url": "https://audioarchiv.k23.in/Referate/Gerhard_Stapelfeldt/Zum_Verhaeltnis_von_Krise_und_Kritik_%28Diskussion%29.mp3",
     "folder": "Referate/Gerhard_Stapelfeldt",
@@ -38302,9 +38300,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=XGIpVrkKU3Y",
+    "youtubeTitle": "Zum Verhältnis von Krise und Kritik – Ein Vortrag von Gerhard Stapelfeldt (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "2d43a68262cfb301",
@@ -41874,9 +41872,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=QxPIwGeGBqo",
-    "youtubeTitle": "Die politische Ökonomie des Antisemitismus – Ein Vortrag von Joachim Bruhn (2011)",
-    "matchScore": 0.789
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "5ee60d7c6c182104",
@@ -41903,16 +41901,14 @@
   },
   {
     "id": "39bc467d0b7f6fc3",
-    "title": "Joachim Bruhn – Philipp Schweizer – Proletariat Klasse Revolution",
+    "title": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
     "name": "Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "folder": "Referate/Joachim_Bruhn",
     "path": "Referate/Joachim_Bruhn/Joachim_Bruhn-Philipp_Schweizer-Proletariat_Klasse_Revolution.MP3",
     "displayPath": "Referate / Joachim Bruhn",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Joachim Bruhn"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
@@ -41920,8 +41916,8 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=L35aOObyPtI",
-    "youtubeTitle": "Proletariat? Class? Revolution? A Debate between Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
-    "matchScore": 0.789
+    "youtubeTitle": "Proletariat? Klasse? Revolution? Eine Debatte zwischen Joachim Bruhn (ISF) & Philipp Schweizer (SJD)",
+    "matchScore": 0.92
   },
   {
     "id": "97615f48e07f8b79",
@@ -41971,23 +41967,25 @@
   },
   {
     "id": "0cdc644a5915330e",
-    "title": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
+    "title": "Joerg Huber – Der Aberglaube des Positivismus",
     "name": "Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "folder": "Referate/Joerg_Huber",
     "path": "Referate/Joerg_Huber/Joerg_Huber-Der_Aberglaube_des_Positivismus.mp3",
     "displayPath": "Referate / Joerg Huber",
     "source": "K23 Audioarchiv",
-    "tags": [],
+    "tags": [
+      "Joerg Huber"
+    ],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=z6H1_1KF9Ls",
-    "youtubeTitle": "Der Aberglaube des Positivismus – Ein Vortrag von Jörg Huber (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "89a94f2b2f8c2f56",
@@ -45911,9 +45909,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=m2Y2VeQhIM0",
+    "youtubeTitle": "Martin Luther & die Juden: War Luther Antisemit? – Ein Vortrag von Andreas Pangritz (2014)",
+    "matchScore": 0.767
   },
   {
     "id": "b5d0364ab5e463d1",
@@ -45933,9 +45931,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=m2Y2VeQhIM0",
+    "youtubeTitle": "Martin Luther & die Juden: War Luther Antisemit? – Ein Vortrag von Andreas Pangritz (2014)",
+    "matchScore": 0.767
   },
   {
     "id": "167e824166dc27b7",
@@ -46408,7 +46406,7 @@
   },
   {
     "id": "787a3e9886e59494",
-    "title": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
+    "title": "Lukas – Holfeld Hoelderlin und die Versteinerung der Revolutionaere",
     "name": "Lukas-Holfeld_Hoelderlin_und_die_Versteinerung_der_Revolutionaere.MP3",
     "url": "https://audioarchiv.k23.in/Referate/Kritische_Interventionen_Halle/Kunst_2013/Lukas-Holfeld_Hoelderlin_und_die_Versteinerung_der_Revolutionaere.MP3",
     "folder": "Referate/Kritische_Interventionen_Halle/Kunst_2013",
@@ -46422,9 +46420,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H2NZx1_styo",
-    "youtubeTitle": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "6dbf79f52e1d146c",
@@ -46442,9 +46440,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H2NZx1_styo",
-    "youtubeTitle": "Hölderlin & die Versteinerung der Revolutionäre – Ein Vortrag von Lukas Holfeld (2013)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "db6bd661ad400512",
@@ -47971,25 +47969,23 @@
   },
   {
     "id": "fbc8989d7d8e301a",
-    "title": "Kerstin Stakemeier – Konstruktivismus als Realismus",
+    "title": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
     "name": "Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "folder": "Referate/Kunst_Spektakel_Revolution",
     "path": "Referate/Kunst_Spektakel_Revolution/Kerstin_Stakemeier_-_Konstruktivismus_als_Realismus.mp3",
     "displayPath": "Referate / Kunst Spektakel Revolution",
     "source": "K23 Audioarchiv",
-    "tags": [
-      "Kerstin Stakemeier"
-    ],
+    "tags": [],
     "size": "",
     "sizeBytes": 0,
     "dateLabel": "",
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=Z43cXarVhp4",
+    "youtubeTitle": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
+    "matchScore": 0.92
   },
   {
     "id": "0e7b5e399d4a4023",
@@ -51389,7 +51385,7 @@
   },
   {
     "id": "8be23baa88c0a48d",
-    "title": "Walter Benjamins Geschichtsphilosophie",
+    "title": "Über Walter Benjamins Geschichtsphilosophie (2008)",
     "name": "Walter_Benjamins_Geschichtsphilosophie.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marcus_Hawel/Walter_Benjamins_Geschichtsphilosophie.mp3",
     "folder": "Referate/Marcus_Hawel",
@@ -51405,9 +51401,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=u31VK4uXc18",
+    "youtubeTitle": "Über Walter Benjamins Geschichtsphilosophie (2008)",
+    "matchScore": 0.93
   },
   {
     "id": "d61597ea3400c321",
@@ -51807,13 +51803,13 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TJ3kJI7lWU0",
-    "youtubeTitle": "Das Marx'sche \"Kapital\" in Zeiten der Finanzkrise – Ein Vortrag von Michael Heinrich (2012)",
-    "matchScore": 0.767
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "c073048a51b80e63",
-    "title": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
+    "title": "Christian Schmidt – Natur und Arbeit – Über die Rolle der Praxis bei Karl Marx",
     "name": "Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "url": "https://audioarchiv.k23.in/Referate/MarxExpedition-Leipzig/2013/Christian_Schmidt-Natur_und_Arbeit-Ueber_die_Rolle_der_Praxis_bei_Karl_Marx.mp3",
     "folder": "Referate/MarxExpedition-Leipzig/2013",
@@ -51821,6 +51817,7 @@
     "displayPath": "Referate / Marx Expedition – Leipzig / 2013",
     "source": "K23 Audioarchiv",
     "tags": [
+      "Christian Schmidt",
       "Marx"
     ],
     "size": "",
@@ -51829,9 +51826,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=q_rldrXtmUw",
-    "youtubeTitle": "Natur & Arbeit: Über die Rolle der Praxis bei Karl Marx – Vortrag von Christian Schmidt (incomplete)",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "dac0fc4de3cabc37",
@@ -52136,7 +52133,7 @@
   },
   {
     "id": "16503f4c46882381",
-    "title": "Kornelia Hafner – Zur Frage des Gebrauchswertfetischismus",
+    "title": "Zur Frage des Gebrauchswertfetischismus – Ein Vortrag von Kornelia Hafner (2012)",
     "name": "Kornelia_Hafner-Zur_Frage_des_Gebrauchswertfetischismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Marx-Herbstschule_2011/Kornelia_Hafner-Zur_Frage_des_Gebrauchswertfetischismus.mp3",
     "folder": "Referate/Marx-Herbstschule_2011",
@@ -52144,7 +52141,6 @@
     "displayPath": "Referate / Marx – Herbstschule 2011",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Kornelia Hafner",
       "Marx"
     ],
     "size": "",
@@ -52153,9 +52149,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=SEFevnpGe7w",
+    "youtubeTitle": "Zur Frage des Gebrauchswertfetischismus – Ein Vortrag von Kornelia Hafner (2012)",
+    "matchScore": 0.92
   },
   {
     "id": "cb6de168ff9bac70",
@@ -52692,7 +52688,7 @@
   },
   {
     "id": "77bdf0a889ef6f28",
-    "title": "Was ist Kapitalismus",
+    "title": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
     "name": "Was_ist_Kapitalismus.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Michael_Heinrich/Was_ist_Kapitalismus.mp3",
     "folder": "Referate/Michael_Heinrich",
@@ -52708,9 +52704,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "",
-    "youtubeTitle": "",
-    "matchScore": 0.0
+    "youtubeUrl": "https://www.youtube.com/watch?v=OqTUXL868to",
+    "youtubeTitle": "Was ist eigentlich Kapitalismus? Einführung in die Kritik der Politischen Ökonomie (2010)",
+    "matchScore": 0.92
   },
   {
     "id": "d58fc17ecbff5ad2",
@@ -53559,7 +53555,7 @@
   },
   {
     "id": "2ac9ff2eb5f7acbd",
-    "title": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
+    "title": "Rolf Pohl – Die maennliche Subjektkonstitution – Sexualität – Gewalt – Abwehr des Weiblichen",
     "name": "Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016/Rolf_Pohl-Die_maennliche_Subjektkonstitution-Sexualitaet-Gewalt-Abwehr_des_Weiblichen.mp3",
     "folder": "Referate/Not_a_Compliment-Kritik_des_Geschlechterverhaeltnisses-HH-2016",
@@ -53568,6 +53564,7 @@
     "source": "K23 Audioarchiv",
     "tags": [
       "Feminismus",
+      "Rolf Pohl",
       "Sexualität"
     ],
     "size": "",
@@ -53576,9 +53573,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=1zsvCqhGydE",
-    "youtubeTitle": "Die männliche Subjektkonstitution – Männliche Sexualität, Gewalt & die Abwehr des Weiblichen",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "7fba44a3b60b210a",
@@ -53709,9 +53706,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UWnG5CQ3vFw",
-    "youtubeTitle": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-    "matchScore": 0.85
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "d0663005b442cb2a",
@@ -57346,7 +57343,7 @@
   },
   {
     "id": "476a4a953bade7a7",
-    "title": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "title": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "name": "20_podium.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/20_podium.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57354,8 +57351,7 @@
     "displayPath": "Referate / Traditionalität und Aktualität",
     "source": "K23 Audioarchiv",
     "tags": [
-      "Christoph Menke",
-      "Marx"
+      "Islamismus"
     ],
     "size": "",
     "sizeBytes": 0,
@@ -57363,8 +57359,8 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=-VwkdxIbK8g",
-    "youtubeTitle": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4ccOSjhdd40",
+    "youtubeTitle": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
     "matchScore": 0.92
   },
   {
@@ -57636,7 +57632,7 @@
   },
   {
     "id": "3b56c33df55c16d2",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "07_zunke_diskussion.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/07_zunke_diskussion.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57651,12 +57647,12 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
     "id": "881502d35677ebb1",
-    "title": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "title": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "name": "06_zunke_vortrag.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Traditionalit%C3%A4t_und_Aktualit%C3%A4t/06_zunke_vortrag.mp3",
     "folder": "Referate/Traditionalität_und_Aktualität",
@@ -57671,7 +57667,7 @@
     "sortDate": "",
     "description": "",
     "youtubeUrl": "https://www.youtube.com/watch?v=nme7JCAzc88",
-    "youtubeTitle": "Kritik der Naturwissenschaften – Ein Vortrag von Dr Zunke (2017)",
+    "youtubeTitle": "Critique of the natural sciences – A lecture by Dr Zunke (2017)",
     "matchScore": 0.92
   },
   {
@@ -58214,7 +58210,7 @@
   },
   {
     "id": "9c7054b67ae275fb",
-    "title": "Kampf der Kulturen oder War of Ideas? – Ein Vortrag von Andreas Benl",
+    "title": "2017 – 04 – 24 benl andreas – kampf der kulturen oder war of ideas",
     "name": "2017-04-24_benl_andreas-kampf_der_kulturen_oder_war_of_ideas.mp3",
     "url": "https://audioarchiv.k23.in/Referate/Unsere_schoene_Postmoderne-Oldenburg-2017/2017-04-24_benl_andreas-kampf_der_kulturen_oder_war_of_ideas.mp3",
     "folder": "Referate/Unsere_schoene_Postmoderne-Oldenburg-2017",
@@ -58228,9 +58224,9 @@
     "dateIso": "",
     "sortDate": "",
     "description": "",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OdCfwh9GjdM",
-    "youtubeTitle": "Kampf der Kulturen oder War of Ideas? – Ein Vortrag von Andreas Benl",
-    "matchScore": 0.92
+    "youtubeUrl": "",
+    "youtubeTitle": "",
+    "matchScore": 0.0
   },
   {
     "id": "8317128835d0ef3c",
