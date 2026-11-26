@@ -1,8 +1,8 @@
 {
   "tracks": 2711,
   "videos": 500,
-  "enriched": 133,
-  "title_replaced": 97,
+  "enriched": 115,
+  "title_replaced": 84,
   "matches": [
     {
       "audio": "Der ehrbare Antisemitismus (G Scheit, M Holmes)",
@@ -63,60 +63,6 @@
       "youtube": "Pourquoi Israël – Ein Gespräch mit Claude Lanzmann (2010)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=RZD0KlBK63U"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 1",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre oktoberrevolution – 2",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 3",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 4",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 5",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 6",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 7",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
-    },
-    {
-      "audio": "Jahre – oktoberrevolution – 8",
-      "youtube": "Jahre Oktoberrevolution – Rückblick auf einen unverzeihlichen Fehler – Interview mit Dr Decker",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=M81PSEpdnws"
     },
     {
       "audio": "Kritische Theorie",
@@ -203,12 +149,6 @@
       "url": "https://www.youtube.com/watch?v=QuFD9WsUiBg"
     },
     {
-      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
-      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
-    },
-    {
       "audio": "Lena Kirsch – Die Logik der Misogynie – 2018",
       "youtube": "Die Logik der Misogynie – Ein Vortrag von Lena Kirsch (2018)",
       "score": 0.92,
@@ -293,12 +233,6 @@
       "url": "https://www.youtube.com/watch?v=nkj8dAhZd7A"
     },
     {
-      "audio": "Clemens Nachtmann – Vom Altern antideutscher Kritik",
-      "youtube": "Vom Altern antideutscher Kritik: Über Fortschritt & Regression | Vortrag v Clemens Nachtmann (2013)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=sgUQm8MWeIs"
-    },
-    {
       "audio": "Leo Elser – Jargon der Israelkritik",
       "youtube": "Jargon der Israelkritik – Ein Vortrag von Leo Elser (2013)",
       "score": 0.92,
@@ -366,7 +300,7 @@
     },
     {
       "audio": "Gerhard Scheit Adorno und Brecht",
-      "youtube": "Adorno & Brecht – Ein Vortrag von Dr Gerhard Scheit (2011)",
+      "youtube": "Adorno & Brecht – A Lecture by Dr Gerhard Scheit (2011)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=d-6qVDWPsCk"
     },
@@ -461,18 +395,6 @@
       "url": "https://www.youtube.com/watch?v=-EDrBpCFgKQ"
     },
     {
-      "audio": "Martin Mettin – Figuren des dialektischen Hoerens bei Benjamin",
-      "youtube": "Figuren dialektischen Hörens bei Benjamin – Ein Vortrag von Martin Mettin (2020)",
-      "score": 0.805,
-      "url": "https://www.youtube.com/watch?v=YwKdSoEE5qM"
-    },
-    {
-      "audio": "Olaf Kistenmacher – Rosa Luxemburgs Kritik der nationalen Befreiung",
-      "youtube": "Luxemburgs Kritik der \"nationalen Befreiung\" – Ein Vortrag von Olaf Kistenmacher (2024)",
-      "score": 0.789,
-      "url": "https://www.youtube.com/watch?v=2VNpbKSQpTo"
-    },
-    {
       "audio": "Roger Behrens – Marx 1968 und die Subjektkritik",
       "youtube": "Marx, 1968 & die Subjektkritik – Ein Vortrag von Dr Roger Behrens (2018)",
       "score": 0.92,
@@ -533,18 +455,6 @@
       "url": "https://www.youtube.com/watch?v=pKU3LOmgEUo"
     },
     {
-      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 1",
-      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-      "score": 0.861,
-      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
-    },
-    {
-      "audio": "Lars Quadfasel – Die Abgruende der Autonomie Zur Kritik von Freiheit und Subjektivitaet 2",
-      "youtube": "Die Abgründe der Autonomie: Zur Kritik von Freiheit & Subjektivität (2011)",
-      "score": 0.861,
-      "url": "https://www.youtube.com/watch?v=RlUIxIjBUlY"
-    },
-    {
       "audio": "Sebastian Winter Geschlechterordnung",
       "youtube": "Die Geschlechterordnung und der Trieb – Ein Vortrag von Sebastian Winter (2016)",
       "score": 0.92,
@@ -555,12 +465,6 @@
       "youtube": "Wahnmachen: Eine Adoleszenzkrise des völkischen Protests – Vortrag von Tom Uhlig (2016)",
       "score": 0.92,
       "url": "https://www.youtube.com/watch?v=upHWGQj7vuk"
-    },
-    {
-      "audio": "Kerstin Stakemeier – Konstruktivismus als Realismus",
-      "youtube": "Konstruktivismus als Realismus – Ein Vortrag von Kerstin Stakemeier (2009)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=Z43cXarVhp4"
     },
     {
       "audio": "Tilman Reitz – Utopie Spiel Menschenmaschine – Charles Fourier und die Avantgardebewegungen – 01 – – – Vortrag",
@@ -689,12 +593,6 @@
       "url": "https://www.youtube.com/watch?v=1zsvCqhGydE"
     },
     {
-      "audio": "Olaf Kistenmacher – Einf in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg",
-      "youtube": "Einführung in die Kritik des Antiimperialismus Eine notwendige Erinnerung an Rosa Luxemburg (2012)",
-      "score": 0.85,
-      "url": "https://www.youtube.com/watch?v=UWnG5CQ3vFw"
-    },
-    {
       "audio": "Diktatur der Angepassten",
       "youtube": "Die Diktatur der Angepassten: Kulturindustrie & soziale Herrschaft – Ein Vortrag von Roger Behrens",
       "score": 0.93,
@@ -731,12 +629,6 @@
       "url": "https://www.youtube.com/watch?v=G1ybOqerxcg"
     },
     {
-      "audio": "Stephan Grigat – Kritische Theorie des Zionismus",
-      "youtube": "Kritische Theorie des Zionismus & der Antizionismus der Linken – Vortrag von Stephan Grigat (2018)",
-      "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=JlGNPntyn_s"
-    },
-    {
       "audio": "Diskussion baumann",
       "youtube": "Die situationistische Revolutionstheorie – Ein Vortrag von Dr Claus Baumann (2005)",
       "score": 0.92,
@@ -750,9 +642,9 @@
     },
     {
       "audio": "Podium",
-      "youtube": "Left in Darkness: Die Linke, der Islamismus & die Frage der globalen Solidarität | Podium (2024)",
+      "youtube": "Marx & die Kritik des Rechts – Ein Podium mit Christoph Menke & André Kistner (2015)",
       "score": 0.92,
-      "url": "https://www.youtube.com/watch?v=4ccOSjhdd40"
+      "url": "https://www.youtube.com/watch?v=-VwkdxIbK8g"
     },
     {
       "audio": "Vortrag baumann",
